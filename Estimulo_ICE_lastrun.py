@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 This experiment was created using PsychoPy3 Experiment Builder (v2024.2.4),
-    on março 13, 2025, at 01:49
+    on março 14, 2025, at 16:50
 If you publish work using this script the most relevant publication is:
 
     Peirce J, Gray JR, Simpson S, MacAskill M, Höchenberger R, Sogo H, Kastman E, Lindeløv JK. (2019) 
@@ -380,6 +380,13 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         color=[1,1,1], colorSpace='rgb', opacity=None,
         flipHoriz=False, flipVert=False,
         texRes=128.0, interpolate=True, depth=-1.0)
+    polygon = visual.ShapeStim(
+        win=win, name='polygon',
+        size=(0.005, 0.005), vertices='circle',
+        ori=0.0, pos=(0, 0), draggable=False, anchor='center',
+        lineWidth=1.0,
+        colorSpace='rgb', lineColor=[-1.0000, 1.0000, -0.0039], fillColor=[-1.0000, 1.0000, -0.0039],
+        opacity=None, depth=-2.0, interpolate=True)
     
     # --- Initialize components for Routine "trial_2" ---
     image_3 = visual.ImageStim(
@@ -398,6 +405,13 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         color=[1,1,1], colorSpace='rgb', opacity=None,
         flipHoriz=False, flipVert=False,
         texRes=128.0, interpolate=True, depth=-1.0)
+    polygon_2 = visual.ShapeStim(
+        win=win, name='polygon_2',
+        size=(0.005, 0.005), vertices='circle',
+        ori=0.0, pos=(0, 0), draggable=False, anchor='center',
+        lineWidth=1.0,
+        colorSpace='rgb', lineColor=[-1.0000, 1.0000, -0.0039], fillColor=[-1.0000, 1.0000, -0.0039],
+        opacity=None, depth=-2.0, interpolate=True)
     
     # --- Initialize components for Routine "trial" ---
     image = visual.ImageStim(
@@ -416,6 +430,13 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         color=[1,1,1], colorSpace='rgb', opacity=None,
         flipHoriz=False, flipVert=False,
         texRes=128.0, interpolate=True, depth=-1.0)
+    polygon = visual.ShapeStim(
+        win=win, name='polygon',
+        size=(0.005, 0.005), vertices='circle',
+        ori=0.0, pos=(0, 0), draggable=False, anchor='center',
+        lineWidth=1.0,
+        colorSpace='rgb', lineColor=[-1.0000, 1.0000, -0.0039], fillColor=[-1.0000, 1.0000, -0.0039],
+        opacity=None, depth=-2.0, interpolate=True)
     
     # --- Initialize components for Routine "trial_2" ---
     image_3 = visual.ImageStim(
@@ -434,6 +455,13 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         color=[1,1,1], colorSpace='rgb', opacity=None,
         flipHoriz=False, flipVert=False,
         texRes=128.0, interpolate=True, depth=-1.0)
+    polygon_2 = visual.ShapeStim(
+        win=win, name='polygon_2',
+        size=(0.005, 0.005), vertices='circle',
+        ori=0.0, pos=(0, 0), draggable=False, anchor='center',
+        lineWidth=1.0,
+        colorSpace='rgb', lineColor=[-1.0000, 1.0000, -0.0039], fillColor=[-1.0000, 1.0000, -0.0039],
+        opacity=None, depth=-2.0, interpolate=True)
     
     # --- Initialize components for Routine "trial" ---
     image = visual.ImageStim(
@@ -452,6 +480,13 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         color=[1,1,1], colorSpace='rgb', opacity=None,
         flipHoriz=False, flipVert=False,
         texRes=128.0, interpolate=True, depth=-1.0)
+    polygon = visual.ShapeStim(
+        win=win, name='polygon',
+        size=(0.005, 0.005), vertices='circle',
+        ori=0.0, pos=(0, 0), draggable=False, anchor='center',
+        lineWidth=1.0,
+        colorSpace='rgb', lineColor=[-1.0000, 1.0000, -0.0039], fillColor=[-1.0000, 1.0000, -0.0039],
+        opacity=None, depth=-2.0, interpolate=True)
     
     # --- Initialize components for Routine "trial_2" ---
     image_3 = visual.ImageStim(
@@ -470,6 +505,13 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         color=[1,1,1], colorSpace='rgb', opacity=None,
         flipHoriz=False, flipVert=False,
         texRes=128.0, interpolate=True, depth=-1.0)
+    polygon_2 = visual.ShapeStim(
+        win=win, name='polygon_2',
+        size=(0.005, 0.005), vertices='circle',
+        ori=0.0, pos=(0, 0), draggable=False, anchor='center',
+        lineWidth=1.0,
+        colorSpace='rgb', lineColor=[-1.0000, 1.0000, -0.0039], fillColor=[-1.0000, 1.0000, -0.0039],
+        opacity=None, depth=-2.0, interpolate=True)
     
     # --- Initialize components for Routine "trial" ---
     image = visual.ImageStim(
@@ -488,6 +530,13 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         color=[1,1,1], colorSpace='rgb', opacity=None,
         flipHoriz=False, flipVert=False,
         texRes=128.0, interpolate=True, depth=-1.0)
+    polygon = visual.ShapeStim(
+        win=win, name='polygon',
+        size=(0.005, 0.005), vertices='circle',
+        ori=0.0, pos=(0, 0), draggable=False, anchor='center',
+        lineWidth=1.0,
+        colorSpace='rgb', lineColor=[-1.0000, 1.0000, -0.0039], fillColor=[-1.0000, 1.0000, -0.0039],
+        opacity=None, depth=-2.0, interpolate=True)
     
     # --- Initialize components for Routine "trial_2" ---
     image_3 = visual.ImageStim(
@@ -506,6 +555,13 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         color=[1,1,1], colorSpace='rgb', opacity=None,
         flipHoriz=False, flipVert=False,
         texRes=128.0, interpolate=True, depth=-1.0)
+    polygon_2 = visual.ShapeStim(
+        win=win, name='polygon_2',
+        size=(0.005, 0.005), vertices='circle',
+        ori=0.0, pos=(0, 0), draggable=False, anchor='center',
+        lineWidth=1.0,
+        colorSpace='rgb', lineColor=[-1.0000, 1.0000, -0.0039], fillColor=[-1.0000, 1.0000, -0.0039],
+        opacity=None, depth=-2.0, interpolate=True)
     
     # --- Initialize components for Routine "trial_3" ---
     image_5 = visual.ImageStim(
@@ -524,6 +580,13 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         color=[1,1,1], colorSpace='rgb', opacity=None,
         flipHoriz=False, flipVert=True,
         texRes=128.0, interpolate=True, depth=-1.0)
+    polygon_3 = visual.ShapeStim(
+        win=win, name='polygon_3',
+        size=(0.005, 0.005), vertices='circle',
+        ori=0.0, pos=(0, 0), draggable=False, anchor='center',
+        lineWidth=1.0,
+        colorSpace='rgb', lineColor=[-1.0000, 1.0000, -0.0039], fillColor=[-1.0000, 1.0000, -0.0039],
+        opacity=None, depth=-2.0, interpolate=True)
     
     # --- Initialize components for Routine "trial_4" ---
     image_7 = visual.ImageStim(
@@ -542,6 +605,13 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         color=[1,1,1], colorSpace='rgb', opacity=None,
         flipHoriz=False, flipVert=False,
         texRes=128.0, interpolate=True, depth=-1.0)
+    polygon_4 = visual.ShapeStim(
+        win=win, name='polygon_4',
+        size=(0.005, 0.005), vertices='circle',
+        ori=0.0, pos=(0, 0), draggable=False, anchor='center',
+        lineWidth=1.0,
+        colorSpace='rgb', lineColor=[-1.0000, 1.0000, -0.0039], fillColor=[-1.0000, 1.0000, -0.0039],
+        opacity=None, depth=-2.0, interpolate=True)
     
     # --- Initialize components for Routine "trial_3" ---
     image_5 = visual.ImageStim(
@@ -560,6 +630,13 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         color=[1,1,1], colorSpace='rgb', opacity=None,
         flipHoriz=False, flipVert=True,
         texRes=128.0, interpolate=True, depth=-1.0)
+    polygon_3 = visual.ShapeStim(
+        win=win, name='polygon_3',
+        size=(0.005, 0.005), vertices='circle',
+        ori=0.0, pos=(0, 0), draggable=False, anchor='center',
+        lineWidth=1.0,
+        colorSpace='rgb', lineColor=[-1.0000, 1.0000, -0.0039], fillColor=[-1.0000, 1.0000, -0.0039],
+        opacity=None, depth=-2.0, interpolate=True)
     
     # --- Initialize components for Routine "trial_4" ---
     image_7 = visual.ImageStim(
@@ -578,6 +655,13 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         color=[1,1,1], colorSpace='rgb', opacity=None,
         flipHoriz=False, flipVert=False,
         texRes=128.0, interpolate=True, depth=-1.0)
+    polygon_4 = visual.ShapeStim(
+        win=win, name='polygon_4',
+        size=(0.005, 0.005), vertices='circle',
+        ori=0.0, pos=(0, 0), draggable=False, anchor='center',
+        lineWidth=1.0,
+        colorSpace='rgb', lineColor=[-1.0000, 1.0000, -0.0039], fillColor=[-1.0000, 1.0000, -0.0039],
+        opacity=None, depth=-2.0, interpolate=True)
     
     # --- Initialize components for Routine "trial_3" ---
     image_5 = visual.ImageStim(
@@ -596,6 +680,13 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         color=[1,1,1], colorSpace='rgb', opacity=None,
         flipHoriz=False, flipVert=True,
         texRes=128.0, interpolate=True, depth=-1.0)
+    polygon_3 = visual.ShapeStim(
+        win=win, name='polygon_3',
+        size=(0.005, 0.005), vertices='circle',
+        ori=0.0, pos=(0, 0), draggable=False, anchor='center',
+        lineWidth=1.0,
+        colorSpace='rgb', lineColor=[-1.0000, 1.0000, -0.0039], fillColor=[-1.0000, 1.0000, -0.0039],
+        opacity=None, depth=-2.0, interpolate=True)
     
     # --- Initialize components for Routine "trial_4" ---
     image_7 = visual.ImageStim(
@@ -614,6 +705,13 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         color=[1,1,1], colorSpace='rgb', opacity=None,
         flipHoriz=False, flipVert=False,
         texRes=128.0, interpolate=True, depth=-1.0)
+    polygon_4 = visual.ShapeStim(
+        win=win, name='polygon_4',
+        size=(0.005, 0.005), vertices='circle',
+        ori=0.0, pos=(0, 0), draggable=False, anchor='center',
+        lineWidth=1.0,
+        colorSpace='rgb', lineColor=[-1.0000, 1.0000, -0.0039], fillColor=[-1.0000, 1.0000, -0.0039],
+        opacity=None, depth=-2.0, interpolate=True)
     
     # --- Initialize components for Routine "trial_3" ---
     image_5 = visual.ImageStim(
@@ -632,6 +730,13 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         color=[1,1,1], colorSpace='rgb', opacity=None,
         flipHoriz=False, flipVert=True,
         texRes=128.0, interpolate=True, depth=-1.0)
+    polygon_3 = visual.ShapeStim(
+        win=win, name='polygon_3',
+        size=(0.005, 0.005), vertices='circle',
+        ori=0.0, pos=(0, 0), draggable=False, anchor='center',
+        lineWidth=1.0,
+        colorSpace='rgb', lineColor=[-1.0000, 1.0000, -0.0039], fillColor=[-1.0000, 1.0000, -0.0039],
+        opacity=None, depth=-2.0, interpolate=True)
     
     # --- Initialize components for Routine "trial_4" ---
     image_7 = visual.ImageStim(
@@ -650,6 +755,222 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         color=[1,1,1], colorSpace='rgb', opacity=None,
         flipHoriz=False, flipVert=False,
         texRes=128.0, interpolate=True, depth=-1.0)
+    polygon_4 = visual.ShapeStim(
+        win=win, name='polygon_4',
+        size=(0.005, 0.005), vertices='circle',
+        ori=0.0, pos=(0, 0), draggable=False, anchor='center',
+        lineWidth=1.0,
+        colorSpace='rgb', lineColor=[-1.0000, 1.0000, -0.0039], fillColor=[-1.0000, 1.0000, -0.0039],
+        opacity=None, depth=-2.0, interpolate=True)
+    
+    # --- Initialize components for Routine "trial_5" ---
+    image_9 = visual.ImageStim(
+        win=win,
+        name='image_9', units='cm', 
+        image='WhatsApp Image 2025-02-06 at 18.13.49.jpeg', mask=None, anchor='center',
+        ori=0.0, pos=[0,0], draggable=False, size=(2, 2),
+        color=[1,1,1], colorSpace='rgb', opacity=None,
+        flipHoriz=False, flipVert=False,
+        texRes=128.0, interpolate=True, depth=0.0)
+    image_10 = visual.ImageStim(
+        win=win,
+        name='image_10', units='cm', 
+        image='WhatsApp Image 2025-02-06 at 18.13.49.jpeg', mask=None, anchor='center',
+        ori=0.0, pos=[0,0], draggable=False, size=(2, 2),
+        color=[1,1,1], colorSpace='rgb', opacity=None,
+        flipHoriz=False, flipVert=False,
+        texRes=128.0, interpolate=True, depth=-1.0)
+    polygon_6 = visual.ShapeStim(
+        win=win, name='polygon_6',
+        size=(0.005, 0.005), vertices='circle',
+        ori=0.0, pos=(0, 0), draggable=False, anchor='center',
+        lineWidth=1.0,
+        colorSpace='rgb', lineColor=[-1.0000, 1.0000, -0.0039], fillColor=[-1.0000, 1.0000, -0.0039],
+        opacity=None, depth=-2.0, interpolate=True)
+    
+    # --- Initialize components for Routine "trial_6" ---
+    image_11 = visual.ImageStim(
+        win=win,
+        name='image_11', units='cm', 
+        image='WhatsApp Image 2025-02-06 at 18.13.49.jpeg', mask=None, anchor='center',
+        ori=0.0, pos=[0,0], draggable=False, size=(2, 2),
+        color=[1,1,1], colorSpace='rgb', opacity=None,
+        flipHoriz=False, flipVert=False,
+        texRes=128.0, interpolate=True, depth=0.0)
+    image_12 = visual.ImageStim(
+        win=win,
+        name='image_12', units='cm', 
+        image='WhatsApp Image 2025-02-06 at 18.13.49.jpeg', mask=None, anchor='center',
+        ori=0.0, pos=[0,0], draggable=False, size=(2, 2),
+        color=[1,1,1], colorSpace='rgb', opacity=None,
+        flipHoriz=False, flipVert=False,
+        texRes=128.0, interpolate=True, depth=-1.0)
+    polygon_7 = visual.ShapeStim(
+        win=win, name='polygon_7',
+        size=(0.005, 0.005), vertices='circle',
+        ori=0.0, pos=(0, 0), draggable=False, anchor='center',
+        lineWidth=1.0,
+        colorSpace='rgb', lineColor=[-1.0000, 1.0000, -0.0039], fillColor=[-1.0000, 1.0000, -0.0039],
+        opacity=None, depth=-2.0, interpolate=True)
+    
+    # --- Initialize components for Routine "trial_5" ---
+    image_9 = visual.ImageStim(
+        win=win,
+        name='image_9', units='cm', 
+        image='WhatsApp Image 2025-02-06 at 18.13.49.jpeg', mask=None, anchor='center',
+        ori=0.0, pos=[0,0], draggable=False, size=(2, 2),
+        color=[1,1,1], colorSpace='rgb', opacity=None,
+        flipHoriz=False, flipVert=False,
+        texRes=128.0, interpolate=True, depth=0.0)
+    image_10 = visual.ImageStim(
+        win=win,
+        name='image_10', units='cm', 
+        image='WhatsApp Image 2025-02-06 at 18.13.49.jpeg', mask=None, anchor='center',
+        ori=0.0, pos=[0,0], draggable=False, size=(2, 2),
+        color=[1,1,1], colorSpace='rgb', opacity=None,
+        flipHoriz=False, flipVert=False,
+        texRes=128.0, interpolate=True, depth=-1.0)
+    polygon_6 = visual.ShapeStim(
+        win=win, name='polygon_6',
+        size=(0.005, 0.005), vertices='circle',
+        ori=0.0, pos=(0, 0), draggable=False, anchor='center',
+        lineWidth=1.0,
+        colorSpace='rgb', lineColor=[-1.0000, 1.0000, -0.0039], fillColor=[-1.0000, 1.0000, -0.0039],
+        opacity=None, depth=-2.0, interpolate=True)
+    
+    # --- Initialize components for Routine "trial_6" ---
+    image_11 = visual.ImageStim(
+        win=win,
+        name='image_11', units='cm', 
+        image='WhatsApp Image 2025-02-06 at 18.13.49.jpeg', mask=None, anchor='center',
+        ori=0.0, pos=[0,0], draggable=False, size=(2, 2),
+        color=[1,1,1], colorSpace='rgb', opacity=None,
+        flipHoriz=False, flipVert=False,
+        texRes=128.0, interpolate=True, depth=0.0)
+    image_12 = visual.ImageStim(
+        win=win,
+        name='image_12', units='cm', 
+        image='WhatsApp Image 2025-02-06 at 18.13.49.jpeg', mask=None, anchor='center',
+        ori=0.0, pos=[0,0], draggable=False, size=(2, 2),
+        color=[1,1,1], colorSpace='rgb', opacity=None,
+        flipHoriz=False, flipVert=False,
+        texRes=128.0, interpolate=True, depth=-1.0)
+    polygon_7 = visual.ShapeStim(
+        win=win, name='polygon_7',
+        size=(0.005, 0.005), vertices='circle',
+        ori=0.0, pos=(0, 0), draggable=False, anchor='center',
+        lineWidth=1.0,
+        colorSpace='rgb', lineColor=[-1.0000, 1.0000, -0.0039], fillColor=[-1.0000, 1.0000, -0.0039],
+        opacity=None, depth=-2.0, interpolate=True)
+    
+    # --- Initialize components for Routine "trial_5" ---
+    image_9 = visual.ImageStim(
+        win=win,
+        name='image_9', units='cm', 
+        image='WhatsApp Image 2025-02-06 at 18.13.49.jpeg', mask=None, anchor='center',
+        ori=0.0, pos=[0,0], draggable=False, size=(2, 2),
+        color=[1,1,1], colorSpace='rgb', opacity=None,
+        flipHoriz=False, flipVert=False,
+        texRes=128.0, interpolate=True, depth=0.0)
+    image_10 = visual.ImageStim(
+        win=win,
+        name='image_10', units='cm', 
+        image='WhatsApp Image 2025-02-06 at 18.13.49.jpeg', mask=None, anchor='center',
+        ori=0.0, pos=[0,0], draggable=False, size=(2, 2),
+        color=[1,1,1], colorSpace='rgb', opacity=None,
+        flipHoriz=False, flipVert=False,
+        texRes=128.0, interpolate=True, depth=-1.0)
+    polygon_6 = visual.ShapeStim(
+        win=win, name='polygon_6',
+        size=(0.005, 0.005), vertices='circle',
+        ori=0.0, pos=(0, 0), draggable=False, anchor='center',
+        lineWidth=1.0,
+        colorSpace='rgb', lineColor=[-1.0000, 1.0000, -0.0039], fillColor=[-1.0000, 1.0000, -0.0039],
+        opacity=None, depth=-2.0, interpolate=True)
+    
+    # --- Initialize components for Routine "trial_6" ---
+    image_11 = visual.ImageStim(
+        win=win,
+        name='image_11', units='cm', 
+        image='WhatsApp Image 2025-02-06 at 18.13.49.jpeg', mask=None, anchor='center',
+        ori=0.0, pos=[0,0], draggable=False, size=(2, 2),
+        color=[1,1,1], colorSpace='rgb', opacity=None,
+        flipHoriz=False, flipVert=False,
+        texRes=128.0, interpolate=True, depth=0.0)
+    image_12 = visual.ImageStim(
+        win=win,
+        name='image_12', units='cm', 
+        image='WhatsApp Image 2025-02-06 at 18.13.49.jpeg', mask=None, anchor='center',
+        ori=0.0, pos=[0,0], draggable=False, size=(2, 2),
+        color=[1,1,1], colorSpace='rgb', opacity=None,
+        flipHoriz=False, flipVert=False,
+        texRes=128.0, interpolate=True, depth=-1.0)
+    polygon_7 = visual.ShapeStim(
+        win=win, name='polygon_7',
+        size=(0.005, 0.005), vertices='circle',
+        ori=0.0, pos=(0, 0), draggable=False, anchor='center',
+        lineWidth=1.0,
+        colorSpace='rgb', lineColor=[-1.0000, 1.0000, -0.0039], fillColor=[-1.0000, 1.0000, -0.0039],
+        opacity=None, depth=-2.0, interpolate=True)
+    
+    # --- Initialize components for Routine "trial_5" ---
+    image_9 = visual.ImageStim(
+        win=win,
+        name='image_9', units='cm', 
+        image='WhatsApp Image 2025-02-06 at 18.13.49.jpeg', mask=None, anchor='center',
+        ori=0.0, pos=[0,0], draggable=False, size=(2, 2),
+        color=[1,1,1], colorSpace='rgb', opacity=None,
+        flipHoriz=False, flipVert=False,
+        texRes=128.0, interpolate=True, depth=0.0)
+    image_10 = visual.ImageStim(
+        win=win,
+        name='image_10', units='cm', 
+        image='WhatsApp Image 2025-02-06 at 18.13.49.jpeg', mask=None, anchor='center',
+        ori=0.0, pos=[0,0], draggable=False, size=(2, 2),
+        color=[1,1,1], colorSpace='rgb', opacity=None,
+        flipHoriz=False, flipVert=False,
+        texRes=128.0, interpolate=True, depth=-1.0)
+    polygon_6 = visual.ShapeStim(
+        win=win, name='polygon_6',
+        size=(0.005, 0.005), vertices='circle',
+        ori=0.0, pos=(0, 0), draggable=False, anchor='center',
+        lineWidth=1.0,
+        colorSpace='rgb', lineColor=[-1.0000, 1.0000, -0.0039], fillColor=[-1.0000, 1.0000, -0.0039],
+        opacity=None, depth=-2.0, interpolate=True)
+    
+    # --- Initialize components for Routine "trial_6" ---
+    image_11 = visual.ImageStim(
+        win=win,
+        name='image_11', units='cm', 
+        image='WhatsApp Image 2025-02-06 at 18.13.49.jpeg', mask=None, anchor='center',
+        ori=0.0, pos=[0,0], draggable=False, size=(2, 2),
+        color=[1,1,1], colorSpace='rgb', opacity=None,
+        flipHoriz=False, flipVert=False,
+        texRes=128.0, interpolate=True, depth=0.0)
+    image_12 = visual.ImageStim(
+        win=win,
+        name='image_12', units='cm', 
+        image='WhatsApp Image 2025-02-06 at 18.13.49.jpeg', mask=None, anchor='center',
+        ori=0.0, pos=[0,0], draggable=False, size=(2, 2),
+        color=[1,1,1], colorSpace='rgb', opacity=None,
+        flipHoriz=False, flipVert=False,
+        texRes=128.0, interpolate=True, depth=-1.0)
+    polygon_7 = visual.ShapeStim(
+        win=win, name='polygon_7',
+        size=(0.005, 0.005), vertices='circle',
+        ori=0.0, pos=(0, 0), draggable=False, anchor='center',
+        lineWidth=1.0,
+        colorSpace='rgb', lineColor=[-1.0000, 1.0000, -0.0039], fillColor=[-1.0000, 1.0000, -0.0039],
+        opacity=None, depth=-2.0, interpolate=True)
+    
+    # --- Initialize components for Routine "_intertrial_interval_" ---
+    polygon_5 = visual.ShapeStim(
+        win=win, name='polygon_5',
+        size=(0.005, 0.005), vertices='circle',
+        ori=0.0, pos=(0, 0), draggable=False, anchor='center',
+        lineWidth=1.0,
+        colorSpace='rgb', lineColor='red', fillColor='red',
+        opacity=None, depth=0.0, interpolate=True)
     
     # create some handy timers
     
@@ -761,6 +1082,11 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                 rep6 = 0
                 rep7 = 0
                 rep8 = 0
+                rep9 = 0
+                rep10 = 0
+                rep11 = 0
+                rep12 = 0
+                
             elif LoopName == 'Estimulo_2':
                 rep1 = 0
                 rep2 = 1
@@ -770,6 +1096,11 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                 rep6 = 0
                 rep7 = 0
                 rep8 = 0
+                rep9 = 0
+                rep10 = 0
+                rep11 = 0
+                rep12 = 0
+                
             elif LoopName == 'Estimulo_3':
                 rep1 = 0
                 rep2 = 0
@@ -779,6 +1110,11 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                 rep6 = 0
                 rep7 = 0
                 rep8 = 0
+                rep9 = 0
+                rep10 = 0
+                rep11 = 0
+                rep12 = 0
+                
             elif LoopName == 'Estimulo_4':
                 rep1 = 0
                 rep2 = 0
@@ -788,6 +1124,11 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                 rep6 = 0
                 rep7 = 0
                 rep8 = 0
+                rep9 = 0
+                rep10 = 0
+                rep11 = 0
+                rep12 = 0
+                
             elif LoopName == 'Estimulo_5':
                 rep1 = 0
                 rep2 = 0
@@ -797,6 +1138,11 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                 rep6 = 0
                 rep7 = 0
                 rep8 = 0
+                rep9 = 0
+                rep10 = 0
+                rep11 = 0
+                rep12 = 0
+                
             elif LoopName == 'Estimulo_6':
                 rep1 = 0
                 rep2 = 0
@@ -806,6 +1152,11 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                 rep6 = 1
                 rep7 = 0
                 rep8 = 0
+                rep9 = 0
+                rep10 = 0
+                rep11 = 0
+                rep12 = 0
+                
             elif LoopName == 'Estimulo_7':
                 rep1 = 0
                 rep2 = 0
@@ -815,6 +1166,11 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                 rep6 = 0
                 rep7 = 1
                 rep8 = 0
+                rep9 = 0
+                rep10 = 0
+                rep11 = 0
+                rep12 = 0
+                
             elif LoopName == 'Estimulo_8':
                 rep1 = 0
                 rep2 = 0
@@ -824,6 +1180,66 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                 rep6 = 0
                 rep7 = 0
                 rep8 = 1
+                rep9 = 0
+                rep10 = 0
+                rep11 = 0
+                rep12 = 0
+            
+            elif LoopName == 'Estimulo_9':
+                rep1 = 0
+                rep2 = 0
+                rep3 = 0
+                rep4 = 0
+                rep5 = 0
+                rep6 = 0
+                rep7 = 0
+                rep8 = 0
+                rep9 = 1
+                rep10 = 0
+                rep11 = 0
+                rep12 = 0
+                
+            elif LoopName == 'Estimulo_10':
+                rep1 = 0
+                rep2 = 0
+                rep3 = 0
+                rep4 = 0
+                rep5 = 0
+                rep6 = 0
+                rep7 = 0
+                rep8 = 0
+                rep9 = 0
+                rep10 = 1
+                rep11 = 0
+                rep12 = 0
+                
+            elif LoopName == 'Estimulo_11':
+                rep1 = 0
+                rep2 = 0
+                rep3 = 0
+                rep4 = 0
+                rep5 = 0
+                rep6 = 0
+                rep7 = 0
+                rep8 = 0
+                rep9 = 0
+                rep10 = 0
+                rep11 = 1
+                rep12 = 0
+                
+            elif LoopName == 'Estimulo_12':
+                rep1 = 0
+                rep2 = 0
+                rep3 = 0
+                rep4 = 0
+                rep5 = 0
+                rep6 = 0
+                rep7 = 0
+                rep8 = 0
+                rep9 = 0
+                rep10 = 0
+                rep11 = 0
+                rep12 = 1
             
             # check for quit (typically the Esc key)
             if defaultKeyboard.getKeys(keyList=["escape"]):
@@ -902,7 +1318,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
             # create an object to store info about Routine trial
             trial = data.Routine(
                 name='trial',
-                components=[image, image_2],
+                components=[image, image_2, polygon],
             )
             trial.status = NOT_STARTED
             continueRoutine = True
@@ -1010,6 +1426,40 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                         image_2.status = FINISHED
                         image_2.setAutoDraw(False)
                 
+                # *polygon* updates
+                
+                # if polygon is starting this frame...
+                if polygon.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
+                    # keep track of start time/frame for later
+                    polygon.frameNStart = frameN  # exact frame index
+                    polygon.tStart = t  # local t and not account for scr refresh
+                    polygon.tStartRefresh = tThisFlipGlobal  # on global time
+                    win.timeOnFlip(polygon, 'tStartRefresh')  # time at next scr refresh
+                    # add timestamp to datafile
+                    thisExp.timestampOnFlip(win, 'polygon.started')
+                    # update status
+                    polygon.status = STARTED
+                    polygon.setAutoDraw(True)
+                
+                # if polygon is active this frame...
+                if polygon.status == STARTED:
+                    # update params
+                    pass
+                
+                # if polygon is stopping this frame...
+                if polygon.status == STARTED:
+                    # is it time to stop? (based on global clock, using actual start)
+                    if tThisFlipGlobal > polygon.tStartRefresh + 0.3-frameTolerance:
+                        # keep track of stop time/frame for later
+                        polygon.tStop = t  # not accounting for scr refresh
+                        polygon.tStopRefresh = tThisFlipGlobal  # on global time
+                        polygon.frameNStop = frameN  # exact frame index
+                        # add timestamp to datafile
+                        thisExp.timestampOnFlip(win, 'polygon.stopped')
+                        # update status
+                        polygon.status = FINISHED
+                        polygon.setAutoDraw(False)
+                
                 # check for quit (typically the Esc key)
                 if defaultKeyboard.getKeys(keyList=["escape"]):
                     thisExp.status = FINISHED
@@ -1061,7 +1511,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
             # create an object to store info about Routine trial_2
             trial_2 = data.Routine(
                 name='trial_2',
-                components=[image_3, image_4],
+                components=[image_3, image_4, polygon_2],
             )
             trial_2.status = NOT_STARTED
             continueRoutine = True
@@ -1168,6 +1618,40 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                         # update status
                         image_4.status = FINISHED
                         image_4.setAutoDraw(False)
+                
+                # *polygon_2* updates
+                
+                # if polygon_2 is starting this frame...
+                if polygon_2.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
+                    # keep track of start time/frame for later
+                    polygon_2.frameNStart = frameN  # exact frame index
+                    polygon_2.tStart = t  # local t and not account for scr refresh
+                    polygon_2.tStartRefresh = tThisFlipGlobal  # on global time
+                    win.timeOnFlip(polygon_2, 'tStartRefresh')  # time at next scr refresh
+                    # add timestamp to datafile
+                    thisExp.timestampOnFlip(win, 'polygon_2.started')
+                    # update status
+                    polygon_2.status = STARTED
+                    polygon_2.setAutoDraw(True)
+                
+                # if polygon_2 is active this frame...
+                if polygon_2.status == STARTED:
+                    # update params
+                    pass
+                
+                # if polygon_2 is stopping this frame...
+                if polygon_2.status == STARTED:
+                    # is it time to stop? (based on global clock, using actual start)
+                    if tThisFlipGlobal > polygon_2.tStartRefresh + 0.3-frameTolerance:
+                        # keep track of stop time/frame for later
+                        polygon_2.tStop = t  # not accounting for scr refresh
+                        polygon_2.tStopRefresh = tThisFlipGlobal  # on global time
+                        polygon_2.frameNStop = frameN  # exact frame index
+                        # add timestamp to datafile
+                        thisExp.timestampOnFlip(win, 'polygon_2.stopped')
+                        # update status
+                        polygon_2.status = FINISHED
+                        polygon_2.setAutoDraw(False)
                 
                 # check for quit (typically the Esc key)
                 if defaultKeyboard.getKeys(keyList=["escape"]):
@@ -1258,7 +1742,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
             # create an object to store info about Routine trial
             trial = data.Routine(
                 name='trial',
-                components=[image, image_2],
+                components=[image, image_2, polygon],
             )
             trial.status = NOT_STARTED
             continueRoutine = True
@@ -1366,6 +1850,40 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                         image_2.status = FINISHED
                         image_2.setAutoDraw(False)
                 
+                # *polygon* updates
+                
+                # if polygon is starting this frame...
+                if polygon.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
+                    # keep track of start time/frame for later
+                    polygon.frameNStart = frameN  # exact frame index
+                    polygon.tStart = t  # local t and not account for scr refresh
+                    polygon.tStartRefresh = tThisFlipGlobal  # on global time
+                    win.timeOnFlip(polygon, 'tStartRefresh')  # time at next scr refresh
+                    # add timestamp to datafile
+                    thisExp.timestampOnFlip(win, 'polygon.started')
+                    # update status
+                    polygon.status = STARTED
+                    polygon.setAutoDraw(True)
+                
+                # if polygon is active this frame...
+                if polygon.status == STARTED:
+                    # update params
+                    pass
+                
+                # if polygon is stopping this frame...
+                if polygon.status == STARTED:
+                    # is it time to stop? (based on global clock, using actual start)
+                    if tThisFlipGlobal > polygon.tStartRefresh + 0.3-frameTolerance:
+                        # keep track of stop time/frame for later
+                        polygon.tStop = t  # not accounting for scr refresh
+                        polygon.tStopRefresh = tThisFlipGlobal  # on global time
+                        polygon.frameNStop = frameN  # exact frame index
+                        # add timestamp to datafile
+                        thisExp.timestampOnFlip(win, 'polygon.stopped')
+                        # update status
+                        polygon.status = FINISHED
+                        polygon.setAutoDraw(False)
+                
                 # check for quit (typically the Esc key)
                 if defaultKeyboard.getKeys(keyList=["escape"]):
                     thisExp.status = FINISHED
@@ -1417,7 +1935,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
             # create an object to store info about Routine trial_2
             trial_2 = data.Routine(
                 name='trial_2',
-                components=[image_3, image_4],
+                components=[image_3, image_4, polygon_2],
             )
             trial_2.status = NOT_STARTED
             continueRoutine = True
@@ -1524,6 +2042,40 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                         # update status
                         image_4.status = FINISHED
                         image_4.setAutoDraw(False)
+                
+                # *polygon_2* updates
+                
+                # if polygon_2 is starting this frame...
+                if polygon_2.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
+                    # keep track of start time/frame for later
+                    polygon_2.frameNStart = frameN  # exact frame index
+                    polygon_2.tStart = t  # local t and not account for scr refresh
+                    polygon_2.tStartRefresh = tThisFlipGlobal  # on global time
+                    win.timeOnFlip(polygon_2, 'tStartRefresh')  # time at next scr refresh
+                    # add timestamp to datafile
+                    thisExp.timestampOnFlip(win, 'polygon_2.started')
+                    # update status
+                    polygon_2.status = STARTED
+                    polygon_2.setAutoDraw(True)
+                
+                # if polygon_2 is active this frame...
+                if polygon_2.status == STARTED:
+                    # update params
+                    pass
+                
+                # if polygon_2 is stopping this frame...
+                if polygon_2.status == STARTED:
+                    # is it time to stop? (based on global clock, using actual start)
+                    if tThisFlipGlobal > polygon_2.tStartRefresh + 0.3-frameTolerance:
+                        # keep track of stop time/frame for later
+                        polygon_2.tStop = t  # not accounting for scr refresh
+                        polygon_2.tStopRefresh = tThisFlipGlobal  # on global time
+                        polygon_2.frameNStop = frameN  # exact frame index
+                        # add timestamp to datafile
+                        thisExp.timestampOnFlip(win, 'polygon_2.stopped')
+                        # update status
+                        polygon_2.status = FINISHED
+                        polygon_2.setAutoDraw(False)
                 
                 # check for quit (typically the Esc key)
                 if defaultKeyboard.getKeys(keyList=["escape"]):
@@ -1614,7 +2166,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
             # create an object to store info about Routine trial
             trial = data.Routine(
                 name='trial',
-                components=[image, image_2],
+                components=[image, image_2, polygon],
             )
             trial.status = NOT_STARTED
             continueRoutine = True
@@ -1722,6 +2274,40 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                         image_2.status = FINISHED
                         image_2.setAutoDraw(False)
                 
+                # *polygon* updates
+                
+                # if polygon is starting this frame...
+                if polygon.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
+                    # keep track of start time/frame for later
+                    polygon.frameNStart = frameN  # exact frame index
+                    polygon.tStart = t  # local t and not account for scr refresh
+                    polygon.tStartRefresh = tThisFlipGlobal  # on global time
+                    win.timeOnFlip(polygon, 'tStartRefresh')  # time at next scr refresh
+                    # add timestamp to datafile
+                    thisExp.timestampOnFlip(win, 'polygon.started')
+                    # update status
+                    polygon.status = STARTED
+                    polygon.setAutoDraw(True)
+                
+                # if polygon is active this frame...
+                if polygon.status == STARTED:
+                    # update params
+                    pass
+                
+                # if polygon is stopping this frame...
+                if polygon.status == STARTED:
+                    # is it time to stop? (based on global clock, using actual start)
+                    if tThisFlipGlobal > polygon.tStartRefresh + 0.3-frameTolerance:
+                        # keep track of stop time/frame for later
+                        polygon.tStop = t  # not accounting for scr refresh
+                        polygon.tStopRefresh = tThisFlipGlobal  # on global time
+                        polygon.frameNStop = frameN  # exact frame index
+                        # add timestamp to datafile
+                        thisExp.timestampOnFlip(win, 'polygon.stopped')
+                        # update status
+                        polygon.status = FINISHED
+                        polygon.setAutoDraw(False)
+                
                 # check for quit (typically the Esc key)
                 if defaultKeyboard.getKeys(keyList=["escape"]):
                     thisExp.status = FINISHED
@@ -1773,7 +2359,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
             # create an object to store info about Routine trial_2
             trial_2 = data.Routine(
                 name='trial_2',
-                components=[image_3, image_4],
+                components=[image_3, image_4, polygon_2],
             )
             trial_2.status = NOT_STARTED
             continueRoutine = True
@@ -1880,6 +2466,40 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                         # update status
                         image_4.status = FINISHED
                         image_4.setAutoDraw(False)
+                
+                # *polygon_2* updates
+                
+                # if polygon_2 is starting this frame...
+                if polygon_2.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
+                    # keep track of start time/frame for later
+                    polygon_2.frameNStart = frameN  # exact frame index
+                    polygon_2.tStart = t  # local t and not account for scr refresh
+                    polygon_2.tStartRefresh = tThisFlipGlobal  # on global time
+                    win.timeOnFlip(polygon_2, 'tStartRefresh')  # time at next scr refresh
+                    # add timestamp to datafile
+                    thisExp.timestampOnFlip(win, 'polygon_2.started')
+                    # update status
+                    polygon_2.status = STARTED
+                    polygon_2.setAutoDraw(True)
+                
+                # if polygon_2 is active this frame...
+                if polygon_2.status == STARTED:
+                    # update params
+                    pass
+                
+                # if polygon_2 is stopping this frame...
+                if polygon_2.status == STARTED:
+                    # is it time to stop? (based on global clock, using actual start)
+                    if tThisFlipGlobal > polygon_2.tStartRefresh + 0.3-frameTolerance:
+                        # keep track of stop time/frame for later
+                        polygon_2.tStop = t  # not accounting for scr refresh
+                        polygon_2.tStopRefresh = tThisFlipGlobal  # on global time
+                        polygon_2.frameNStop = frameN  # exact frame index
+                        # add timestamp to datafile
+                        thisExp.timestampOnFlip(win, 'polygon_2.stopped')
+                        # update status
+                        polygon_2.status = FINISHED
+                        polygon_2.setAutoDraw(False)
                 
                 # check for quit (typically the Esc key)
                 if defaultKeyboard.getKeys(keyList=["escape"]):
@@ -1970,7 +2590,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
             # create an object to store info about Routine trial
             trial = data.Routine(
                 name='trial',
-                components=[image, image_2],
+                components=[image, image_2, polygon],
             )
             trial.status = NOT_STARTED
             continueRoutine = True
@@ -2078,6 +2698,40 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                         image_2.status = FINISHED
                         image_2.setAutoDraw(False)
                 
+                # *polygon* updates
+                
+                # if polygon is starting this frame...
+                if polygon.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
+                    # keep track of start time/frame for later
+                    polygon.frameNStart = frameN  # exact frame index
+                    polygon.tStart = t  # local t and not account for scr refresh
+                    polygon.tStartRefresh = tThisFlipGlobal  # on global time
+                    win.timeOnFlip(polygon, 'tStartRefresh')  # time at next scr refresh
+                    # add timestamp to datafile
+                    thisExp.timestampOnFlip(win, 'polygon.started')
+                    # update status
+                    polygon.status = STARTED
+                    polygon.setAutoDraw(True)
+                
+                # if polygon is active this frame...
+                if polygon.status == STARTED:
+                    # update params
+                    pass
+                
+                # if polygon is stopping this frame...
+                if polygon.status == STARTED:
+                    # is it time to stop? (based on global clock, using actual start)
+                    if tThisFlipGlobal > polygon.tStartRefresh + 0.3-frameTolerance:
+                        # keep track of stop time/frame for later
+                        polygon.tStop = t  # not accounting for scr refresh
+                        polygon.tStopRefresh = tThisFlipGlobal  # on global time
+                        polygon.frameNStop = frameN  # exact frame index
+                        # add timestamp to datafile
+                        thisExp.timestampOnFlip(win, 'polygon.stopped')
+                        # update status
+                        polygon.status = FINISHED
+                        polygon.setAutoDraw(False)
+                
                 # check for quit (typically the Esc key)
                 if defaultKeyboard.getKeys(keyList=["escape"]):
                     thisExp.status = FINISHED
@@ -2129,7 +2783,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
             # create an object to store info about Routine trial_2
             trial_2 = data.Routine(
                 name='trial_2',
-                components=[image_3, image_4],
+                components=[image_3, image_4, polygon_2],
             )
             trial_2.status = NOT_STARTED
             continueRoutine = True
@@ -2237,6 +2891,40 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                         image_4.status = FINISHED
                         image_4.setAutoDraw(False)
                 
+                # *polygon_2* updates
+                
+                # if polygon_2 is starting this frame...
+                if polygon_2.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
+                    # keep track of start time/frame for later
+                    polygon_2.frameNStart = frameN  # exact frame index
+                    polygon_2.tStart = t  # local t and not account for scr refresh
+                    polygon_2.tStartRefresh = tThisFlipGlobal  # on global time
+                    win.timeOnFlip(polygon_2, 'tStartRefresh')  # time at next scr refresh
+                    # add timestamp to datafile
+                    thisExp.timestampOnFlip(win, 'polygon_2.started')
+                    # update status
+                    polygon_2.status = STARTED
+                    polygon_2.setAutoDraw(True)
+                
+                # if polygon_2 is active this frame...
+                if polygon_2.status == STARTED:
+                    # update params
+                    pass
+                
+                # if polygon_2 is stopping this frame...
+                if polygon_2.status == STARTED:
+                    # is it time to stop? (based on global clock, using actual start)
+                    if tThisFlipGlobal > polygon_2.tStartRefresh + 0.3-frameTolerance:
+                        # keep track of stop time/frame for later
+                        polygon_2.tStop = t  # not accounting for scr refresh
+                        polygon_2.tStopRefresh = tThisFlipGlobal  # on global time
+                        polygon_2.frameNStop = frameN  # exact frame index
+                        # add timestamp to datafile
+                        thisExp.timestampOnFlip(win, 'polygon_2.stopped')
+                        # update status
+                        polygon_2.status = FINISHED
+                        polygon_2.setAutoDraw(False)
+                
                 # check for quit (typically the Esc key)
                 if defaultKeyboard.getKeys(keyList=["escape"]):
                     thisExp.status = FINISHED
@@ -2326,7 +3014,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
             # create an object to store info about Routine trial_3
             trial_3 = data.Routine(
                 name='trial_3',
-                components=[image_5, image_6],
+                components=[image_5, image_6, polygon_3],
             )
             trial_3.status = NOT_STARTED
             continueRoutine = True
@@ -2438,6 +3126,40 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                         image_6.status = FINISHED
                         image_6.setAutoDraw(False)
                 
+                # *polygon_3* updates
+                
+                # if polygon_3 is starting this frame...
+                if polygon_3.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
+                    # keep track of start time/frame for later
+                    polygon_3.frameNStart = frameN  # exact frame index
+                    polygon_3.tStart = t  # local t and not account for scr refresh
+                    polygon_3.tStartRefresh = tThisFlipGlobal  # on global time
+                    win.timeOnFlip(polygon_3, 'tStartRefresh')  # time at next scr refresh
+                    # add timestamp to datafile
+                    thisExp.timestampOnFlip(win, 'polygon_3.started')
+                    # update status
+                    polygon_3.status = STARTED
+                    polygon_3.setAutoDraw(True)
+                
+                # if polygon_3 is active this frame...
+                if polygon_3.status == STARTED:
+                    # update params
+                    pass
+                
+                # if polygon_3 is stopping this frame...
+                if polygon_3.status == STARTED:
+                    # is it time to stop? (based on global clock, using actual start)
+                    if tThisFlipGlobal > polygon_3.tStartRefresh + 0.3-frameTolerance:
+                        # keep track of stop time/frame for later
+                        polygon_3.tStop = t  # not accounting for scr refresh
+                        polygon_3.tStopRefresh = tThisFlipGlobal  # on global time
+                        polygon_3.frameNStop = frameN  # exact frame index
+                        # add timestamp to datafile
+                        thisExp.timestampOnFlip(win, 'polygon_3.stopped')
+                        # update status
+                        polygon_3.status = FINISHED
+                        polygon_3.setAutoDraw(False)
+                
                 # check for quit (typically the Esc key)
                 if defaultKeyboard.getKeys(keyList=["escape"]):
                     thisExp.status = FINISHED
@@ -2489,7 +3211,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
             # create an object to store info about Routine trial_4
             trial_4 = data.Routine(
                 name='trial_4',
-                components=[image_7, image_8],
+                components=[image_7, image_8, polygon_4],
             )
             trial_4.status = NOT_STARTED
             continueRoutine = True
@@ -2600,6 +3322,40 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                         # update status
                         image_8.status = FINISHED
                         image_8.setAutoDraw(False)
+                
+                # *polygon_4* updates
+                
+                # if polygon_4 is starting this frame...
+                if polygon_4.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
+                    # keep track of start time/frame for later
+                    polygon_4.frameNStart = frameN  # exact frame index
+                    polygon_4.tStart = t  # local t and not account for scr refresh
+                    polygon_4.tStartRefresh = tThisFlipGlobal  # on global time
+                    win.timeOnFlip(polygon_4, 'tStartRefresh')  # time at next scr refresh
+                    # add timestamp to datafile
+                    thisExp.timestampOnFlip(win, 'polygon_4.started')
+                    # update status
+                    polygon_4.status = STARTED
+                    polygon_4.setAutoDraw(True)
+                
+                # if polygon_4 is active this frame...
+                if polygon_4.status == STARTED:
+                    # update params
+                    pass
+                
+                # if polygon_4 is stopping this frame...
+                if polygon_4.status == STARTED:
+                    # is it time to stop? (based on global clock, using actual start)
+                    if tThisFlipGlobal > polygon_4.tStartRefresh + 0.3-frameTolerance:
+                        # keep track of stop time/frame for later
+                        polygon_4.tStop = t  # not accounting for scr refresh
+                        polygon_4.tStopRefresh = tThisFlipGlobal  # on global time
+                        polygon_4.frameNStop = frameN  # exact frame index
+                        # add timestamp to datafile
+                        thisExp.timestampOnFlip(win, 'polygon_4.stopped')
+                        # update status
+                        polygon_4.status = FINISHED
+                        polygon_4.setAutoDraw(False)
                 
                 # check for quit (typically the Esc key)
                 if defaultKeyboard.getKeys(keyList=["escape"]):
@@ -2690,7 +3446,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
             # create an object to store info about Routine trial_3
             trial_3 = data.Routine(
                 name='trial_3',
-                components=[image_5, image_6],
+                components=[image_5, image_6, polygon_3],
             )
             trial_3.status = NOT_STARTED
             continueRoutine = True
@@ -2802,6 +3558,40 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                         image_6.status = FINISHED
                         image_6.setAutoDraw(False)
                 
+                # *polygon_3* updates
+                
+                # if polygon_3 is starting this frame...
+                if polygon_3.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
+                    # keep track of start time/frame for later
+                    polygon_3.frameNStart = frameN  # exact frame index
+                    polygon_3.tStart = t  # local t and not account for scr refresh
+                    polygon_3.tStartRefresh = tThisFlipGlobal  # on global time
+                    win.timeOnFlip(polygon_3, 'tStartRefresh')  # time at next scr refresh
+                    # add timestamp to datafile
+                    thisExp.timestampOnFlip(win, 'polygon_3.started')
+                    # update status
+                    polygon_3.status = STARTED
+                    polygon_3.setAutoDraw(True)
+                
+                # if polygon_3 is active this frame...
+                if polygon_3.status == STARTED:
+                    # update params
+                    pass
+                
+                # if polygon_3 is stopping this frame...
+                if polygon_3.status == STARTED:
+                    # is it time to stop? (based on global clock, using actual start)
+                    if tThisFlipGlobal > polygon_3.tStartRefresh + 0.3-frameTolerance:
+                        # keep track of stop time/frame for later
+                        polygon_3.tStop = t  # not accounting for scr refresh
+                        polygon_3.tStopRefresh = tThisFlipGlobal  # on global time
+                        polygon_3.frameNStop = frameN  # exact frame index
+                        # add timestamp to datafile
+                        thisExp.timestampOnFlip(win, 'polygon_3.stopped')
+                        # update status
+                        polygon_3.status = FINISHED
+                        polygon_3.setAutoDraw(False)
+                
                 # check for quit (typically the Esc key)
                 if defaultKeyboard.getKeys(keyList=["escape"]):
                     thisExp.status = FINISHED
@@ -2853,7 +3643,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
             # create an object to store info about Routine trial_4
             trial_4 = data.Routine(
                 name='trial_4',
-                components=[image_7, image_8],
+                components=[image_7, image_8, polygon_4],
             )
             trial_4.status = NOT_STARTED
             continueRoutine = True
@@ -2964,6 +3754,40 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                         # update status
                         image_8.status = FINISHED
                         image_8.setAutoDraw(False)
+                
+                # *polygon_4* updates
+                
+                # if polygon_4 is starting this frame...
+                if polygon_4.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
+                    # keep track of start time/frame for later
+                    polygon_4.frameNStart = frameN  # exact frame index
+                    polygon_4.tStart = t  # local t and not account for scr refresh
+                    polygon_4.tStartRefresh = tThisFlipGlobal  # on global time
+                    win.timeOnFlip(polygon_4, 'tStartRefresh')  # time at next scr refresh
+                    # add timestamp to datafile
+                    thisExp.timestampOnFlip(win, 'polygon_4.started')
+                    # update status
+                    polygon_4.status = STARTED
+                    polygon_4.setAutoDraw(True)
+                
+                # if polygon_4 is active this frame...
+                if polygon_4.status == STARTED:
+                    # update params
+                    pass
+                
+                # if polygon_4 is stopping this frame...
+                if polygon_4.status == STARTED:
+                    # is it time to stop? (based on global clock, using actual start)
+                    if tThisFlipGlobal > polygon_4.tStartRefresh + 0.3-frameTolerance:
+                        # keep track of stop time/frame for later
+                        polygon_4.tStop = t  # not accounting for scr refresh
+                        polygon_4.tStopRefresh = tThisFlipGlobal  # on global time
+                        polygon_4.frameNStop = frameN  # exact frame index
+                        # add timestamp to datafile
+                        thisExp.timestampOnFlip(win, 'polygon_4.stopped')
+                        # update status
+                        polygon_4.status = FINISHED
+                        polygon_4.setAutoDraw(False)
                 
                 # check for quit (typically the Esc key)
                 if defaultKeyboard.getKeys(keyList=["escape"]):
@@ -3054,7 +3878,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
             # create an object to store info about Routine trial_3
             trial_3 = data.Routine(
                 name='trial_3',
-                components=[image_5, image_6],
+                components=[image_5, image_6, polygon_3],
             )
             trial_3.status = NOT_STARTED
             continueRoutine = True
@@ -3166,6 +3990,40 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                         image_6.status = FINISHED
                         image_6.setAutoDraw(False)
                 
+                # *polygon_3* updates
+                
+                # if polygon_3 is starting this frame...
+                if polygon_3.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
+                    # keep track of start time/frame for later
+                    polygon_3.frameNStart = frameN  # exact frame index
+                    polygon_3.tStart = t  # local t and not account for scr refresh
+                    polygon_3.tStartRefresh = tThisFlipGlobal  # on global time
+                    win.timeOnFlip(polygon_3, 'tStartRefresh')  # time at next scr refresh
+                    # add timestamp to datafile
+                    thisExp.timestampOnFlip(win, 'polygon_3.started')
+                    # update status
+                    polygon_3.status = STARTED
+                    polygon_3.setAutoDraw(True)
+                
+                # if polygon_3 is active this frame...
+                if polygon_3.status == STARTED:
+                    # update params
+                    pass
+                
+                # if polygon_3 is stopping this frame...
+                if polygon_3.status == STARTED:
+                    # is it time to stop? (based on global clock, using actual start)
+                    if tThisFlipGlobal > polygon_3.tStartRefresh + 0.3-frameTolerance:
+                        # keep track of stop time/frame for later
+                        polygon_3.tStop = t  # not accounting for scr refresh
+                        polygon_3.tStopRefresh = tThisFlipGlobal  # on global time
+                        polygon_3.frameNStop = frameN  # exact frame index
+                        # add timestamp to datafile
+                        thisExp.timestampOnFlip(win, 'polygon_3.stopped')
+                        # update status
+                        polygon_3.status = FINISHED
+                        polygon_3.setAutoDraw(False)
+                
                 # check for quit (typically the Esc key)
                 if defaultKeyboard.getKeys(keyList=["escape"]):
                     thisExp.status = FINISHED
@@ -3217,7 +4075,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
             # create an object to store info about Routine trial_4
             trial_4 = data.Routine(
                 name='trial_4',
-                components=[image_7, image_8],
+                components=[image_7, image_8, polygon_4],
             )
             trial_4.status = NOT_STARTED
             continueRoutine = True
@@ -3328,6 +4186,40 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                         # update status
                         image_8.status = FINISHED
                         image_8.setAutoDraw(False)
+                
+                # *polygon_4* updates
+                
+                # if polygon_4 is starting this frame...
+                if polygon_4.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
+                    # keep track of start time/frame for later
+                    polygon_4.frameNStart = frameN  # exact frame index
+                    polygon_4.tStart = t  # local t and not account for scr refresh
+                    polygon_4.tStartRefresh = tThisFlipGlobal  # on global time
+                    win.timeOnFlip(polygon_4, 'tStartRefresh')  # time at next scr refresh
+                    # add timestamp to datafile
+                    thisExp.timestampOnFlip(win, 'polygon_4.started')
+                    # update status
+                    polygon_4.status = STARTED
+                    polygon_4.setAutoDraw(True)
+                
+                # if polygon_4 is active this frame...
+                if polygon_4.status == STARTED:
+                    # update params
+                    pass
+                
+                # if polygon_4 is stopping this frame...
+                if polygon_4.status == STARTED:
+                    # is it time to stop? (based on global clock, using actual start)
+                    if tThisFlipGlobal > polygon_4.tStartRefresh + 0.3-frameTolerance:
+                        # keep track of stop time/frame for later
+                        polygon_4.tStop = t  # not accounting for scr refresh
+                        polygon_4.tStopRefresh = tThisFlipGlobal  # on global time
+                        polygon_4.frameNStop = frameN  # exact frame index
+                        # add timestamp to datafile
+                        thisExp.timestampOnFlip(win, 'polygon_4.stopped')
+                        # update status
+                        polygon_4.status = FINISHED
+                        polygon_4.setAutoDraw(False)
                 
                 # check for quit (typically the Esc key)
                 if defaultKeyboard.getKeys(keyList=["escape"]):
@@ -3418,7 +4310,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
             # create an object to store info about Routine trial_3
             trial_3 = data.Routine(
                 name='trial_3',
-                components=[image_5, image_6],
+                components=[image_5, image_6, polygon_3],
             )
             trial_3.status = NOT_STARTED
             continueRoutine = True
@@ -3530,6 +4422,40 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                         image_6.status = FINISHED
                         image_6.setAutoDraw(False)
                 
+                # *polygon_3* updates
+                
+                # if polygon_3 is starting this frame...
+                if polygon_3.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
+                    # keep track of start time/frame for later
+                    polygon_3.frameNStart = frameN  # exact frame index
+                    polygon_3.tStart = t  # local t and not account for scr refresh
+                    polygon_3.tStartRefresh = tThisFlipGlobal  # on global time
+                    win.timeOnFlip(polygon_3, 'tStartRefresh')  # time at next scr refresh
+                    # add timestamp to datafile
+                    thisExp.timestampOnFlip(win, 'polygon_3.started')
+                    # update status
+                    polygon_3.status = STARTED
+                    polygon_3.setAutoDraw(True)
+                
+                # if polygon_3 is active this frame...
+                if polygon_3.status == STARTED:
+                    # update params
+                    pass
+                
+                # if polygon_3 is stopping this frame...
+                if polygon_3.status == STARTED:
+                    # is it time to stop? (based on global clock, using actual start)
+                    if tThisFlipGlobal > polygon_3.tStartRefresh + 0.3-frameTolerance:
+                        # keep track of stop time/frame for later
+                        polygon_3.tStop = t  # not accounting for scr refresh
+                        polygon_3.tStopRefresh = tThisFlipGlobal  # on global time
+                        polygon_3.frameNStop = frameN  # exact frame index
+                        # add timestamp to datafile
+                        thisExp.timestampOnFlip(win, 'polygon_3.stopped')
+                        # update status
+                        polygon_3.status = FINISHED
+                        polygon_3.setAutoDraw(False)
+                
                 # check for quit (typically the Esc key)
                 if defaultKeyboard.getKeys(keyList=["escape"]):
                     thisExp.status = FINISHED
@@ -3581,7 +4507,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
             # create an object to store info about Routine trial_4
             trial_4 = data.Routine(
                 name='trial_4',
-                components=[image_7, image_8],
+                components=[image_7, image_8, polygon_4],
             )
             trial_4.status = NOT_STARTED
             continueRoutine = True
@@ -3693,6 +4619,40 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                         image_8.status = FINISHED
                         image_8.setAutoDraw(False)
                 
+                # *polygon_4* updates
+                
+                # if polygon_4 is starting this frame...
+                if polygon_4.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
+                    # keep track of start time/frame for later
+                    polygon_4.frameNStart = frameN  # exact frame index
+                    polygon_4.tStart = t  # local t and not account for scr refresh
+                    polygon_4.tStartRefresh = tThisFlipGlobal  # on global time
+                    win.timeOnFlip(polygon_4, 'tStartRefresh')  # time at next scr refresh
+                    # add timestamp to datafile
+                    thisExp.timestampOnFlip(win, 'polygon_4.started')
+                    # update status
+                    polygon_4.status = STARTED
+                    polygon_4.setAutoDraw(True)
+                
+                # if polygon_4 is active this frame...
+                if polygon_4.status == STARTED:
+                    # update params
+                    pass
+                
+                # if polygon_4 is stopping this frame...
+                if polygon_4.status == STARTED:
+                    # is it time to stop? (based on global clock, using actual start)
+                    if tThisFlipGlobal > polygon_4.tStartRefresh + 0.3-frameTolerance:
+                        # keep track of stop time/frame for later
+                        polygon_4.tStop = t  # not accounting for scr refresh
+                        polygon_4.tStopRefresh = tThisFlipGlobal  # on global time
+                        polygon_4.frameNStop = frameN  # exact frame index
+                        # add timestamp to datafile
+                        thisExp.timestampOnFlip(win, 'polygon_4.stopped')
+                        # update status
+                        polygon_4.status = FINISHED
+                        polygon_4.setAutoDraw(False)
+                
                 # check for quit (typically the Esc key)
                 if defaultKeyboard.getKeys(keyList=["escape"]):
                     thisExp.status = FINISHED
@@ -3746,6 +4706,1825 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         if thisSession is not None:
             # if running in a Session with a Liaison client, send data up to now
             thisSession.sendExperimentData()
+        
+        # set up handler to look after randomisation of conditions etc
+        loop_9 = data.TrialHandler2(
+            name='loop_9',
+            nReps=rep9, 
+            method='random', 
+            extraInfo=expInfo, 
+            originPath=-1, 
+            trialList=data.importConditions('Incrementos.xlsx'), 
+            seed=None, 
+        )
+        thisExp.addLoop(loop_9)  # add the loop to the experiment
+        thisLoop_9 = loop_9.trialList[0]  # so we can initialise stimuli with some values
+        # abbreviate parameter names if possible (e.g. rgb = thisLoop_9.rgb)
+        if thisLoop_9 != None:
+            for paramName in thisLoop_9:
+                globals()[paramName] = thisLoop_9[paramName]
+        if thisSession is not None:
+            # if running in a Session with a Liaison client, send data up to now
+            thisSession.sendExperimentData()
+        
+        for thisLoop_9 in loop_9:
+            currentLoop = loop_9
+            thisExp.timestampOnFlip(win, 'thisRow.t', format=globalClock.format)
+            if thisSession is not None:
+                # if running in a Session with a Liaison client, send data up to now
+                thisSession.sendExperimentData()
+            # abbreviate parameter names if possible (e.g. rgb = thisLoop_9.rgb)
+            if thisLoop_9 != None:
+                for paramName in thisLoop_9:
+                    globals()[paramName] = thisLoop_9[paramName]
+            
+            # --- Prepare to start Routine "trial_5" ---
+            # create an object to store info about Routine trial_5
+            trial_5 = data.Routine(
+                name='trial_5',
+                components=[image_9, image_10, polygon_6],
+            )
+            trial_5.status = NOT_STARTED
+            continueRoutine = True
+            # update component parameters for each repeat
+            image_9.setPos((px1, py1))
+            image_10.setPos((px2, py2))
+            # store start times for trial_5
+            trial_5.tStartRefresh = win.getFutureFlipTime(clock=globalClock)
+            trial_5.tStart = globalClock.getTime(format='float')
+            trial_5.status = STARTED
+            thisExp.addData('trial_5.started', trial_5.tStart)
+            trial_5.maxDuration = None
+            # keep track of which components have finished
+            trial_5Components = trial_5.components
+            for thisComponent in trial_5.components:
+                thisComponent.tStart = None
+                thisComponent.tStop = None
+                thisComponent.tStartRefresh = None
+                thisComponent.tStopRefresh = None
+                if hasattr(thisComponent, 'status'):
+                    thisComponent.status = NOT_STARTED
+            # reset timers
+            t = 0
+            _timeToFirstFrame = win.getFutureFlipTime(clock="now")
+            frameN = -1
+            
+            # --- Run Routine "trial_5" ---
+            # if trial has changed, end Routine now
+            if isinstance(loop_9, data.TrialHandler2) and thisLoop_9.thisN != loop_9.thisTrial.thisN:
+                continueRoutine = False
+            trial_5.forceEnded = routineForceEnded = not continueRoutine
+            while continueRoutine and routineTimer.getTime() < 0.3:
+                # get current time
+                t = routineTimer.getTime()
+                tThisFlip = win.getFutureFlipTime(clock=routineTimer)
+                tThisFlipGlobal = win.getFutureFlipTime(clock=None)
+                frameN = frameN + 1  # number of completed frames (so 0 is the first frame)
+                # update/draw components on each frame
+                
+                # *image_9* updates
+                
+                # if image_9 is starting this frame...
+                if image_9.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
+                    # keep track of start time/frame for later
+                    image_9.frameNStart = frameN  # exact frame index
+                    image_9.tStart = t  # local t and not account for scr refresh
+                    image_9.tStartRefresh = tThisFlipGlobal  # on global time
+                    win.timeOnFlip(image_9, 'tStartRefresh')  # time at next scr refresh
+                    # add timestamp to datafile
+                    thisExp.timestampOnFlip(win, 'image_9.started')
+                    # update status
+                    image_9.status = STARTED
+                    image_9.setAutoDraw(True)
+                
+                # if image_9 is active this frame...
+                if image_9.status == STARTED:
+                    # update params
+                    pass
+                
+                # if image_9 is stopping this frame...
+                if image_9.status == STARTED:
+                    # is it time to stop? (based on global clock, using actual start)
+                    if tThisFlipGlobal > image_9.tStartRefresh + 0.3-frameTolerance:
+                        # keep track of stop time/frame for later
+                        image_9.tStop = t  # not accounting for scr refresh
+                        image_9.tStopRefresh = tThisFlipGlobal  # on global time
+                        image_9.frameNStop = frameN  # exact frame index
+                        # add timestamp to datafile
+                        thisExp.timestampOnFlip(win, 'image_9.stopped')
+                        # update status
+                        image_9.status = FINISHED
+                        image_9.setAutoDraw(False)
+                
+                # *image_10* updates
+                
+                # if image_10 is starting this frame...
+                if image_10.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
+                    # keep track of start time/frame for later
+                    image_10.frameNStart = frameN  # exact frame index
+                    image_10.tStart = t  # local t and not account for scr refresh
+                    image_10.tStartRefresh = tThisFlipGlobal  # on global time
+                    win.timeOnFlip(image_10, 'tStartRefresh')  # time at next scr refresh
+                    # add timestamp to datafile
+                    thisExp.timestampOnFlip(win, 'image_10.started')
+                    # update status
+                    image_10.status = STARTED
+                    image_10.setAutoDraw(True)
+                
+                # if image_10 is active this frame...
+                if image_10.status == STARTED:
+                    # update params
+                    pass
+                
+                # if image_10 is stopping this frame...
+                if image_10.status == STARTED:
+                    # is it time to stop? (based on global clock, using actual start)
+                    if tThisFlipGlobal > image_10.tStartRefresh + 0.3-frameTolerance:
+                        # keep track of stop time/frame for later
+                        image_10.tStop = t  # not accounting for scr refresh
+                        image_10.tStopRefresh = tThisFlipGlobal  # on global time
+                        image_10.frameNStop = frameN  # exact frame index
+                        # add timestamp to datafile
+                        thisExp.timestampOnFlip(win, 'image_10.stopped')
+                        # update status
+                        image_10.status = FINISHED
+                        image_10.setAutoDraw(False)
+                
+                # *polygon_6* updates
+                
+                # if polygon_6 is starting this frame...
+                if polygon_6.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
+                    # keep track of start time/frame for later
+                    polygon_6.frameNStart = frameN  # exact frame index
+                    polygon_6.tStart = t  # local t and not account for scr refresh
+                    polygon_6.tStartRefresh = tThisFlipGlobal  # on global time
+                    win.timeOnFlip(polygon_6, 'tStartRefresh')  # time at next scr refresh
+                    # add timestamp to datafile
+                    thisExp.timestampOnFlip(win, 'polygon_6.started')
+                    # update status
+                    polygon_6.status = STARTED
+                    polygon_6.setAutoDraw(True)
+                
+                # if polygon_6 is active this frame...
+                if polygon_6.status == STARTED:
+                    # update params
+                    pass
+                
+                # if polygon_6 is stopping this frame...
+                if polygon_6.status == STARTED:
+                    # is it time to stop? (based on global clock, using actual start)
+                    if tThisFlipGlobal > polygon_6.tStartRefresh + 0.3-frameTolerance:
+                        # keep track of stop time/frame for later
+                        polygon_6.tStop = t  # not accounting for scr refresh
+                        polygon_6.tStopRefresh = tThisFlipGlobal  # on global time
+                        polygon_6.frameNStop = frameN  # exact frame index
+                        # add timestamp to datafile
+                        thisExp.timestampOnFlip(win, 'polygon_6.stopped')
+                        # update status
+                        polygon_6.status = FINISHED
+                        polygon_6.setAutoDraw(False)
+                
+                # check for quit (typically the Esc key)
+                if defaultKeyboard.getKeys(keyList=["escape"]):
+                    thisExp.status = FINISHED
+                if thisExp.status == FINISHED or endExpNow:
+                    endExperiment(thisExp, win=win)
+                    return
+                # pause experiment here if requested
+                if thisExp.status == PAUSED:
+                    pauseExperiment(
+                        thisExp=thisExp, 
+                        win=win, 
+                        timers=[routineTimer], 
+                        playbackComponents=[]
+                    )
+                    # skip the frame we paused on
+                    continue
+                
+                # check if all components have finished
+                if not continueRoutine:  # a component has requested a forced-end of Routine
+                    trial_5.forceEnded = routineForceEnded = True
+                    break
+                continueRoutine = False  # will revert to True if at least one component still running
+                for thisComponent in trial_5.components:
+                    if hasattr(thisComponent, "status") and thisComponent.status != FINISHED:
+                        continueRoutine = True
+                        break  # at least one component has not yet finished
+                
+                # refresh the screen
+                if continueRoutine:  # don't flip if this routine is over or we'll get a blank screen
+                    win.flip()
+            
+            # --- Ending Routine "trial_5" ---
+            for thisComponent in trial_5.components:
+                if hasattr(thisComponent, "setAutoDraw"):
+                    thisComponent.setAutoDraw(False)
+            # store stop times for trial_5
+            trial_5.tStop = globalClock.getTime(format='float')
+            trial_5.tStopRefresh = tThisFlipGlobal
+            thisExp.addData('trial_5.stopped', trial_5.tStop)
+            # using non-slip timing so subtract the expected duration of this Routine (unless ended on request)
+            if trial_5.maxDurationReached:
+                routineTimer.addTime(-trial_5.maxDuration)
+            elif trial_5.forceEnded:
+                routineTimer.reset()
+            else:
+                routineTimer.addTime(-0.300000)
+            
+            # --- Prepare to start Routine "trial_6" ---
+            # create an object to store info about Routine trial_6
+            trial_6 = data.Routine(
+                name='trial_6',
+                components=[image_11, image_12, polygon_7],
+            )
+            trial_6.status = NOT_STARTED
+            continueRoutine = True
+            # update component parameters for each repeat
+            image_11.setPos((px3, py3))
+            image_12.setPos((px4,py4))
+            # store start times for trial_6
+            trial_6.tStartRefresh = win.getFutureFlipTime(clock=globalClock)
+            trial_6.tStart = globalClock.getTime(format='float')
+            trial_6.status = STARTED
+            thisExp.addData('trial_6.started', trial_6.tStart)
+            trial_6.maxDuration = None
+            # keep track of which components have finished
+            trial_6Components = trial_6.components
+            for thisComponent in trial_6.components:
+                thisComponent.tStart = None
+                thisComponent.tStop = None
+                thisComponent.tStartRefresh = None
+                thisComponent.tStopRefresh = None
+                if hasattr(thisComponent, 'status'):
+                    thisComponent.status = NOT_STARTED
+            # reset timers
+            t = 0
+            _timeToFirstFrame = win.getFutureFlipTime(clock="now")
+            frameN = -1
+            
+            # --- Run Routine "trial_6" ---
+            # if trial has changed, end Routine now
+            if isinstance(loop_9, data.TrialHandler2) and thisLoop_9.thisN != loop_9.thisTrial.thisN:
+                continueRoutine = False
+            trial_6.forceEnded = routineForceEnded = not continueRoutine
+            while continueRoutine and routineTimer.getTime() < 0.3:
+                # get current time
+                t = routineTimer.getTime()
+                tThisFlip = win.getFutureFlipTime(clock=routineTimer)
+                tThisFlipGlobal = win.getFutureFlipTime(clock=None)
+                frameN = frameN + 1  # number of completed frames (so 0 is the first frame)
+                # update/draw components on each frame
+                
+                # *image_11* updates
+                
+                # if image_11 is starting this frame...
+                if image_11.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
+                    # keep track of start time/frame for later
+                    image_11.frameNStart = frameN  # exact frame index
+                    image_11.tStart = t  # local t and not account for scr refresh
+                    image_11.tStartRefresh = tThisFlipGlobal  # on global time
+                    win.timeOnFlip(image_11, 'tStartRefresh')  # time at next scr refresh
+                    # add timestamp to datafile
+                    thisExp.timestampOnFlip(win, 'image_11.started')
+                    # update status
+                    image_11.status = STARTED
+                    image_11.setAutoDraw(True)
+                
+                # if image_11 is active this frame...
+                if image_11.status == STARTED:
+                    # update params
+                    pass
+                
+                # if image_11 is stopping this frame...
+                if image_11.status == STARTED:
+                    # is it time to stop? (based on global clock, using actual start)
+                    if tThisFlipGlobal > image_11.tStartRefresh + 0.3-frameTolerance:
+                        # keep track of stop time/frame for later
+                        image_11.tStop = t  # not accounting for scr refresh
+                        image_11.tStopRefresh = tThisFlipGlobal  # on global time
+                        image_11.frameNStop = frameN  # exact frame index
+                        # add timestamp to datafile
+                        thisExp.timestampOnFlip(win, 'image_11.stopped')
+                        # update status
+                        image_11.status = FINISHED
+                        image_11.setAutoDraw(False)
+                
+                # *image_12* updates
+                
+                # if image_12 is starting this frame...
+                if image_12.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
+                    # keep track of start time/frame for later
+                    image_12.frameNStart = frameN  # exact frame index
+                    image_12.tStart = t  # local t and not account for scr refresh
+                    image_12.tStartRefresh = tThisFlipGlobal  # on global time
+                    win.timeOnFlip(image_12, 'tStartRefresh')  # time at next scr refresh
+                    # add timestamp to datafile
+                    thisExp.timestampOnFlip(win, 'image_12.started')
+                    # update status
+                    image_12.status = STARTED
+                    image_12.setAutoDraw(True)
+                
+                # if image_12 is active this frame...
+                if image_12.status == STARTED:
+                    # update params
+                    pass
+                
+                # if image_12 is stopping this frame...
+                if image_12.status == STARTED:
+                    # is it time to stop? (based on global clock, using actual start)
+                    if tThisFlipGlobal > image_12.tStartRefresh + 0.3-frameTolerance:
+                        # keep track of stop time/frame for later
+                        image_12.tStop = t  # not accounting for scr refresh
+                        image_12.tStopRefresh = tThisFlipGlobal  # on global time
+                        image_12.frameNStop = frameN  # exact frame index
+                        # add timestamp to datafile
+                        thisExp.timestampOnFlip(win, 'image_12.stopped')
+                        # update status
+                        image_12.status = FINISHED
+                        image_12.setAutoDraw(False)
+                
+                # *polygon_7* updates
+                
+                # if polygon_7 is starting this frame...
+                if polygon_7.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
+                    # keep track of start time/frame for later
+                    polygon_7.frameNStart = frameN  # exact frame index
+                    polygon_7.tStart = t  # local t and not account for scr refresh
+                    polygon_7.tStartRefresh = tThisFlipGlobal  # on global time
+                    win.timeOnFlip(polygon_7, 'tStartRefresh')  # time at next scr refresh
+                    # add timestamp to datafile
+                    thisExp.timestampOnFlip(win, 'polygon_7.started')
+                    # update status
+                    polygon_7.status = STARTED
+                    polygon_7.setAutoDraw(True)
+                
+                # if polygon_7 is active this frame...
+                if polygon_7.status == STARTED:
+                    # update params
+                    pass
+                
+                # if polygon_7 is stopping this frame...
+                if polygon_7.status == STARTED:
+                    # is it time to stop? (based on global clock, using actual start)
+                    if tThisFlipGlobal > polygon_7.tStartRefresh + 0.3-frameTolerance:
+                        # keep track of stop time/frame for later
+                        polygon_7.tStop = t  # not accounting for scr refresh
+                        polygon_7.tStopRefresh = tThisFlipGlobal  # on global time
+                        polygon_7.frameNStop = frameN  # exact frame index
+                        # add timestamp to datafile
+                        thisExp.timestampOnFlip(win, 'polygon_7.stopped')
+                        # update status
+                        polygon_7.status = FINISHED
+                        polygon_7.setAutoDraw(False)
+                
+                # check for quit (typically the Esc key)
+                if defaultKeyboard.getKeys(keyList=["escape"]):
+                    thisExp.status = FINISHED
+                if thisExp.status == FINISHED or endExpNow:
+                    endExperiment(thisExp, win=win)
+                    return
+                # pause experiment here if requested
+                if thisExp.status == PAUSED:
+                    pauseExperiment(
+                        thisExp=thisExp, 
+                        win=win, 
+                        timers=[routineTimer], 
+                        playbackComponents=[]
+                    )
+                    # skip the frame we paused on
+                    continue
+                
+                # check if all components have finished
+                if not continueRoutine:  # a component has requested a forced-end of Routine
+                    trial_6.forceEnded = routineForceEnded = True
+                    break
+                continueRoutine = False  # will revert to True if at least one component still running
+                for thisComponent in trial_6.components:
+                    if hasattr(thisComponent, "status") and thisComponent.status != FINISHED:
+                        continueRoutine = True
+                        break  # at least one component has not yet finished
+                
+                # refresh the screen
+                if continueRoutine:  # don't flip if this routine is over or we'll get a blank screen
+                    win.flip()
+            
+            # --- Ending Routine "trial_6" ---
+            for thisComponent in trial_6.components:
+                if hasattr(thisComponent, "setAutoDraw"):
+                    thisComponent.setAutoDraw(False)
+            # store stop times for trial_6
+            trial_6.tStop = globalClock.getTime(format='float')
+            trial_6.tStopRefresh = tThisFlipGlobal
+            thisExp.addData('trial_6.stopped', trial_6.tStop)
+            # using non-slip timing so subtract the expected duration of this Routine (unless ended on request)
+            if trial_6.maxDurationReached:
+                routineTimer.addTime(-trial_6.maxDuration)
+            elif trial_6.forceEnded:
+                routineTimer.reset()
+            else:
+                routineTimer.addTime(-0.300000)
+            thisExp.nextEntry()
+            
+        # completed rep9 repeats of 'loop_9'
+        
+        if thisSession is not None:
+            # if running in a Session with a Liaison client, send data up to now
+            thisSession.sendExperimentData()
+        
+        # set up handler to look after randomisation of conditions etc
+        loop_10 = data.TrialHandler2(
+            name='loop_10',
+            nReps=rep10, 
+            method='random', 
+            extraInfo=expInfo, 
+            originPath=-1, 
+            trialList=data.importConditions('incremento_loop2.xlsx'), 
+            seed=None, 
+        )
+        thisExp.addLoop(loop_10)  # add the loop to the experiment
+        thisLoop_10 = loop_10.trialList[0]  # so we can initialise stimuli with some values
+        # abbreviate parameter names if possible (e.g. rgb = thisLoop_10.rgb)
+        if thisLoop_10 != None:
+            for paramName in thisLoop_10:
+                globals()[paramName] = thisLoop_10[paramName]
+        if thisSession is not None:
+            # if running in a Session with a Liaison client, send data up to now
+            thisSession.sendExperimentData()
+        
+        for thisLoop_10 in loop_10:
+            currentLoop = loop_10
+            thisExp.timestampOnFlip(win, 'thisRow.t', format=globalClock.format)
+            if thisSession is not None:
+                # if running in a Session with a Liaison client, send data up to now
+                thisSession.sendExperimentData()
+            # abbreviate parameter names if possible (e.g. rgb = thisLoop_10.rgb)
+            if thisLoop_10 != None:
+                for paramName in thisLoop_10:
+                    globals()[paramName] = thisLoop_10[paramName]
+            
+            # --- Prepare to start Routine "trial_5" ---
+            # create an object to store info about Routine trial_5
+            trial_5 = data.Routine(
+                name='trial_5',
+                components=[image_9, image_10, polygon_6],
+            )
+            trial_5.status = NOT_STARTED
+            continueRoutine = True
+            # update component parameters for each repeat
+            image_9.setPos((px1, py1))
+            image_10.setPos((px2, py2))
+            # store start times for trial_5
+            trial_5.tStartRefresh = win.getFutureFlipTime(clock=globalClock)
+            trial_5.tStart = globalClock.getTime(format='float')
+            trial_5.status = STARTED
+            thisExp.addData('trial_5.started', trial_5.tStart)
+            trial_5.maxDuration = None
+            # keep track of which components have finished
+            trial_5Components = trial_5.components
+            for thisComponent in trial_5.components:
+                thisComponent.tStart = None
+                thisComponent.tStop = None
+                thisComponent.tStartRefresh = None
+                thisComponent.tStopRefresh = None
+                if hasattr(thisComponent, 'status'):
+                    thisComponent.status = NOT_STARTED
+            # reset timers
+            t = 0
+            _timeToFirstFrame = win.getFutureFlipTime(clock="now")
+            frameN = -1
+            
+            # --- Run Routine "trial_5" ---
+            # if trial has changed, end Routine now
+            if isinstance(loop_10, data.TrialHandler2) and thisLoop_10.thisN != loop_10.thisTrial.thisN:
+                continueRoutine = False
+            trial_5.forceEnded = routineForceEnded = not continueRoutine
+            while continueRoutine and routineTimer.getTime() < 0.3:
+                # get current time
+                t = routineTimer.getTime()
+                tThisFlip = win.getFutureFlipTime(clock=routineTimer)
+                tThisFlipGlobal = win.getFutureFlipTime(clock=None)
+                frameN = frameN + 1  # number of completed frames (so 0 is the first frame)
+                # update/draw components on each frame
+                
+                # *image_9* updates
+                
+                # if image_9 is starting this frame...
+                if image_9.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
+                    # keep track of start time/frame for later
+                    image_9.frameNStart = frameN  # exact frame index
+                    image_9.tStart = t  # local t and not account for scr refresh
+                    image_9.tStartRefresh = tThisFlipGlobal  # on global time
+                    win.timeOnFlip(image_9, 'tStartRefresh')  # time at next scr refresh
+                    # add timestamp to datafile
+                    thisExp.timestampOnFlip(win, 'image_9.started')
+                    # update status
+                    image_9.status = STARTED
+                    image_9.setAutoDraw(True)
+                
+                # if image_9 is active this frame...
+                if image_9.status == STARTED:
+                    # update params
+                    pass
+                
+                # if image_9 is stopping this frame...
+                if image_9.status == STARTED:
+                    # is it time to stop? (based on global clock, using actual start)
+                    if tThisFlipGlobal > image_9.tStartRefresh + 0.3-frameTolerance:
+                        # keep track of stop time/frame for later
+                        image_9.tStop = t  # not accounting for scr refresh
+                        image_9.tStopRefresh = tThisFlipGlobal  # on global time
+                        image_9.frameNStop = frameN  # exact frame index
+                        # add timestamp to datafile
+                        thisExp.timestampOnFlip(win, 'image_9.stopped')
+                        # update status
+                        image_9.status = FINISHED
+                        image_9.setAutoDraw(False)
+                
+                # *image_10* updates
+                
+                # if image_10 is starting this frame...
+                if image_10.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
+                    # keep track of start time/frame for later
+                    image_10.frameNStart = frameN  # exact frame index
+                    image_10.tStart = t  # local t and not account for scr refresh
+                    image_10.tStartRefresh = tThisFlipGlobal  # on global time
+                    win.timeOnFlip(image_10, 'tStartRefresh')  # time at next scr refresh
+                    # add timestamp to datafile
+                    thisExp.timestampOnFlip(win, 'image_10.started')
+                    # update status
+                    image_10.status = STARTED
+                    image_10.setAutoDraw(True)
+                
+                # if image_10 is active this frame...
+                if image_10.status == STARTED:
+                    # update params
+                    pass
+                
+                # if image_10 is stopping this frame...
+                if image_10.status == STARTED:
+                    # is it time to stop? (based on global clock, using actual start)
+                    if tThisFlipGlobal > image_10.tStartRefresh + 0.3-frameTolerance:
+                        # keep track of stop time/frame for later
+                        image_10.tStop = t  # not accounting for scr refresh
+                        image_10.tStopRefresh = tThisFlipGlobal  # on global time
+                        image_10.frameNStop = frameN  # exact frame index
+                        # add timestamp to datafile
+                        thisExp.timestampOnFlip(win, 'image_10.stopped')
+                        # update status
+                        image_10.status = FINISHED
+                        image_10.setAutoDraw(False)
+                
+                # *polygon_6* updates
+                
+                # if polygon_6 is starting this frame...
+                if polygon_6.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
+                    # keep track of start time/frame for later
+                    polygon_6.frameNStart = frameN  # exact frame index
+                    polygon_6.tStart = t  # local t and not account for scr refresh
+                    polygon_6.tStartRefresh = tThisFlipGlobal  # on global time
+                    win.timeOnFlip(polygon_6, 'tStartRefresh')  # time at next scr refresh
+                    # add timestamp to datafile
+                    thisExp.timestampOnFlip(win, 'polygon_6.started')
+                    # update status
+                    polygon_6.status = STARTED
+                    polygon_6.setAutoDraw(True)
+                
+                # if polygon_6 is active this frame...
+                if polygon_6.status == STARTED:
+                    # update params
+                    pass
+                
+                # if polygon_6 is stopping this frame...
+                if polygon_6.status == STARTED:
+                    # is it time to stop? (based on global clock, using actual start)
+                    if tThisFlipGlobal > polygon_6.tStartRefresh + 0.3-frameTolerance:
+                        # keep track of stop time/frame for later
+                        polygon_6.tStop = t  # not accounting for scr refresh
+                        polygon_6.tStopRefresh = tThisFlipGlobal  # on global time
+                        polygon_6.frameNStop = frameN  # exact frame index
+                        # add timestamp to datafile
+                        thisExp.timestampOnFlip(win, 'polygon_6.stopped')
+                        # update status
+                        polygon_6.status = FINISHED
+                        polygon_6.setAutoDraw(False)
+                
+                # check for quit (typically the Esc key)
+                if defaultKeyboard.getKeys(keyList=["escape"]):
+                    thisExp.status = FINISHED
+                if thisExp.status == FINISHED or endExpNow:
+                    endExperiment(thisExp, win=win)
+                    return
+                # pause experiment here if requested
+                if thisExp.status == PAUSED:
+                    pauseExperiment(
+                        thisExp=thisExp, 
+                        win=win, 
+                        timers=[routineTimer], 
+                        playbackComponents=[]
+                    )
+                    # skip the frame we paused on
+                    continue
+                
+                # check if all components have finished
+                if not continueRoutine:  # a component has requested a forced-end of Routine
+                    trial_5.forceEnded = routineForceEnded = True
+                    break
+                continueRoutine = False  # will revert to True if at least one component still running
+                for thisComponent in trial_5.components:
+                    if hasattr(thisComponent, "status") and thisComponent.status != FINISHED:
+                        continueRoutine = True
+                        break  # at least one component has not yet finished
+                
+                # refresh the screen
+                if continueRoutine:  # don't flip if this routine is over or we'll get a blank screen
+                    win.flip()
+            
+            # --- Ending Routine "trial_5" ---
+            for thisComponent in trial_5.components:
+                if hasattr(thisComponent, "setAutoDraw"):
+                    thisComponent.setAutoDraw(False)
+            # store stop times for trial_5
+            trial_5.tStop = globalClock.getTime(format='float')
+            trial_5.tStopRefresh = tThisFlipGlobal
+            thisExp.addData('trial_5.stopped', trial_5.tStop)
+            # using non-slip timing so subtract the expected duration of this Routine (unless ended on request)
+            if trial_5.maxDurationReached:
+                routineTimer.addTime(-trial_5.maxDuration)
+            elif trial_5.forceEnded:
+                routineTimer.reset()
+            else:
+                routineTimer.addTime(-0.300000)
+            
+            # --- Prepare to start Routine "trial_6" ---
+            # create an object to store info about Routine trial_6
+            trial_6 = data.Routine(
+                name='trial_6',
+                components=[image_11, image_12, polygon_7],
+            )
+            trial_6.status = NOT_STARTED
+            continueRoutine = True
+            # update component parameters for each repeat
+            image_11.setPos((px3, py3))
+            image_12.setPos((px4,py4))
+            # store start times for trial_6
+            trial_6.tStartRefresh = win.getFutureFlipTime(clock=globalClock)
+            trial_6.tStart = globalClock.getTime(format='float')
+            trial_6.status = STARTED
+            thisExp.addData('trial_6.started', trial_6.tStart)
+            trial_6.maxDuration = None
+            # keep track of which components have finished
+            trial_6Components = trial_6.components
+            for thisComponent in trial_6.components:
+                thisComponent.tStart = None
+                thisComponent.tStop = None
+                thisComponent.tStartRefresh = None
+                thisComponent.tStopRefresh = None
+                if hasattr(thisComponent, 'status'):
+                    thisComponent.status = NOT_STARTED
+            # reset timers
+            t = 0
+            _timeToFirstFrame = win.getFutureFlipTime(clock="now")
+            frameN = -1
+            
+            # --- Run Routine "trial_6" ---
+            # if trial has changed, end Routine now
+            if isinstance(loop_10, data.TrialHandler2) and thisLoop_10.thisN != loop_10.thisTrial.thisN:
+                continueRoutine = False
+            trial_6.forceEnded = routineForceEnded = not continueRoutine
+            while continueRoutine and routineTimer.getTime() < 0.3:
+                # get current time
+                t = routineTimer.getTime()
+                tThisFlip = win.getFutureFlipTime(clock=routineTimer)
+                tThisFlipGlobal = win.getFutureFlipTime(clock=None)
+                frameN = frameN + 1  # number of completed frames (so 0 is the first frame)
+                # update/draw components on each frame
+                
+                # *image_11* updates
+                
+                # if image_11 is starting this frame...
+                if image_11.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
+                    # keep track of start time/frame for later
+                    image_11.frameNStart = frameN  # exact frame index
+                    image_11.tStart = t  # local t and not account for scr refresh
+                    image_11.tStartRefresh = tThisFlipGlobal  # on global time
+                    win.timeOnFlip(image_11, 'tStartRefresh')  # time at next scr refresh
+                    # add timestamp to datafile
+                    thisExp.timestampOnFlip(win, 'image_11.started')
+                    # update status
+                    image_11.status = STARTED
+                    image_11.setAutoDraw(True)
+                
+                # if image_11 is active this frame...
+                if image_11.status == STARTED:
+                    # update params
+                    pass
+                
+                # if image_11 is stopping this frame...
+                if image_11.status == STARTED:
+                    # is it time to stop? (based on global clock, using actual start)
+                    if tThisFlipGlobal > image_11.tStartRefresh + 0.3-frameTolerance:
+                        # keep track of stop time/frame for later
+                        image_11.tStop = t  # not accounting for scr refresh
+                        image_11.tStopRefresh = tThisFlipGlobal  # on global time
+                        image_11.frameNStop = frameN  # exact frame index
+                        # add timestamp to datafile
+                        thisExp.timestampOnFlip(win, 'image_11.stopped')
+                        # update status
+                        image_11.status = FINISHED
+                        image_11.setAutoDraw(False)
+                
+                # *image_12* updates
+                
+                # if image_12 is starting this frame...
+                if image_12.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
+                    # keep track of start time/frame for later
+                    image_12.frameNStart = frameN  # exact frame index
+                    image_12.tStart = t  # local t and not account for scr refresh
+                    image_12.tStartRefresh = tThisFlipGlobal  # on global time
+                    win.timeOnFlip(image_12, 'tStartRefresh')  # time at next scr refresh
+                    # add timestamp to datafile
+                    thisExp.timestampOnFlip(win, 'image_12.started')
+                    # update status
+                    image_12.status = STARTED
+                    image_12.setAutoDraw(True)
+                
+                # if image_12 is active this frame...
+                if image_12.status == STARTED:
+                    # update params
+                    pass
+                
+                # if image_12 is stopping this frame...
+                if image_12.status == STARTED:
+                    # is it time to stop? (based on global clock, using actual start)
+                    if tThisFlipGlobal > image_12.tStartRefresh + 0.3-frameTolerance:
+                        # keep track of stop time/frame for later
+                        image_12.tStop = t  # not accounting for scr refresh
+                        image_12.tStopRefresh = tThisFlipGlobal  # on global time
+                        image_12.frameNStop = frameN  # exact frame index
+                        # add timestamp to datafile
+                        thisExp.timestampOnFlip(win, 'image_12.stopped')
+                        # update status
+                        image_12.status = FINISHED
+                        image_12.setAutoDraw(False)
+                
+                # *polygon_7* updates
+                
+                # if polygon_7 is starting this frame...
+                if polygon_7.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
+                    # keep track of start time/frame for later
+                    polygon_7.frameNStart = frameN  # exact frame index
+                    polygon_7.tStart = t  # local t and not account for scr refresh
+                    polygon_7.tStartRefresh = tThisFlipGlobal  # on global time
+                    win.timeOnFlip(polygon_7, 'tStartRefresh')  # time at next scr refresh
+                    # add timestamp to datafile
+                    thisExp.timestampOnFlip(win, 'polygon_7.started')
+                    # update status
+                    polygon_7.status = STARTED
+                    polygon_7.setAutoDraw(True)
+                
+                # if polygon_7 is active this frame...
+                if polygon_7.status == STARTED:
+                    # update params
+                    pass
+                
+                # if polygon_7 is stopping this frame...
+                if polygon_7.status == STARTED:
+                    # is it time to stop? (based on global clock, using actual start)
+                    if tThisFlipGlobal > polygon_7.tStartRefresh + 0.3-frameTolerance:
+                        # keep track of stop time/frame for later
+                        polygon_7.tStop = t  # not accounting for scr refresh
+                        polygon_7.tStopRefresh = tThisFlipGlobal  # on global time
+                        polygon_7.frameNStop = frameN  # exact frame index
+                        # add timestamp to datafile
+                        thisExp.timestampOnFlip(win, 'polygon_7.stopped')
+                        # update status
+                        polygon_7.status = FINISHED
+                        polygon_7.setAutoDraw(False)
+                
+                # check for quit (typically the Esc key)
+                if defaultKeyboard.getKeys(keyList=["escape"]):
+                    thisExp.status = FINISHED
+                if thisExp.status == FINISHED or endExpNow:
+                    endExperiment(thisExp, win=win)
+                    return
+                # pause experiment here if requested
+                if thisExp.status == PAUSED:
+                    pauseExperiment(
+                        thisExp=thisExp, 
+                        win=win, 
+                        timers=[routineTimer], 
+                        playbackComponents=[]
+                    )
+                    # skip the frame we paused on
+                    continue
+                
+                # check if all components have finished
+                if not continueRoutine:  # a component has requested a forced-end of Routine
+                    trial_6.forceEnded = routineForceEnded = True
+                    break
+                continueRoutine = False  # will revert to True if at least one component still running
+                for thisComponent in trial_6.components:
+                    if hasattr(thisComponent, "status") and thisComponent.status != FINISHED:
+                        continueRoutine = True
+                        break  # at least one component has not yet finished
+                
+                # refresh the screen
+                if continueRoutine:  # don't flip if this routine is over or we'll get a blank screen
+                    win.flip()
+            
+            # --- Ending Routine "trial_6" ---
+            for thisComponent in trial_6.components:
+                if hasattr(thisComponent, "setAutoDraw"):
+                    thisComponent.setAutoDraw(False)
+            # store stop times for trial_6
+            trial_6.tStop = globalClock.getTime(format='float')
+            trial_6.tStopRefresh = tThisFlipGlobal
+            thisExp.addData('trial_6.stopped', trial_6.tStop)
+            # using non-slip timing so subtract the expected duration of this Routine (unless ended on request)
+            if trial_6.maxDurationReached:
+                routineTimer.addTime(-trial_6.maxDuration)
+            elif trial_6.forceEnded:
+                routineTimer.reset()
+            else:
+                routineTimer.addTime(-0.300000)
+            thisExp.nextEntry()
+            
+        # completed rep10 repeats of 'loop_10'
+        
+        if thisSession is not None:
+            # if running in a Session with a Liaison client, send data up to now
+            thisSession.sendExperimentData()
+        
+        # set up handler to look after randomisation of conditions etc
+        loop_11 = data.TrialHandler2(
+            name='loop_11',
+            nReps=rep11, 
+            method='random', 
+            extraInfo=expInfo, 
+            originPath=-1, 
+            trialList=data.importConditions('incremento_loop3.xlsx'), 
+            seed=None, 
+        )
+        thisExp.addLoop(loop_11)  # add the loop to the experiment
+        thisLoop_11 = loop_11.trialList[0]  # so we can initialise stimuli with some values
+        # abbreviate parameter names if possible (e.g. rgb = thisLoop_11.rgb)
+        if thisLoop_11 != None:
+            for paramName in thisLoop_11:
+                globals()[paramName] = thisLoop_11[paramName]
+        if thisSession is not None:
+            # if running in a Session with a Liaison client, send data up to now
+            thisSession.sendExperimentData()
+        
+        for thisLoop_11 in loop_11:
+            currentLoop = loop_11
+            thisExp.timestampOnFlip(win, 'thisRow.t', format=globalClock.format)
+            if thisSession is not None:
+                # if running in a Session with a Liaison client, send data up to now
+                thisSession.sendExperimentData()
+            # abbreviate parameter names if possible (e.g. rgb = thisLoop_11.rgb)
+            if thisLoop_11 != None:
+                for paramName in thisLoop_11:
+                    globals()[paramName] = thisLoop_11[paramName]
+            
+            # --- Prepare to start Routine "trial_5" ---
+            # create an object to store info about Routine trial_5
+            trial_5 = data.Routine(
+                name='trial_5',
+                components=[image_9, image_10, polygon_6],
+            )
+            trial_5.status = NOT_STARTED
+            continueRoutine = True
+            # update component parameters for each repeat
+            image_9.setPos((px1, py1))
+            image_10.setPos((px2, py2))
+            # store start times for trial_5
+            trial_5.tStartRefresh = win.getFutureFlipTime(clock=globalClock)
+            trial_5.tStart = globalClock.getTime(format='float')
+            trial_5.status = STARTED
+            thisExp.addData('trial_5.started', trial_5.tStart)
+            trial_5.maxDuration = None
+            # keep track of which components have finished
+            trial_5Components = trial_5.components
+            for thisComponent in trial_5.components:
+                thisComponent.tStart = None
+                thisComponent.tStop = None
+                thisComponent.tStartRefresh = None
+                thisComponent.tStopRefresh = None
+                if hasattr(thisComponent, 'status'):
+                    thisComponent.status = NOT_STARTED
+            # reset timers
+            t = 0
+            _timeToFirstFrame = win.getFutureFlipTime(clock="now")
+            frameN = -1
+            
+            # --- Run Routine "trial_5" ---
+            # if trial has changed, end Routine now
+            if isinstance(loop_11, data.TrialHandler2) and thisLoop_11.thisN != loop_11.thisTrial.thisN:
+                continueRoutine = False
+            trial_5.forceEnded = routineForceEnded = not continueRoutine
+            while continueRoutine and routineTimer.getTime() < 0.3:
+                # get current time
+                t = routineTimer.getTime()
+                tThisFlip = win.getFutureFlipTime(clock=routineTimer)
+                tThisFlipGlobal = win.getFutureFlipTime(clock=None)
+                frameN = frameN + 1  # number of completed frames (so 0 is the first frame)
+                # update/draw components on each frame
+                
+                # *image_9* updates
+                
+                # if image_9 is starting this frame...
+                if image_9.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
+                    # keep track of start time/frame for later
+                    image_9.frameNStart = frameN  # exact frame index
+                    image_9.tStart = t  # local t and not account for scr refresh
+                    image_9.tStartRefresh = tThisFlipGlobal  # on global time
+                    win.timeOnFlip(image_9, 'tStartRefresh')  # time at next scr refresh
+                    # add timestamp to datafile
+                    thisExp.timestampOnFlip(win, 'image_9.started')
+                    # update status
+                    image_9.status = STARTED
+                    image_9.setAutoDraw(True)
+                
+                # if image_9 is active this frame...
+                if image_9.status == STARTED:
+                    # update params
+                    pass
+                
+                # if image_9 is stopping this frame...
+                if image_9.status == STARTED:
+                    # is it time to stop? (based on global clock, using actual start)
+                    if tThisFlipGlobal > image_9.tStartRefresh + 0.3-frameTolerance:
+                        # keep track of stop time/frame for later
+                        image_9.tStop = t  # not accounting for scr refresh
+                        image_9.tStopRefresh = tThisFlipGlobal  # on global time
+                        image_9.frameNStop = frameN  # exact frame index
+                        # add timestamp to datafile
+                        thisExp.timestampOnFlip(win, 'image_9.stopped')
+                        # update status
+                        image_9.status = FINISHED
+                        image_9.setAutoDraw(False)
+                
+                # *image_10* updates
+                
+                # if image_10 is starting this frame...
+                if image_10.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
+                    # keep track of start time/frame for later
+                    image_10.frameNStart = frameN  # exact frame index
+                    image_10.tStart = t  # local t and not account for scr refresh
+                    image_10.tStartRefresh = tThisFlipGlobal  # on global time
+                    win.timeOnFlip(image_10, 'tStartRefresh')  # time at next scr refresh
+                    # add timestamp to datafile
+                    thisExp.timestampOnFlip(win, 'image_10.started')
+                    # update status
+                    image_10.status = STARTED
+                    image_10.setAutoDraw(True)
+                
+                # if image_10 is active this frame...
+                if image_10.status == STARTED:
+                    # update params
+                    pass
+                
+                # if image_10 is stopping this frame...
+                if image_10.status == STARTED:
+                    # is it time to stop? (based on global clock, using actual start)
+                    if tThisFlipGlobal > image_10.tStartRefresh + 0.3-frameTolerance:
+                        # keep track of stop time/frame for later
+                        image_10.tStop = t  # not accounting for scr refresh
+                        image_10.tStopRefresh = tThisFlipGlobal  # on global time
+                        image_10.frameNStop = frameN  # exact frame index
+                        # add timestamp to datafile
+                        thisExp.timestampOnFlip(win, 'image_10.stopped')
+                        # update status
+                        image_10.status = FINISHED
+                        image_10.setAutoDraw(False)
+                
+                # *polygon_6* updates
+                
+                # if polygon_6 is starting this frame...
+                if polygon_6.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
+                    # keep track of start time/frame for later
+                    polygon_6.frameNStart = frameN  # exact frame index
+                    polygon_6.tStart = t  # local t and not account for scr refresh
+                    polygon_6.tStartRefresh = tThisFlipGlobal  # on global time
+                    win.timeOnFlip(polygon_6, 'tStartRefresh')  # time at next scr refresh
+                    # add timestamp to datafile
+                    thisExp.timestampOnFlip(win, 'polygon_6.started')
+                    # update status
+                    polygon_6.status = STARTED
+                    polygon_6.setAutoDraw(True)
+                
+                # if polygon_6 is active this frame...
+                if polygon_6.status == STARTED:
+                    # update params
+                    pass
+                
+                # if polygon_6 is stopping this frame...
+                if polygon_6.status == STARTED:
+                    # is it time to stop? (based on global clock, using actual start)
+                    if tThisFlipGlobal > polygon_6.tStartRefresh + 0.3-frameTolerance:
+                        # keep track of stop time/frame for later
+                        polygon_6.tStop = t  # not accounting for scr refresh
+                        polygon_6.tStopRefresh = tThisFlipGlobal  # on global time
+                        polygon_6.frameNStop = frameN  # exact frame index
+                        # add timestamp to datafile
+                        thisExp.timestampOnFlip(win, 'polygon_6.stopped')
+                        # update status
+                        polygon_6.status = FINISHED
+                        polygon_6.setAutoDraw(False)
+                
+                # check for quit (typically the Esc key)
+                if defaultKeyboard.getKeys(keyList=["escape"]):
+                    thisExp.status = FINISHED
+                if thisExp.status == FINISHED or endExpNow:
+                    endExperiment(thisExp, win=win)
+                    return
+                # pause experiment here if requested
+                if thisExp.status == PAUSED:
+                    pauseExperiment(
+                        thisExp=thisExp, 
+                        win=win, 
+                        timers=[routineTimer], 
+                        playbackComponents=[]
+                    )
+                    # skip the frame we paused on
+                    continue
+                
+                # check if all components have finished
+                if not continueRoutine:  # a component has requested a forced-end of Routine
+                    trial_5.forceEnded = routineForceEnded = True
+                    break
+                continueRoutine = False  # will revert to True if at least one component still running
+                for thisComponent in trial_5.components:
+                    if hasattr(thisComponent, "status") and thisComponent.status != FINISHED:
+                        continueRoutine = True
+                        break  # at least one component has not yet finished
+                
+                # refresh the screen
+                if continueRoutine:  # don't flip if this routine is over or we'll get a blank screen
+                    win.flip()
+            
+            # --- Ending Routine "trial_5" ---
+            for thisComponent in trial_5.components:
+                if hasattr(thisComponent, "setAutoDraw"):
+                    thisComponent.setAutoDraw(False)
+            # store stop times for trial_5
+            trial_5.tStop = globalClock.getTime(format='float')
+            trial_5.tStopRefresh = tThisFlipGlobal
+            thisExp.addData('trial_5.stopped', trial_5.tStop)
+            # using non-slip timing so subtract the expected duration of this Routine (unless ended on request)
+            if trial_5.maxDurationReached:
+                routineTimer.addTime(-trial_5.maxDuration)
+            elif trial_5.forceEnded:
+                routineTimer.reset()
+            else:
+                routineTimer.addTime(-0.300000)
+            
+            # --- Prepare to start Routine "trial_6" ---
+            # create an object to store info about Routine trial_6
+            trial_6 = data.Routine(
+                name='trial_6',
+                components=[image_11, image_12, polygon_7],
+            )
+            trial_6.status = NOT_STARTED
+            continueRoutine = True
+            # update component parameters for each repeat
+            image_11.setPos((px3, py3))
+            image_12.setPos((px4,py4))
+            # store start times for trial_6
+            trial_6.tStartRefresh = win.getFutureFlipTime(clock=globalClock)
+            trial_6.tStart = globalClock.getTime(format='float')
+            trial_6.status = STARTED
+            thisExp.addData('trial_6.started', trial_6.tStart)
+            trial_6.maxDuration = None
+            # keep track of which components have finished
+            trial_6Components = trial_6.components
+            for thisComponent in trial_6.components:
+                thisComponent.tStart = None
+                thisComponent.tStop = None
+                thisComponent.tStartRefresh = None
+                thisComponent.tStopRefresh = None
+                if hasattr(thisComponent, 'status'):
+                    thisComponent.status = NOT_STARTED
+            # reset timers
+            t = 0
+            _timeToFirstFrame = win.getFutureFlipTime(clock="now")
+            frameN = -1
+            
+            # --- Run Routine "trial_6" ---
+            # if trial has changed, end Routine now
+            if isinstance(loop_11, data.TrialHandler2) and thisLoop_11.thisN != loop_11.thisTrial.thisN:
+                continueRoutine = False
+            trial_6.forceEnded = routineForceEnded = not continueRoutine
+            while continueRoutine and routineTimer.getTime() < 0.3:
+                # get current time
+                t = routineTimer.getTime()
+                tThisFlip = win.getFutureFlipTime(clock=routineTimer)
+                tThisFlipGlobal = win.getFutureFlipTime(clock=None)
+                frameN = frameN + 1  # number of completed frames (so 0 is the first frame)
+                # update/draw components on each frame
+                
+                # *image_11* updates
+                
+                # if image_11 is starting this frame...
+                if image_11.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
+                    # keep track of start time/frame for later
+                    image_11.frameNStart = frameN  # exact frame index
+                    image_11.tStart = t  # local t and not account for scr refresh
+                    image_11.tStartRefresh = tThisFlipGlobal  # on global time
+                    win.timeOnFlip(image_11, 'tStartRefresh')  # time at next scr refresh
+                    # add timestamp to datafile
+                    thisExp.timestampOnFlip(win, 'image_11.started')
+                    # update status
+                    image_11.status = STARTED
+                    image_11.setAutoDraw(True)
+                
+                # if image_11 is active this frame...
+                if image_11.status == STARTED:
+                    # update params
+                    pass
+                
+                # if image_11 is stopping this frame...
+                if image_11.status == STARTED:
+                    # is it time to stop? (based on global clock, using actual start)
+                    if tThisFlipGlobal > image_11.tStartRefresh + 0.3-frameTolerance:
+                        # keep track of stop time/frame for later
+                        image_11.tStop = t  # not accounting for scr refresh
+                        image_11.tStopRefresh = tThisFlipGlobal  # on global time
+                        image_11.frameNStop = frameN  # exact frame index
+                        # add timestamp to datafile
+                        thisExp.timestampOnFlip(win, 'image_11.stopped')
+                        # update status
+                        image_11.status = FINISHED
+                        image_11.setAutoDraw(False)
+                
+                # *image_12* updates
+                
+                # if image_12 is starting this frame...
+                if image_12.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
+                    # keep track of start time/frame for later
+                    image_12.frameNStart = frameN  # exact frame index
+                    image_12.tStart = t  # local t and not account for scr refresh
+                    image_12.tStartRefresh = tThisFlipGlobal  # on global time
+                    win.timeOnFlip(image_12, 'tStartRefresh')  # time at next scr refresh
+                    # add timestamp to datafile
+                    thisExp.timestampOnFlip(win, 'image_12.started')
+                    # update status
+                    image_12.status = STARTED
+                    image_12.setAutoDraw(True)
+                
+                # if image_12 is active this frame...
+                if image_12.status == STARTED:
+                    # update params
+                    pass
+                
+                # if image_12 is stopping this frame...
+                if image_12.status == STARTED:
+                    # is it time to stop? (based on global clock, using actual start)
+                    if tThisFlipGlobal > image_12.tStartRefresh + 0.3-frameTolerance:
+                        # keep track of stop time/frame for later
+                        image_12.tStop = t  # not accounting for scr refresh
+                        image_12.tStopRefresh = tThisFlipGlobal  # on global time
+                        image_12.frameNStop = frameN  # exact frame index
+                        # add timestamp to datafile
+                        thisExp.timestampOnFlip(win, 'image_12.stopped')
+                        # update status
+                        image_12.status = FINISHED
+                        image_12.setAutoDraw(False)
+                
+                # *polygon_7* updates
+                
+                # if polygon_7 is starting this frame...
+                if polygon_7.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
+                    # keep track of start time/frame for later
+                    polygon_7.frameNStart = frameN  # exact frame index
+                    polygon_7.tStart = t  # local t and not account for scr refresh
+                    polygon_7.tStartRefresh = tThisFlipGlobal  # on global time
+                    win.timeOnFlip(polygon_7, 'tStartRefresh')  # time at next scr refresh
+                    # add timestamp to datafile
+                    thisExp.timestampOnFlip(win, 'polygon_7.started')
+                    # update status
+                    polygon_7.status = STARTED
+                    polygon_7.setAutoDraw(True)
+                
+                # if polygon_7 is active this frame...
+                if polygon_7.status == STARTED:
+                    # update params
+                    pass
+                
+                # if polygon_7 is stopping this frame...
+                if polygon_7.status == STARTED:
+                    # is it time to stop? (based on global clock, using actual start)
+                    if tThisFlipGlobal > polygon_7.tStartRefresh + 0.3-frameTolerance:
+                        # keep track of stop time/frame for later
+                        polygon_7.tStop = t  # not accounting for scr refresh
+                        polygon_7.tStopRefresh = tThisFlipGlobal  # on global time
+                        polygon_7.frameNStop = frameN  # exact frame index
+                        # add timestamp to datafile
+                        thisExp.timestampOnFlip(win, 'polygon_7.stopped')
+                        # update status
+                        polygon_7.status = FINISHED
+                        polygon_7.setAutoDraw(False)
+                
+                # check for quit (typically the Esc key)
+                if defaultKeyboard.getKeys(keyList=["escape"]):
+                    thisExp.status = FINISHED
+                if thisExp.status == FINISHED or endExpNow:
+                    endExperiment(thisExp, win=win)
+                    return
+                # pause experiment here if requested
+                if thisExp.status == PAUSED:
+                    pauseExperiment(
+                        thisExp=thisExp, 
+                        win=win, 
+                        timers=[routineTimer], 
+                        playbackComponents=[]
+                    )
+                    # skip the frame we paused on
+                    continue
+                
+                # check if all components have finished
+                if not continueRoutine:  # a component has requested a forced-end of Routine
+                    trial_6.forceEnded = routineForceEnded = True
+                    break
+                continueRoutine = False  # will revert to True if at least one component still running
+                for thisComponent in trial_6.components:
+                    if hasattr(thisComponent, "status") and thisComponent.status != FINISHED:
+                        continueRoutine = True
+                        break  # at least one component has not yet finished
+                
+                # refresh the screen
+                if continueRoutine:  # don't flip if this routine is over or we'll get a blank screen
+                    win.flip()
+            
+            # --- Ending Routine "trial_6" ---
+            for thisComponent in trial_6.components:
+                if hasattr(thisComponent, "setAutoDraw"):
+                    thisComponent.setAutoDraw(False)
+            # store stop times for trial_6
+            trial_6.tStop = globalClock.getTime(format='float')
+            trial_6.tStopRefresh = tThisFlipGlobal
+            thisExp.addData('trial_6.stopped', trial_6.tStop)
+            # using non-slip timing so subtract the expected duration of this Routine (unless ended on request)
+            if trial_6.maxDurationReached:
+                routineTimer.addTime(-trial_6.maxDuration)
+            elif trial_6.forceEnded:
+                routineTimer.reset()
+            else:
+                routineTimer.addTime(-0.300000)
+            thisExp.nextEntry()
+            
+        # completed rep11 repeats of 'loop_11'
+        
+        if thisSession is not None:
+            # if running in a Session with a Liaison client, send data up to now
+            thisSession.sendExperimentData()
+        
+        # set up handler to look after randomisation of conditions etc
+        loop_12 = data.TrialHandler2(
+            name='loop_12',
+            nReps=rep12, 
+            method='random', 
+            extraInfo=expInfo, 
+            originPath=-1, 
+            trialList=data.importConditions('Incrementos_loop_4.xlsx'), 
+            seed=None, 
+        )
+        thisExp.addLoop(loop_12)  # add the loop to the experiment
+        thisLoop_12 = loop_12.trialList[0]  # so we can initialise stimuli with some values
+        # abbreviate parameter names if possible (e.g. rgb = thisLoop_12.rgb)
+        if thisLoop_12 != None:
+            for paramName in thisLoop_12:
+                globals()[paramName] = thisLoop_12[paramName]
+        if thisSession is not None:
+            # if running in a Session with a Liaison client, send data up to now
+            thisSession.sendExperimentData()
+        
+        for thisLoop_12 in loop_12:
+            currentLoop = loop_12
+            thisExp.timestampOnFlip(win, 'thisRow.t', format=globalClock.format)
+            if thisSession is not None:
+                # if running in a Session with a Liaison client, send data up to now
+                thisSession.sendExperimentData()
+            # abbreviate parameter names if possible (e.g. rgb = thisLoop_12.rgb)
+            if thisLoop_12 != None:
+                for paramName in thisLoop_12:
+                    globals()[paramName] = thisLoop_12[paramName]
+            
+            # --- Prepare to start Routine "trial_5" ---
+            # create an object to store info about Routine trial_5
+            trial_5 = data.Routine(
+                name='trial_5',
+                components=[image_9, image_10, polygon_6],
+            )
+            trial_5.status = NOT_STARTED
+            continueRoutine = True
+            # update component parameters for each repeat
+            image_9.setPos((px1, py1))
+            image_10.setPos((px2, py2))
+            # store start times for trial_5
+            trial_5.tStartRefresh = win.getFutureFlipTime(clock=globalClock)
+            trial_5.tStart = globalClock.getTime(format='float')
+            trial_5.status = STARTED
+            thisExp.addData('trial_5.started', trial_5.tStart)
+            trial_5.maxDuration = None
+            # keep track of which components have finished
+            trial_5Components = trial_5.components
+            for thisComponent in trial_5.components:
+                thisComponent.tStart = None
+                thisComponent.tStop = None
+                thisComponent.tStartRefresh = None
+                thisComponent.tStopRefresh = None
+                if hasattr(thisComponent, 'status'):
+                    thisComponent.status = NOT_STARTED
+            # reset timers
+            t = 0
+            _timeToFirstFrame = win.getFutureFlipTime(clock="now")
+            frameN = -1
+            
+            # --- Run Routine "trial_5" ---
+            # if trial has changed, end Routine now
+            if isinstance(loop_12, data.TrialHandler2) and thisLoop_12.thisN != loop_12.thisTrial.thisN:
+                continueRoutine = False
+            trial_5.forceEnded = routineForceEnded = not continueRoutine
+            while continueRoutine and routineTimer.getTime() < 0.3:
+                # get current time
+                t = routineTimer.getTime()
+                tThisFlip = win.getFutureFlipTime(clock=routineTimer)
+                tThisFlipGlobal = win.getFutureFlipTime(clock=None)
+                frameN = frameN + 1  # number of completed frames (so 0 is the first frame)
+                # update/draw components on each frame
+                
+                # *image_9* updates
+                
+                # if image_9 is starting this frame...
+                if image_9.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
+                    # keep track of start time/frame for later
+                    image_9.frameNStart = frameN  # exact frame index
+                    image_9.tStart = t  # local t and not account for scr refresh
+                    image_9.tStartRefresh = tThisFlipGlobal  # on global time
+                    win.timeOnFlip(image_9, 'tStartRefresh')  # time at next scr refresh
+                    # add timestamp to datafile
+                    thisExp.timestampOnFlip(win, 'image_9.started')
+                    # update status
+                    image_9.status = STARTED
+                    image_9.setAutoDraw(True)
+                
+                # if image_9 is active this frame...
+                if image_9.status == STARTED:
+                    # update params
+                    pass
+                
+                # if image_9 is stopping this frame...
+                if image_9.status == STARTED:
+                    # is it time to stop? (based on global clock, using actual start)
+                    if tThisFlipGlobal > image_9.tStartRefresh + 0.3-frameTolerance:
+                        # keep track of stop time/frame for later
+                        image_9.tStop = t  # not accounting for scr refresh
+                        image_9.tStopRefresh = tThisFlipGlobal  # on global time
+                        image_9.frameNStop = frameN  # exact frame index
+                        # add timestamp to datafile
+                        thisExp.timestampOnFlip(win, 'image_9.stopped')
+                        # update status
+                        image_9.status = FINISHED
+                        image_9.setAutoDraw(False)
+                
+                # *image_10* updates
+                
+                # if image_10 is starting this frame...
+                if image_10.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
+                    # keep track of start time/frame for later
+                    image_10.frameNStart = frameN  # exact frame index
+                    image_10.tStart = t  # local t and not account for scr refresh
+                    image_10.tStartRefresh = tThisFlipGlobal  # on global time
+                    win.timeOnFlip(image_10, 'tStartRefresh')  # time at next scr refresh
+                    # add timestamp to datafile
+                    thisExp.timestampOnFlip(win, 'image_10.started')
+                    # update status
+                    image_10.status = STARTED
+                    image_10.setAutoDraw(True)
+                
+                # if image_10 is active this frame...
+                if image_10.status == STARTED:
+                    # update params
+                    pass
+                
+                # if image_10 is stopping this frame...
+                if image_10.status == STARTED:
+                    # is it time to stop? (based on global clock, using actual start)
+                    if tThisFlipGlobal > image_10.tStartRefresh + 0.3-frameTolerance:
+                        # keep track of stop time/frame for later
+                        image_10.tStop = t  # not accounting for scr refresh
+                        image_10.tStopRefresh = tThisFlipGlobal  # on global time
+                        image_10.frameNStop = frameN  # exact frame index
+                        # add timestamp to datafile
+                        thisExp.timestampOnFlip(win, 'image_10.stopped')
+                        # update status
+                        image_10.status = FINISHED
+                        image_10.setAutoDraw(False)
+                
+                # *polygon_6* updates
+                
+                # if polygon_6 is starting this frame...
+                if polygon_6.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
+                    # keep track of start time/frame for later
+                    polygon_6.frameNStart = frameN  # exact frame index
+                    polygon_6.tStart = t  # local t and not account for scr refresh
+                    polygon_6.tStartRefresh = tThisFlipGlobal  # on global time
+                    win.timeOnFlip(polygon_6, 'tStartRefresh')  # time at next scr refresh
+                    # add timestamp to datafile
+                    thisExp.timestampOnFlip(win, 'polygon_6.started')
+                    # update status
+                    polygon_6.status = STARTED
+                    polygon_6.setAutoDraw(True)
+                
+                # if polygon_6 is active this frame...
+                if polygon_6.status == STARTED:
+                    # update params
+                    pass
+                
+                # if polygon_6 is stopping this frame...
+                if polygon_6.status == STARTED:
+                    # is it time to stop? (based on global clock, using actual start)
+                    if tThisFlipGlobal > polygon_6.tStartRefresh + 0.3-frameTolerance:
+                        # keep track of stop time/frame for later
+                        polygon_6.tStop = t  # not accounting for scr refresh
+                        polygon_6.tStopRefresh = tThisFlipGlobal  # on global time
+                        polygon_6.frameNStop = frameN  # exact frame index
+                        # add timestamp to datafile
+                        thisExp.timestampOnFlip(win, 'polygon_6.stopped')
+                        # update status
+                        polygon_6.status = FINISHED
+                        polygon_6.setAutoDraw(False)
+                
+                # check for quit (typically the Esc key)
+                if defaultKeyboard.getKeys(keyList=["escape"]):
+                    thisExp.status = FINISHED
+                if thisExp.status == FINISHED or endExpNow:
+                    endExperiment(thisExp, win=win)
+                    return
+                # pause experiment here if requested
+                if thisExp.status == PAUSED:
+                    pauseExperiment(
+                        thisExp=thisExp, 
+                        win=win, 
+                        timers=[routineTimer], 
+                        playbackComponents=[]
+                    )
+                    # skip the frame we paused on
+                    continue
+                
+                # check if all components have finished
+                if not continueRoutine:  # a component has requested a forced-end of Routine
+                    trial_5.forceEnded = routineForceEnded = True
+                    break
+                continueRoutine = False  # will revert to True if at least one component still running
+                for thisComponent in trial_5.components:
+                    if hasattr(thisComponent, "status") and thisComponent.status != FINISHED:
+                        continueRoutine = True
+                        break  # at least one component has not yet finished
+                
+                # refresh the screen
+                if continueRoutine:  # don't flip if this routine is over or we'll get a blank screen
+                    win.flip()
+            
+            # --- Ending Routine "trial_5" ---
+            for thisComponent in trial_5.components:
+                if hasattr(thisComponent, "setAutoDraw"):
+                    thisComponent.setAutoDraw(False)
+            # store stop times for trial_5
+            trial_5.tStop = globalClock.getTime(format='float')
+            trial_5.tStopRefresh = tThisFlipGlobal
+            thisExp.addData('trial_5.stopped', trial_5.tStop)
+            # using non-slip timing so subtract the expected duration of this Routine (unless ended on request)
+            if trial_5.maxDurationReached:
+                routineTimer.addTime(-trial_5.maxDuration)
+            elif trial_5.forceEnded:
+                routineTimer.reset()
+            else:
+                routineTimer.addTime(-0.300000)
+            
+            # --- Prepare to start Routine "trial_6" ---
+            # create an object to store info about Routine trial_6
+            trial_6 = data.Routine(
+                name='trial_6',
+                components=[image_11, image_12, polygon_7],
+            )
+            trial_6.status = NOT_STARTED
+            continueRoutine = True
+            # update component parameters for each repeat
+            image_11.setPos((px3, py3))
+            image_12.setPos((px4,py4))
+            # store start times for trial_6
+            trial_6.tStartRefresh = win.getFutureFlipTime(clock=globalClock)
+            trial_6.tStart = globalClock.getTime(format='float')
+            trial_6.status = STARTED
+            thisExp.addData('trial_6.started', trial_6.tStart)
+            trial_6.maxDuration = None
+            # keep track of which components have finished
+            trial_6Components = trial_6.components
+            for thisComponent in trial_6.components:
+                thisComponent.tStart = None
+                thisComponent.tStop = None
+                thisComponent.tStartRefresh = None
+                thisComponent.tStopRefresh = None
+                if hasattr(thisComponent, 'status'):
+                    thisComponent.status = NOT_STARTED
+            # reset timers
+            t = 0
+            _timeToFirstFrame = win.getFutureFlipTime(clock="now")
+            frameN = -1
+            
+            # --- Run Routine "trial_6" ---
+            # if trial has changed, end Routine now
+            if isinstance(loop_12, data.TrialHandler2) and thisLoop_12.thisN != loop_12.thisTrial.thisN:
+                continueRoutine = False
+            trial_6.forceEnded = routineForceEnded = not continueRoutine
+            while continueRoutine and routineTimer.getTime() < 0.3:
+                # get current time
+                t = routineTimer.getTime()
+                tThisFlip = win.getFutureFlipTime(clock=routineTimer)
+                tThisFlipGlobal = win.getFutureFlipTime(clock=None)
+                frameN = frameN + 1  # number of completed frames (so 0 is the first frame)
+                # update/draw components on each frame
+                
+                # *image_11* updates
+                
+                # if image_11 is starting this frame...
+                if image_11.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
+                    # keep track of start time/frame for later
+                    image_11.frameNStart = frameN  # exact frame index
+                    image_11.tStart = t  # local t and not account for scr refresh
+                    image_11.tStartRefresh = tThisFlipGlobal  # on global time
+                    win.timeOnFlip(image_11, 'tStartRefresh')  # time at next scr refresh
+                    # add timestamp to datafile
+                    thisExp.timestampOnFlip(win, 'image_11.started')
+                    # update status
+                    image_11.status = STARTED
+                    image_11.setAutoDraw(True)
+                
+                # if image_11 is active this frame...
+                if image_11.status == STARTED:
+                    # update params
+                    pass
+                
+                # if image_11 is stopping this frame...
+                if image_11.status == STARTED:
+                    # is it time to stop? (based on global clock, using actual start)
+                    if tThisFlipGlobal > image_11.tStartRefresh + 0.3-frameTolerance:
+                        # keep track of stop time/frame for later
+                        image_11.tStop = t  # not accounting for scr refresh
+                        image_11.tStopRefresh = tThisFlipGlobal  # on global time
+                        image_11.frameNStop = frameN  # exact frame index
+                        # add timestamp to datafile
+                        thisExp.timestampOnFlip(win, 'image_11.stopped')
+                        # update status
+                        image_11.status = FINISHED
+                        image_11.setAutoDraw(False)
+                
+                # *image_12* updates
+                
+                # if image_12 is starting this frame...
+                if image_12.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
+                    # keep track of start time/frame for later
+                    image_12.frameNStart = frameN  # exact frame index
+                    image_12.tStart = t  # local t and not account for scr refresh
+                    image_12.tStartRefresh = tThisFlipGlobal  # on global time
+                    win.timeOnFlip(image_12, 'tStartRefresh')  # time at next scr refresh
+                    # add timestamp to datafile
+                    thisExp.timestampOnFlip(win, 'image_12.started')
+                    # update status
+                    image_12.status = STARTED
+                    image_12.setAutoDraw(True)
+                
+                # if image_12 is active this frame...
+                if image_12.status == STARTED:
+                    # update params
+                    pass
+                
+                # if image_12 is stopping this frame...
+                if image_12.status == STARTED:
+                    # is it time to stop? (based on global clock, using actual start)
+                    if tThisFlipGlobal > image_12.tStartRefresh + 0.3-frameTolerance:
+                        # keep track of stop time/frame for later
+                        image_12.tStop = t  # not accounting for scr refresh
+                        image_12.tStopRefresh = tThisFlipGlobal  # on global time
+                        image_12.frameNStop = frameN  # exact frame index
+                        # add timestamp to datafile
+                        thisExp.timestampOnFlip(win, 'image_12.stopped')
+                        # update status
+                        image_12.status = FINISHED
+                        image_12.setAutoDraw(False)
+                
+                # *polygon_7* updates
+                
+                # if polygon_7 is starting this frame...
+                if polygon_7.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
+                    # keep track of start time/frame for later
+                    polygon_7.frameNStart = frameN  # exact frame index
+                    polygon_7.tStart = t  # local t and not account for scr refresh
+                    polygon_7.tStartRefresh = tThisFlipGlobal  # on global time
+                    win.timeOnFlip(polygon_7, 'tStartRefresh')  # time at next scr refresh
+                    # add timestamp to datafile
+                    thisExp.timestampOnFlip(win, 'polygon_7.started')
+                    # update status
+                    polygon_7.status = STARTED
+                    polygon_7.setAutoDraw(True)
+                
+                # if polygon_7 is active this frame...
+                if polygon_7.status == STARTED:
+                    # update params
+                    pass
+                
+                # if polygon_7 is stopping this frame...
+                if polygon_7.status == STARTED:
+                    # is it time to stop? (based on global clock, using actual start)
+                    if tThisFlipGlobal > polygon_7.tStartRefresh + 0.3-frameTolerance:
+                        # keep track of stop time/frame for later
+                        polygon_7.tStop = t  # not accounting for scr refresh
+                        polygon_7.tStopRefresh = tThisFlipGlobal  # on global time
+                        polygon_7.frameNStop = frameN  # exact frame index
+                        # add timestamp to datafile
+                        thisExp.timestampOnFlip(win, 'polygon_7.stopped')
+                        # update status
+                        polygon_7.status = FINISHED
+                        polygon_7.setAutoDraw(False)
+                
+                # check for quit (typically the Esc key)
+                if defaultKeyboard.getKeys(keyList=["escape"]):
+                    thisExp.status = FINISHED
+                if thisExp.status == FINISHED or endExpNow:
+                    endExperiment(thisExp, win=win)
+                    return
+                # pause experiment here if requested
+                if thisExp.status == PAUSED:
+                    pauseExperiment(
+                        thisExp=thisExp, 
+                        win=win, 
+                        timers=[routineTimer], 
+                        playbackComponents=[]
+                    )
+                    # skip the frame we paused on
+                    continue
+                
+                # check if all components have finished
+                if not continueRoutine:  # a component has requested a forced-end of Routine
+                    trial_6.forceEnded = routineForceEnded = True
+                    break
+                continueRoutine = False  # will revert to True if at least one component still running
+                for thisComponent in trial_6.components:
+                    if hasattr(thisComponent, "status") and thisComponent.status != FINISHED:
+                        continueRoutine = True
+                        break  # at least one component has not yet finished
+                
+                # refresh the screen
+                if continueRoutine:  # don't flip if this routine is over or we'll get a blank screen
+                    win.flip()
+            
+            # --- Ending Routine "trial_6" ---
+            for thisComponent in trial_6.components:
+                if hasattr(thisComponent, "setAutoDraw"):
+                    thisComponent.setAutoDraw(False)
+            # store stop times for trial_6
+            trial_6.tStop = globalClock.getTime(format='float')
+            trial_6.tStopRefresh = tThisFlipGlobal
+            thisExp.addData('trial_6.stopped', trial_6.tStop)
+            # using non-slip timing so subtract the expected duration of this Routine (unless ended on request)
+            if trial_6.maxDurationReached:
+                routineTimer.addTime(-trial_6.maxDuration)
+            elif trial_6.forceEnded:
+                routineTimer.reset()
+            else:
+                routineTimer.addTime(-0.300000)
+            thisExp.nextEntry()
+            
+        # completed rep12 repeats of 'loop_12'
+        
+        if thisSession is not None:
+            # if running in a Session with a Liaison client, send data up to now
+            thisSession.sendExperimentData()
+        
+        # --- Prepare to start Routine "_intertrial_interval_" ---
+        # create an object to store info about Routine _intertrial_interval_
+        _intertrial_interval_ = data.Routine(
+            name='_intertrial_interval_',
+            components=[polygon_5],
+        )
+        _intertrial_interval_.status = NOT_STARTED
+        continueRoutine = True
+        # update component parameters for each repeat
+        # store start times for _intertrial_interval_
+        _intertrial_interval_.tStartRefresh = win.getFutureFlipTime(clock=globalClock)
+        _intertrial_interval_.tStart = globalClock.getTime(format='float')
+        _intertrial_interval_.status = STARTED
+        thisExp.addData('_intertrial_interval_.started', _intertrial_interval_.tStart)
+        _intertrial_interval_.maxDuration = None
+        # keep track of which components have finished
+        _intertrial_interval_Components = _intertrial_interval_.components
+        for thisComponent in _intertrial_interval_.components:
+            thisComponent.tStart = None
+            thisComponent.tStop = None
+            thisComponent.tStartRefresh = None
+            thisComponent.tStopRefresh = None
+            if hasattr(thisComponent, 'status'):
+                thisComponent.status = NOT_STARTED
+        # reset timers
+        t = 0
+        _timeToFirstFrame = win.getFutureFlipTime(clock="now")
+        frameN = -1
+        
+        # --- Run Routine "_intertrial_interval_" ---
+        # if trial has changed, end Routine now
+        if isinstance(MainLoop, data.TrialHandler2) and thisMainLoop.thisN != MainLoop.thisTrial.thisN:
+            continueRoutine = False
+        _intertrial_interval_.forceEnded = routineForceEnded = not continueRoutine
+        while continueRoutine and routineTimer.getTime() < 0.5:
+            # get current time
+            t = routineTimer.getTime()
+            tThisFlip = win.getFutureFlipTime(clock=routineTimer)
+            tThisFlipGlobal = win.getFutureFlipTime(clock=None)
+            frameN = frameN + 1  # number of completed frames (so 0 is the first frame)
+            # update/draw components on each frame
+            
+            # *polygon_5* updates
+            
+            # if polygon_5 is starting this frame...
+            if polygon_5.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
+                # keep track of start time/frame for later
+                polygon_5.frameNStart = frameN  # exact frame index
+                polygon_5.tStart = t  # local t and not account for scr refresh
+                polygon_5.tStartRefresh = tThisFlipGlobal  # on global time
+                win.timeOnFlip(polygon_5, 'tStartRefresh')  # time at next scr refresh
+                # add timestamp to datafile
+                thisExp.timestampOnFlip(win, 'polygon_5.started')
+                # update status
+                polygon_5.status = STARTED
+                polygon_5.setAutoDraw(True)
+            
+            # if polygon_5 is active this frame...
+            if polygon_5.status == STARTED:
+                # update params
+                pass
+            
+            # if polygon_5 is stopping this frame...
+            if polygon_5.status == STARTED:
+                # is it time to stop? (based on global clock, using actual start)
+                if tThisFlipGlobal > polygon_5.tStartRefresh + 0.5-frameTolerance:
+                    # keep track of stop time/frame for later
+                    polygon_5.tStop = t  # not accounting for scr refresh
+                    polygon_5.tStopRefresh = tThisFlipGlobal  # on global time
+                    polygon_5.frameNStop = frameN  # exact frame index
+                    # add timestamp to datafile
+                    thisExp.timestampOnFlip(win, 'polygon_5.stopped')
+                    # update status
+                    polygon_5.status = FINISHED
+                    polygon_5.setAutoDraw(False)
+            
+            # check for quit (typically the Esc key)
+            if defaultKeyboard.getKeys(keyList=["escape"]):
+                thisExp.status = FINISHED
+            if thisExp.status == FINISHED or endExpNow:
+                endExperiment(thisExp, win=win)
+                return
+            # pause experiment here if requested
+            if thisExp.status == PAUSED:
+                pauseExperiment(
+                    thisExp=thisExp, 
+                    win=win, 
+                    timers=[routineTimer], 
+                    playbackComponents=[]
+                )
+                # skip the frame we paused on
+                continue
+            
+            # check if all components have finished
+            if not continueRoutine:  # a component has requested a forced-end of Routine
+                _intertrial_interval_.forceEnded = routineForceEnded = True
+                break
+            continueRoutine = False  # will revert to True if at least one component still running
+            for thisComponent in _intertrial_interval_.components:
+                if hasattr(thisComponent, "status") and thisComponent.status != FINISHED:
+                    continueRoutine = True
+                    break  # at least one component has not yet finished
+            
+            # refresh the screen
+            if continueRoutine:  # don't flip if this routine is over or we'll get a blank screen
+                win.flip()
+        
+        # --- Ending Routine "_intertrial_interval_" ---
+        for thisComponent in _intertrial_interval_.components:
+            if hasattr(thisComponent, "setAutoDraw"):
+                thisComponent.setAutoDraw(False)
+        # store stop times for _intertrial_interval_
+        _intertrial_interval_.tStop = globalClock.getTime(format='float')
+        _intertrial_interval_.tStopRefresh = tThisFlipGlobal
+        thisExp.addData('_intertrial_interval_.stopped', _intertrial_interval_.tStop)
+        # using non-slip timing so subtract the expected duration of this Routine (unless ended on request)
+        if _intertrial_interval_.maxDurationReached:
+            routineTimer.addTime(-_intertrial_interval_.maxDuration)
+        elif _intertrial_interval_.forceEnded:
+            routineTimer.reset()
+        else:
+            routineTimer.addTime(-0.500000)
         thisExp.nextEntry()
         
     # completed 8.0 repeats of 'MainLoop'
