@@ -1,0 +1,1374 @@
+5.5774 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+5.5781 	INFO 	Loaded monitor calibration from ['2025_03_11 15:24']
+6.1051 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002326D517B80>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002326D517B20>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000002327742B160>, multiSample=False, name='window1', numSamples=2, pos=[560.0, 240.0], screen=0, size=array([800, 600]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+6.1051 	EXP 	window1: backgroundImage = ''
+6.1051 	EXP 	window1: backgroundFit = 'none'
+6.1123 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.1131 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.1139 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.1149 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.1159 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.1164 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.1172 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.1183 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.1186 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.1190 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.1200 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.1210 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.1217 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.1225 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.1232 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.1240 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.1248 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.1253 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.1258 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.1269 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.1273 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.1277 	DEBUG 	Uploading Texture Font fontname to graphics card
+6.1298 	DEBUG 	Upload of Texture Font fontname complete
+6.1362 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.1375 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.1385 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.1388 	DEBUG 	Uploading Texture Font fontname to graphics card
+6.1396 	DEBUG 	Upload of Texture Font fontname complete
+6.1416 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+6.1416 	EXP 	window1: recordFrameIntervals = False
+6.3044 	EXP 	window1: recordFrameIntervals = True
+6.4879 	EXP 	Screen (0) actual frame rate measured at 60.00Hz
+6.4879 	EXP 	window1: recordFrameIntervals = False
+6.4943 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.4948 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.4958 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.4971 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.4983 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.4995 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.5001 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.5012 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.5023 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.5034 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.5038 	DEBUG 	Uploading Texture Font fontname to graphics card
+6.5043 	DEBUG 	Upload of Texture Font fontname complete
+6.5163 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+9.1288 	INFO 	keyboard.Keyboard is using iohub backend.
+9.1288 	EXP 	Estimulo_ICE: status = STARTED
+9.1325 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='gaborVert.png', interpolate=False, mask=None, maskParams=None, name='image', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.1347 	EXP 	Created image_2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='gaborVert.png', interpolate=False, mask=None, maskParams=None, name='image_2', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.1385 	EXP 	Created polygon = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-2.0, draggable=False, fillColor=array([-1.    ,  1.    , -0.0039]), fillColorSpace='rgb', fillRGB=array([-1.    ,  1.    , -0.0039]), interpolate=True, lineColor=array([-1.    ,  1.    , -0.0039]), lineColorSpace='rgb', lineRGB=array([-1.    ,  1.    , -0.0039]), lineWidth=1.0, name='polygon', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.005, 0.005]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+9.1407 	EXP 	Created image_3 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='gaborVert.png', interpolate=False, mask=None, maskParams=None, name='image_3', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.1429 	EXP 	Created image_4 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='gaborVert.png', interpolate=False, mask=None, maskParams=None, name='image_4', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.1457 	EXP 	Created polygon_2 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-2.0, draggable=False, fillColor=array([-1.    ,  1.    , -0.0039]), fillColorSpace='rgb', fillRGB=array([-1.    ,  1.    , -0.0039]), interpolate=True, lineColor=array([-1.    ,  1.    , -0.0039]), lineColorSpace='rgb', lineRGB=array([-1.    ,  1.    , -0.0039]), lineWidth=1.0, name='polygon_2', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.005, 0.005]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+9.1478 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='gaborVert.png', interpolate=False, mask=None, maskParams=None, name='image', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.1500 	EXP 	Created image_2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='gaborVert.png', interpolate=False, mask=None, maskParams=None, name='image_2', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.1534 	EXP 	Created polygon = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-2.0, draggable=False, fillColor=array([-1.    ,  1.    , -0.0039]), fillColorSpace='rgb', fillRGB=array([-1.    ,  1.    , -0.0039]), interpolate=True, lineColor=array([-1.    ,  1.    , -0.0039]), lineColorSpace='rgb', lineRGB=array([-1.    ,  1.    , -0.0039]), lineWidth=1.0, name='polygon', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.005, 0.005]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+9.1556 	EXP 	Created image_3 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='gaborVert.png', interpolate=False, mask=None, maskParams=None, name='image_3', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.1576 	EXP 	Created image_4 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='gaborVert.png', interpolate=False, mask=None, maskParams=None, name='image_4', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.1602 	EXP 	Created polygon_2 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-2.0, draggable=False, fillColor=array([-1.    ,  1.    , -0.0039]), fillColorSpace='rgb', fillRGB=array([-1.    ,  1.    , -0.0039]), interpolate=True, lineColor=array([-1.    ,  1.    , -0.0039]), lineColorSpace='rgb', lineRGB=array([-1.    ,  1.    , -0.0039]), lineWidth=1.0, name='polygon_2', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.005, 0.005]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+9.1621 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='gaborVert.png', interpolate=False, mask=None, maskParams=None, name='image', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.1640 	EXP 	Created image_2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='gaborVert.png', interpolate=False, mask=None, maskParams=None, name='image_2', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.1665 	EXP 	Created polygon = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-2.0, draggable=False, fillColor=array([-1.    ,  1.    , -0.0039]), fillColorSpace='rgb', fillRGB=array([-1.    ,  1.    , -0.0039]), interpolate=True, lineColor=array([-1.    ,  1.    , -0.0039]), lineColorSpace='rgb', lineRGB=array([-1.    ,  1.    , -0.0039]), lineWidth=1.0, name='polygon', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.005, 0.005]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+9.1685 	EXP 	Created image_3 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='gaborVert.png', interpolate=False, mask=None, maskParams=None, name='image_3', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.1706 	EXP 	Created image_4 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='gaborVert.png', interpolate=False, mask=None, maskParams=None, name='image_4', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.1731 	EXP 	Created polygon_2 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-2.0, draggable=False, fillColor=array([-1.    ,  1.    , -0.0039]), fillColorSpace='rgb', fillRGB=array([-1.    ,  1.    , -0.0039]), interpolate=True, lineColor=array([-1.    ,  1.    , -0.0039]), lineColorSpace='rgb', lineRGB=array([-1.    ,  1.    , -0.0039]), lineWidth=1.0, name='polygon_2', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.005, 0.005]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+9.1751 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='gaborVert.png', interpolate=False, mask=None, maskParams=None, name='image', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.1771 	EXP 	Created image_2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='gaborVert.png', interpolate=False, mask=None, maskParams=None, name='image_2', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.1798 	EXP 	Created polygon = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-2.0, draggable=False, fillColor=array([-1.    ,  1.    , -0.0039]), fillColorSpace='rgb', fillRGB=array([-1.    ,  1.    , -0.0039]), interpolate=True, lineColor=array([-1.    ,  1.    , -0.0039]), lineColorSpace='rgb', lineRGB=array([-1.    ,  1.    , -0.0039]), lineWidth=1.0, name='polygon', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.005, 0.005]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+9.1817 	EXP 	Created image_3 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='gaborVert.png', interpolate=False, mask=None, maskParams=None, name='image_3', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.1837 	EXP 	Created image_4 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='gaborVert.png', interpolate=False, mask=None, maskParams=None, name='image_4', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.1862 	EXP 	Created polygon_2 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-2.0, draggable=False, fillColor=array([-1.    ,  1.    , -0.0039]), fillColorSpace='rgb', fillRGB=array([-1.    ,  1.    , -0.0039]), interpolate=True, lineColor=array([-1.    ,  1.    , -0.0039]), lineColorSpace='rgb', lineRGB=array([-1.    ,  1.    , -0.0039]), lineWidth=1.0, name='polygon_2', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.005, 0.005]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+9.1883 	EXP 	Created image_5 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='gaborHoriz.png', interpolate=False, mask=None, maskParams=None, name='image_5', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.1901 	EXP 	Created image_6 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=True, image='gaborHoriz.png', interpolate=False, mask=None, maskParams=None, name='image_6', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.1926 	EXP 	Created polygon_3 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-2.0, draggable=False, fillColor=array([-1.    ,  1.    , -0.0039]), fillColorSpace='rgb', fillRGB=array([-1.    ,  1.    , -0.0039]), interpolate=True, lineColor=array([-1.    ,  1.    , -0.0039]), lineColorSpace='rgb', lineRGB=array([-1.    ,  1.    , -0.0039]), lineWidth=1.0, name='polygon_3', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.005, 0.005]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+9.1944 	EXP 	Created image_7 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='gaborHoriz.png', interpolate=False, mask=None, maskParams=None, name='image_7', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.1963 	EXP 	Created image_8 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='gaborHoriz.png', interpolate=False, mask=None, maskParams=None, name='image_8', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.1988 	EXP 	Created polygon_4 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-2.0, draggable=False, fillColor=array([-1.    ,  1.    , -0.0039]), fillColorSpace='rgb', fillRGB=array([-1.    ,  1.    , -0.0039]), interpolate=True, lineColor=array([-1.    ,  1.    , -0.0039]), lineColorSpace='rgb', lineRGB=array([-1.    ,  1.    , -0.0039]), lineWidth=1.0, name='polygon_4', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.005, 0.005]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+9.2007 	EXP 	Created image_5 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='gaborHoriz.png', interpolate=False, mask=None, maskParams=None, name='image_5', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.2026 	EXP 	Created image_6 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=True, image='gaborHoriz.png', interpolate=False, mask=None, maskParams=None, name='image_6', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.2054 	EXP 	Created polygon_3 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-2.0, draggable=False, fillColor=array([-1.    ,  1.    , -0.0039]), fillColorSpace='rgb', fillRGB=array([-1.    ,  1.    , -0.0039]), interpolate=True, lineColor=array([-1.    ,  1.    , -0.0039]), lineColorSpace='rgb', lineRGB=array([-1.    ,  1.    , -0.0039]), lineWidth=1.0, name='polygon_3', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.005, 0.005]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+9.2073 	EXP 	Created image_7 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='gaborHoriz.png', interpolate=False, mask=None, maskParams=None, name='image_7', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.2091 	EXP 	Created image_8 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='gaborHoriz.png', interpolate=False, mask=None, maskParams=None, name='image_8', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.2116 	EXP 	Created polygon_4 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-2.0, draggable=False, fillColor=array([-1.    ,  1.    , -0.0039]), fillColorSpace='rgb', fillRGB=array([-1.    ,  1.    , -0.0039]), interpolate=True, lineColor=array([-1.    ,  1.    , -0.0039]), lineColorSpace='rgb', lineRGB=array([-1.    ,  1.    , -0.0039]), lineWidth=1.0, name='polygon_4', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.005, 0.005]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+9.2135 	EXP 	Created image_5 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='gaborHoriz.png', interpolate=False, mask=None, maskParams=None, name='image_5', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.2153 	EXP 	Created image_6 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=True, image='gaborHoriz.png', interpolate=False, mask=None, maskParams=None, name='image_6', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.2178 	EXP 	Created polygon_3 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-2.0, draggable=False, fillColor=array([-1.    ,  1.    , -0.0039]), fillColorSpace='rgb', fillRGB=array([-1.    ,  1.    , -0.0039]), interpolate=True, lineColor=array([-1.    ,  1.    , -0.0039]), lineColorSpace='rgb', lineRGB=array([-1.    ,  1.    , -0.0039]), lineWidth=1.0, name='polygon_3', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.005, 0.005]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+9.2202 	EXP 	Created image_7 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='gaborHoriz.png', interpolate=False, mask=None, maskParams=None, name='image_7', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.2222 	EXP 	Created image_8 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='gaborHoriz.png', interpolate=False, mask=None, maskParams=None, name='image_8', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.2247 	EXP 	Created polygon_4 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-2.0, draggable=False, fillColor=array([-1.    ,  1.    , -0.0039]), fillColorSpace='rgb', fillRGB=array([-1.    ,  1.    , -0.0039]), interpolate=True, lineColor=array([-1.    ,  1.    , -0.0039]), lineColorSpace='rgb', lineRGB=array([-1.    ,  1.    , -0.0039]), lineWidth=1.0, name='polygon_4', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.005, 0.005]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+9.2265 	EXP 	Created image_5 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='gaborHoriz.png', interpolate=False, mask=None, maskParams=None, name='image_5', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.2289 	EXP 	Created image_6 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=True, image='gaborHoriz.png', interpolate=False, mask=None, maskParams=None, name='image_6', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.2316 	EXP 	Created polygon_3 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-2.0, draggable=False, fillColor=array([-1.    ,  1.    , -0.0039]), fillColorSpace='rgb', fillRGB=array([-1.    ,  1.    , -0.0039]), interpolate=True, lineColor=array([-1.    ,  1.    , -0.0039]), lineColorSpace='rgb', lineRGB=array([-1.    ,  1.    , -0.0039]), lineWidth=1.0, name='polygon_3', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.005, 0.005]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+9.2336 	EXP 	Created image_7 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='gaborHoriz.png', interpolate=False, mask=None, maskParams=None, name='image_7', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.2355 	EXP 	Created image_8 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='gaborHoriz.png', interpolate=False, mask=None, maskParams=None, name='image_8', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.2380 	EXP 	Created polygon_4 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-2.0, draggable=False, fillColor=array([-1.    ,  1.    , -0.0039]), fillColorSpace='rgb', fillRGB=array([-1.    ,  1.    , -0.0039]), interpolate=True, lineColor=array([-1.    ,  1.    , -0.0039]), lineColorSpace='rgb', lineRGB=array([-1.    ,  1.    , -0.0039]), lineWidth=1.0, name='polygon_4', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.005, 0.005]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+9.2401 	EXP 	Created image_9 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='controle.jpeg', interpolate=False, mask=None, maskParams=None, name='image_9', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.2426 	EXP 	Created polygon_6 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-1.0, draggable=False, fillColor=array([-1.    ,  1.    , -0.0039]), fillColorSpace='rgb', fillRGB=array([-1.    ,  1.    , -0.0039]), interpolate=True, lineColor=array([-1.    ,  1.    , -0.0039]), lineColorSpace='rgb', lineRGB=array([-1.    ,  1.    , -0.0039]), lineWidth=1.0, name='polygon_6', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.005, 0.005]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+9.2446 	EXP 	Created image_10 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=True, image='controle.jpeg', interpolate=False, mask=None, maskParams=None, name='image_10', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.2464 	EXP 	Created image_11 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='controle.jpeg', interpolate=False, mask=None, maskParams=None, name='image_11', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.2483 	EXP 	Created image_12 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='controle.jpeg', interpolate=False, mask=None, maskParams=None, name='image_12', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.2509 	EXP 	Created polygon_7 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-2.0, draggable=False, fillColor=array([-1.    ,  1.    , -0.0039]), fillColorSpace='rgb', fillRGB=array([-1.    ,  1.    , -0.0039]), interpolate=True, lineColor=array([-1.    ,  1.    , -0.0039]), lineColorSpace='rgb', lineRGB=array([-1.    ,  1.    , -0.0039]), lineWidth=1.0, name='polygon_7', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.005, 0.005]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+9.2528 	EXP 	Created image_9 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='controle.jpeg', interpolate=False, mask=None, maskParams=None, name='image_9', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.2554 	EXP 	Created polygon_6 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-1.0, draggable=False, fillColor=array([-1.    ,  1.    , -0.0039]), fillColorSpace='rgb', fillRGB=array([-1.    ,  1.    , -0.0039]), interpolate=True, lineColor=array([-1.    ,  1.    , -0.0039]), lineColorSpace='rgb', lineRGB=array([-1.    ,  1.    , -0.0039]), lineWidth=1.0, name='polygon_6', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.005, 0.005]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+9.2575 	EXP 	Created image_10 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=True, image='controle.jpeg', interpolate=False, mask=None, maskParams=None, name='image_10', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.2594 	EXP 	Created image_11 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='controle.jpeg', interpolate=False, mask=None, maskParams=None, name='image_11', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.2613 	EXP 	Created image_12 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='controle.jpeg', interpolate=False, mask=None, maskParams=None, name='image_12', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.2637 	EXP 	Created polygon_7 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-2.0, draggable=False, fillColor=array([-1.    ,  1.    , -0.0039]), fillColorSpace='rgb', fillRGB=array([-1.    ,  1.    , -0.0039]), interpolate=True, lineColor=array([-1.    ,  1.    , -0.0039]), lineColorSpace='rgb', lineRGB=array([-1.    ,  1.    , -0.0039]), lineWidth=1.0, name='polygon_7', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.005, 0.005]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+9.2656 	EXP 	Created image_9 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='controle.jpeg', interpolate=False, mask=None, maskParams=None, name='image_9', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.2680 	EXP 	Created polygon_6 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-1.0, draggable=False, fillColor=array([-1.    ,  1.    , -0.0039]), fillColorSpace='rgb', fillRGB=array([-1.    ,  1.    , -0.0039]), interpolate=True, lineColor=array([-1.    ,  1.    , -0.0039]), lineColorSpace='rgb', lineRGB=array([-1.    ,  1.    , -0.0039]), lineWidth=1.0, name='polygon_6', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.005, 0.005]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+9.2701 	EXP 	Created image_10 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=True, image='controle.jpeg', interpolate=False, mask=None, maskParams=None, name='image_10', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.2720 	EXP 	Created image_11 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='controle.jpeg', interpolate=False, mask=None, maskParams=None, name='image_11', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.2739 	EXP 	Created image_12 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='controle.jpeg', interpolate=False, mask=None, maskParams=None, name='image_12', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.2763 	EXP 	Created polygon_7 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-2.0, draggable=False, fillColor=array([-1.    ,  1.    , -0.0039]), fillColorSpace='rgb', fillRGB=array([-1.    ,  1.    , -0.0039]), interpolate=True, lineColor=array([-1.    ,  1.    , -0.0039]), lineColorSpace='rgb', lineRGB=array([-1.    ,  1.    , -0.0039]), lineWidth=1.0, name='polygon_7', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.005, 0.005]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+9.2782 	EXP 	Created image_9 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='controle.jpeg', interpolate=False, mask=None, maskParams=None, name='image_9', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.2815 	EXP 	Created polygon_6 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-1.0, draggable=False, fillColor=array([-1.    ,  1.    , -0.0039]), fillColorSpace='rgb', fillRGB=array([-1.    ,  1.    , -0.0039]), interpolate=True, lineColor=array([-1.    ,  1.    , -0.0039]), lineColorSpace='rgb', lineRGB=array([-1.    ,  1.    , -0.0039]), lineWidth=1.0, name='polygon_6', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.005, 0.005]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+9.2835 	EXP 	Created image_10 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=True, image='controle.jpeg', interpolate=False, mask=None, maskParams=None, name='image_10', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.2853 	EXP 	Created image_11 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='controle.jpeg', interpolate=False, mask=None, maskParams=None, name='image_11', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.2874 	EXP 	Created image_12 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='controle.jpeg', interpolate=False, mask=None, maskParams=None, name='image_12', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+9.2898 	EXP 	Created polygon_7 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-2.0, draggable=False, fillColor=array([-1.    ,  1.    , -0.0039]), fillColorSpace='rgb', fillRGB=array([-1.    ,  1.    , -0.0039]), interpolate=True, lineColor=array([-1.    ,  1.    , -0.0039]), lineColorSpace='rgb', lineRGB=array([-1.    ,  1.    , -0.0039]), lineWidth=1.0, name='polygon_7', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.005, 0.005]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+9.2925 	EXP 	Created polygon_5 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([ 1, -1, -1]), fillColorSpace='rgb', fillRGB=array([ 1, -1, -1]), interpolate=True, lineColor=array([ 1., -1., -1.]), lineColorSpace='rgb', lineRGB=array([ 1, -1, -1]), lineWidth=1.0, name='polygon_5', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.005, 0.005]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+0.0176 	DEBUG 	Read csv file with pandas: Estimulos.csv
+0.0185 	DEBUG 	Clearing unnamed columns from Estimulos.csv
+0.0187 	EXP 	Imported Estimulos.csv as conditions, 12 conditions, 1 params
+0.0193 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'LoopName': 'Estimulo_7', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+0.0268 	DEBUG 	Read excel file with openpyxl: Incrementos.xlsx
+0.0309 	EXP 	Imported Incrementos.xlsx as conditions, 34 conditions, 8 params
+0.0405 	DEBUG 	Read excel file with openpyxl: incremento_loop2.xlsx
+0.0444 	EXP 	Imported incremento_loop2.xlsx as conditions, 34 conditions, 8 params
+0.0530 	DEBUG 	Read excel file with openpyxl: incremento_loop3.xlsx
+0.0566 	EXP 	Imported incremento_loop3.xlsx as conditions, 34 conditions, 8 params
+0.0652 	DEBUG 	Read excel file with openpyxl: Incrementos_loop_4.xlsx
+0.0689 	EXP 	Imported Incrementos_loop_4.xlsx as conditions, 34 conditions, 8 params
+0.0772 	DEBUG 	Read excel file with openpyxl: Incrementos.xlsx
+0.0808 	EXP 	Imported Incrementos.xlsx as conditions, 34 conditions, 8 params
+0.0898 	DEBUG 	Read excel file with openpyxl: incremento_loop2.xlsx
+0.0934 	EXP 	Imported incremento_loop2.xlsx as conditions, 34 conditions, 8 params
+0.1025 	DEBUG 	Read excel file with openpyxl: incremento_loop3.xlsx
+0.1061 	EXP 	Imported incremento_loop3.xlsx as conditions, 34 conditions, 8 params
+0.1065 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 4.4, 'py2': -4.4, 'py3': 4.4, 'py4': -4.4, 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+0.1125 	EXP 	image_5: autoDraw = True
+0.1125 	EXP 	image_6: autoDraw = True
+0.1125 	EXP 	polygon_3: autoDraw = True
+0.3298 	EXP 	image_5: autoDraw = False
+0.3298 	EXP 	image_6: autoDraw = False
+0.3298 	EXP 	polygon_3: autoDraw = False
+0.3298 	EXP 	image_7: autoDraw = True
+0.3298 	EXP 	image_8: autoDraw = True
+0.3298 	EXP 	polygon_4: autoDraw = True
+0.6244 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 4.3, 'py2': -4.3, 'py3': 4.3, 'py4': -4.3, 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+0.6446 	EXP 	image_7: autoDraw = False
+0.6446 	EXP 	image_8: autoDraw = False
+0.6446 	EXP 	polygon_4: autoDraw = False
+0.6446 	EXP 	image_5: autoDraw = True
+0.6446 	EXP 	image_6: autoDraw = True
+0.6446 	EXP 	polygon_3: autoDraw = True
+0.9295 	EXP 	image_5: autoDraw = False
+0.9295 	EXP 	image_6: autoDraw = False
+0.9295 	EXP 	polygon_3: autoDraw = False
+0.9295 	EXP 	image_7: autoDraw = True
+0.9295 	EXP 	image_8: autoDraw = True
+0.9295 	EXP 	polygon_4: autoDraw = True
+1.2182 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 4.2, 'py2': -4.2, 'py3': 4.2, 'py4': -4.2, 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+1.2294 	EXP 	image_7: autoDraw = False
+1.2294 	EXP 	image_8: autoDraw = False
+1.2294 	EXP 	polygon_4: autoDraw = False
+1.2294 	EXP 	image_7: autoDraw = False
+1.2294 	EXP 	image_8: autoDraw = False
+1.2294 	EXP 	polygon_4: autoDraw = False
+1.2294 	EXP 	image_5: autoDraw = True
+1.2294 	EXP 	image_6: autoDraw = True
+1.2294 	EXP 	polygon_3: autoDraw = True
+1.5296 	EXP 	image_5: autoDraw = False
+1.5296 	EXP 	image_6: autoDraw = False
+1.5296 	EXP 	polygon_3: autoDraw = False
+1.5296 	EXP 	image_5: autoDraw = False
+1.5296 	EXP 	image_6: autoDraw = False
+1.5296 	EXP 	polygon_3: autoDraw = False
+1.5296 	EXP 	image_7: autoDraw = True
+1.5296 	EXP 	image_8: autoDraw = True
+1.5296 	EXP 	polygon_4: autoDraw = True
+1.8184 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 4.1, 'py2': -4.1, 'py3': 4.1, 'py4': -4.1, 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+1.8294 	EXP 	image_7: autoDraw = False
+1.8294 	EXP 	image_8: autoDraw = False
+1.8294 	EXP 	polygon_4: autoDraw = False
+1.8294 	EXP 	image_7: autoDraw = False
+1.8294 	EXP 	image_8: autoDraw = False
+1.8294 	EXP 	polygon_4: autoDraw = False
+1.8294 	EXP 	image_5: autoDraw = True
+1.8294 	EXP 	image_6: autoDraw = True
+1.8294 	EXP 	polygon_3: autoDraw = True
+2.1295 	EXP 	image_5: autoDraw = False
+2.1295 	EXP 	image_6: autoDraw = False
+2.1295 	EXP 	polygon_3: autoDraw = False
+2.1295 	EXP 	image_5: autoDraw = False
+2.1295 	EXP 	image_6: autoDraw = False
+2.1295 	EXP 	polygon_3: autoDraw = False
+2.1295 	EXP 	image_7: autoDraw = True
+2.1295 	EXP 	image_8: autoDraw = True
+2.1295 	EXP 	polygon_4: autoDraw = True
+2.4181 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 4, 'py2': -4, 'py3': 4, 'py4': -4, 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+2.4294 	EXP 	image_7: autoDraw = False
+2.4294 	EXP 	image_8: autoDraw = False
+2.4294 	EXP 	polygon_4: autoDraw = False
+2.4294 	EXP 	image_7: autoDraw = False
+2.4294 	EXP 	image_8: autoDraw = False
+2.4294 	EXP 	polygon_4: autoDraw = False
+2.4294 	EXP 	image_5: autoDraw = True
+2.4294 	EXP 	image_6: autoDraw = True
+2.4294 	EXP 	polygon_3: autoDraw = True
+2.7463 	EXP 	image_5: autoDraw = False
+2.7463 	EXP 	image_6: autoDraw = False
+2.7463 	EXP 	polygon_3: autoDraw = False
+2.7463 	EXP 	image_7: autoDraw = True
+2.7463 	EXP 	image_8: autoDraw = True
+2.7463 	EXP 	polygon_4: autoDraw = True
+3.0196 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 3.9, 'py2': -3.9, 'py3': 3.9, 'py4': -3.9, 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+3.0299 	EXP 	image_7: autoDraw = False
+3.0299 	EXP 	image_8: autoDraw = False
+3.0299 	EXP 	polygon_4: autoDraw = False
+3.0299 	EXP 	image_5: autoDraw = True
+3.0299 	EXP 	image_6: autoDraw = True
+3.0299 	EXP 	polygon_3: autoDraw = True
+3.3299 	EXP 	image_5: autoDraw = False
+3.3299 	EXP 	image_6: autoDraw = False
+3.3299 	EXP 	polygon_3: autoDraw = False
+3.3299 	EXP 	image_5: autoDraw = False
+3.3299 	EXP 	image_6: autoDraw = False
+3.3299 	EXP 	polygon_3: autoDraw = False
+3.3299 	EXP 	image_7: autoDraw = True
+3.3299 	EXP 	image_8: autoDraw = True
+3.3299 	EXP 	polygon_4: autoDraw = True
+3.6200 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 3.8, 'py2': -3.8, 'py3': 3.8, 'py4': -3.8, 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+3.6298 	EXP 	image_7: autoDraw = False
+3.6298 	EXP 	image_8: autoDraw = False
+3.6298 	EXP 	polygon_4: autoDraw = False
+3.6298 	EXP 	image_7: autoDraw = False
+3.6298 	EXP 	image_8: autoDraw = False
+3.6298 	EXP 	polygon_4: autoDraw = False
+3.6298 	EXP 	image_5: autoDraw = True
+3.6298 	EXP 	image_6: autoDraw = True
+3.6298 	EXP 	polygon_3: autoDraw = True
+3.9300 	EXP 	image_5: autoDraw = False
+3.9300 	EXP 	image_6: autoDraw = False
+3.9300 	EXP 	polygon_3: autoDraw = False
+3.9300 	EXP 	image_5: autoDraw = False
+3.9300 	EXP 	image_6: autoDraw = False
+3.9300 	EXP 	polygon_3: autoDraw = False
+3.9300 	EXP 	image_7: autoDraw = True
+3.9300 	EXP 	image_8: autoDraw = True
+3.9300 	EXP 	polygon_4: autoDraw = True
+4.2200 	EXP 	New trial (rep=0, index=7): <Trial 7 (7 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 3.7, 'py2': -3.7, 'py3': 3.7, 'py4': -3.7, 'thisN': 7, 'thisTrialN': 7, 'thisRepN': 0}>
+4.2299 	EXP 	image_7: autoDraw = False
+4.2299 	EXP 	image_8: autoDraw = False
+4.2299 	EXP 	polygon_4: autoDraw = False
+4.2299 	EXP 	image_7: autoDraw = False
+4.2299 	EXP 	image_8: autoDraw = False
+4.2299 	EXP 	polygon_4: autoDraw = False
+4.2299 	EXP 	image_5: autoDraw = True
+4.2299 	EXP 	image_6: autoDraw = True
+4.2299 	EXP 	polygon_3: autoDraw = True
+4.5300 	EXP 	image_5: autoDraw = False
+4.5300 	EXP 	image_6: autoDraw = False
+4.5300 	EXP 	polygon_3: autoDraw = False
+4.5300 	EXP 	image_5: autoDraw = False
+4.5300 	EXP 	image_6: autoDraw = False
+4.5300 	EXP 	polygon_3: autoDraw = False
+4.5300 	EXP 	image_7: autoDraw = True
+4.5300 	EXP 	image_8: autoDraw = True
+4.5300 	EXP 	polygon_4: autoDraw = True
+4.8203 	EXP 	New trial (rep=0, index=8): <Trial 8 (8 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 3.6, 'py2': -3.6, 'py3': 3.6, 'py4': -3.6, 'thisN': 8, 'thisTrialN': 8, 'thisRepN': 0}>
+4.8298 	EXP 	image_7: autoDraw = False
+4.8298 	EXP 	image_8: autoDraw = False
+4.8298 	EXP 	polygon_4: autoDraw = False
+4.8298 	EXP 	image_7: autoDraw = False
+4.8298 	EXP 	image_8: autoDraw = False
+4.8298 	EXP 	polygon_4: autoDraw = False
+4.8298 	EXP 	image_5: autoDraw = True
+4.8298 	EXP 	image_6: autoDraw = True
+4.8298 	EXP 	polygon_3: autoDraw = True
+5.1298 	EXP 	image_5: autoDraw = False
+5.1298 	EXP 	image_6: autoDraw = False
+5.1298 	EXP 	polygon_3: autoDraw = False
+5.1298 	EXP 	image_5: autoDraw = False
+5.1298 	EXP 	image_6: autoDraw = False
+5.1298 	EXP 	polygon_3: autoDraw = False
+5.1298 	EXP 	image_7: autoDraw = True
+5.1298 	EXP 	image_8: autoDraw = True
+5.1298 	EXP 	polygon_4: autoDraw = True
+5.4164 	EXP 	New trial (rep=0, index=9): <Trial 9 (9 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 3.5, 'py2': -3.5, 'py3': 3.5, 'py4': -3.5, 'thisN': 9, 'thisTrialN': 9, 'thisRepN': 0}>
+5.4289 	EXP 	image_7: autoDraw = False
+5.4289 	EXP 	image_8: autoDraw = False
+5.4289 	EXP 	polygon_4: autoDraw = False
+5.4289 	EXP 	image_7: autoDraw = False
+5.4289 	EXP 	image_8: autoDraw = False
+5.4289 	EXP 	polygon_4: autoDraw = False
+5.4289 	EXP 	image_5: autoDraw = True
+5.4289 	EXP 	image_6: autoDraw = True
+5.4289 	EXP 	polygon_3: autoDraw = True
+5.7298 	EXP 	image_5: autoDraw = False
+5.7298 	EXP 	image_6: autoDraw = False
+5.7298 	EXP 	polygon_3: autoDraw = False
+5.7298 	EXP 	image_5: autoDraw = False
+5.7298 	EXP 	image_6: autoDraw = False
+5.7298 	EXP 	polygon_3: autoDraw = False
+5.7298 	EXP 	image_7: autoDraw = True
+5.7298 	EXP 	image_8: autoDraw = True
+5.7298 	EXP 	polygon_4: autoDraw = True
+6.0191 	EXP 	New trial (rep=0, index=10): <Trial 10 (10 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 3.39999999999999, 'py2': -3.39999999999999, 'py3': 3.39999999999999, 'py4': -3.39999999999999, 'thisN': 10, 'thisTrialN': 10, 'thisRepN': 0}>
+6.0297 	EXP 	image_7: autoDraw = False
+6.0297 	EXP 	image_8: autoDraw = False
+6.0297 	EXP 	polygon_4: autoDraw = False
+6.0297 	EXP 	image_7: autoDraw = False
+6.0297 	EXP 	image_8: autoDraw = False
+6.0297 	EXP 	polygon_4: autoDraw = False
+6.0297 	EXP 	image_5: autoDraw = True
+6.0297 	EXP 	image_6: autoDraw = True
+6.0297 	EXP 	polygon_3: autoDraw = True
+6.3297 	EXP 	image_5: autoDraw = False
+6.3297 	EXP 	image_6: autoDraw = False
+6.3297 	EXP 	polygon_3: autoDraw = False
+6.3297 	EXP 	image_5: autoDraw = False
+6.3297 	EXP 	image_6: autoDraw = False
+6.3297 	EXP 	polygon_3: autoDraw = False
+6.3297 	EXP 	image_7: autoDraw = True
+6.3297 	EXP 	image_8: autoDraw = True
+6.3297 	EXP 	polygon_4: autoDraw = True
+6.6155 	EXP 	New trial (rep=0, index=11): <Trial 11 (11 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 3.29999999999999, 'py2': -3.29999999999999, 'py3': 3.29999999999999, 'py4': -3.29999999999999, 'thisN': 11, 'thisTrialN': 11, 'thisRepN': 0}>
+6.6286 	EXP 	image_7: autoDraw = False
+6.6286 	EXP 	image_8: autoDraw = False
+6.6286 	EXP 	polygon_4: autoDraw = False
+6.6286 	EXP 	image_5: autoDraw = True
+6.6286 	EXP 	image_6: autoDraw = True
+6.6286 	EXP 	polygon_3: autoDraw = True
+6.9285 	EXP 	image_5: autoDraw = False
+6.9285 	EXP 	image_6: autoDraw = False
+6.9285 	EXP 	polygon_3: autoDraw = False
+6.9285 	EXP 	image_5: autoDraw = False
+6.9285 	EXP 	image_6: autoDraw = False
+6.9285 	EXP 	polygon_3: autoDraw = False
+6.9285 	EXP 	image_7: autoDraw = True
+6.9285 	EXP 	image_8: autoDraw = True
+6.9285 	EXP 	polygon_4: autoDraw = True
+7.2146 	EXP 	New trial (rep=0, index=12): <Trial 12 (12 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 3.19999999999999, 'py2': -3.19999999999999, 'py3': 3.19999999999999, 'py4': -3.19999999999999, 'thisN': 12, 'thisTrialN': 12, 'thisRepN': 0}>
+7.2284 	EXP 	image_7: autoDraw = False
+7.2284 	EXP 	image_8: autoDraw = False
+7.2284 	EXP 	polygon_4: autoDraw = False
+7.2284 	EXP 	image_7: autoDraw = False
+7.2284 	EXP 	image_8: autoDraw = False
+7.2284 	EXP 	polygon_4: autoDraw = False
+7.2284 	EXP 	image_5: autoDraw = True
+7.2284 	EXP 	image_6: autoDraw = True
+7.2284 	EXP 	polygon_3: autoDraw = True
+7.5284 	EXP 	image_5: autoDraw = False
+7.5284 	EXP 	image_6: autoDraw = False
+7.5284 	EXP 	polygon_3: autoDraw = False
+7.5284 	EXP 	image_5: autoDraw = False
+7.5284 	EXP 	image_6: autoDraw = False
+7.5284 	EXP 	polygon_3: autoDraw = False
+7.5284 	EXP 	image_7: autoDraw = True
+7.5284 	EXP 	image_8: autoDraw = True
+7.5284 	EXP 	polygon_4: autoDraw = True
+7.8145 	EXP 	New trial (rep=0, index=13): <Trial 13 (13 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 3.09999999999999, 'py2': -3.09999999999999, 'py3': 3.09999999999999, 'py4': -3.09999999999999, 'thisN': 13, 'thisTrialN': 13, 'thisRepN': 0}>
+7.8282 	EXP 	image_7: autoDraw = False
+7.8282 	EXP 	image_8: autoDraw = False
+7.8282 	EXP 	polygon_4: autoDraw = False
+7.8282 	EXP 	image_7: autoDraw = False
+7.8282 	EXP 	image_8: autoDraw = False
+7.8282 	EXP 	polygon_4: autoDraw = False
+7.8282 	EXP 	image_5: autoDraw = True
+7.8282 	EXP 	image_6: autoDraw = True
+7.8282 	EXP 	polygon_3: autoDraw = True
+8.1283 	EXP 	image_5: autoDraw = False
+8.1283 	EXP 	image_6: autoDraw = False
+8.1283 	EXP 	polygon_3: autoDraw = False
+8.1283 	EXP 	image_5: autoDraw = False
+8.1283 	EXP 	image_6: autoDraw = False
+8.1283 	EXP 	polygon_3: autoDraw = False
+8.1283 	EXP 	image_7: autoDraw = True
+8.1283 	EXP 	image_8: autoDraw = True
+8.1283 	EXP 	polygon_4: autoDraw = True
+8.4143 	EXP 	New trial (rep=0, index=14): <Trial 14 (14 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 2.99999999999999, 'py2': -2.99999999999999, 'py3': 2.99999999999999, 'py4': -2.99999999999999, 'thisN': 14, 'thisTrialN': 14, 'thisRepN': 0}>
+8.4284 	EXP 	image_7: autoDraw = False
+8.4284 	EXP 	image_8: autoDraw = False
+8.4284 	EXP 	polygon_4: autoDraw = False
+8.4284 	EXP 	image_7: autoDraw = False
+8.4284 	EXP 	image_8: autoDraw = False
+8.4284 	EXP 	polygon_4: autoDraw = False
+8.4284 	EXP 	image_5: autoDraw = True
+8.4284 	EXP 	image_6: autoDraw = True
+8.4284 	EXP 	polygon_3: autoDraw = True
+8.7291 	EXP 	image_5: autoDraw = False
+8.7291 	EXP 	image_6: autoDraw = False
+8.7291 	EXP 	polygon_3: autoDraw = False
+8.7291 	EXP 	image_5: autoDraw = False
+8.7291 	EXP 	image_6: autoDraw = False
+8.7291 	EXP 	polygon_3: autoDraw = False
+8.7291 	EXP 	image_7: autoDraw = True
+8.7291 	EXP 	image_8: autoDraw = True
+8.7291 	EXP 	polygon_4: autoDraw = True
+9.0197 	EXP 	New trial (rep=0, index=15): <Trial 15 (15 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 2.89999999999999, 'py2': -2.89999999999999, 'py3': 2.89999999999999, 'py4': -2.89999999999999, 'thisN': 15, 'thisTrialN': 15, 'thisRepN': 0}>
+9.0298 	EXP 	image_7: autoDraw = False
+9.0298 	EXP 	image_8: autoDraw = False
+9.0298 	EXP 	polygon_4: autoDraw = False
+9.0298 	EXP 	image_7: autoDraw = False
+9.0298 	EXP 	image_8: autoDraw = False
+9.0298 	EXP 	polygon_4: autoDraw = False
+9.0298 	EXP 	image_5: autoDraw = True
+9.0298 	EXP 	image_6: autoDraw = True
+9.0298 	EXP 	polygon_3: autoDraw = True
+9.3299 	EXP 	image_5: autoDraw = False
+9.3299 	EXP 	image_6: autoDraw = False
+9.3299 	EXP 	polygon_3: autoDraw = False
+9.3299 	EXP 	image_5: autoDraw = False
+9.3299 	EXP 	image_6: autoDraw = False
+9.3299 	EXP 	polygon_3: autoDraw = False
+9.3299 	EXP 	image_7: autoDraw = True
+9.3299 	EXP 	image_8: autoDraw = True
+9.3299 	EXP 	polygon_4: autoDraw = True
+9.6164 	EXP 	New trial (rep=0, index=16): <Trial 16 (16 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 2.79999999999999, 'py2': -2.79999999999999, 'py3': 2.79999999999999, 'py4': -2.79999999999999, 'thisN': 16, 'thisTrialN': 16, 'thisRepN': 0}>
+9.6287 	EXP 	image_7: autoDraw = False
+9.6287 	EXP 	image_8: autoDraw = False
+9.6287 	EXP 	polygon_4: autoDraw = False
+9.6287 	EXP 	image_5: autoDraw = True
+9.6287 	EXP 	image_6: autoDraw = True
+9.6287 	EXP 	polygon_3: autoDraw = True
+9.9284 	EXP 	image_5: autoDraw = False
+9.9284 	EXP 	image_6: autoDraw = False
+9.9284 	EXP 	polygon_3: autoDraw = False
+9.9284 	EXP 	image_5: autoDraw = False
+9.9284 	EXP 	image_6: autoDraw = False
+9.9284 	EXP 	polygon_3: autoDraw = False
+9.9284 	EXP 	image_7: autoDraw = True
+9.9284 	EXP 	image_8: autoDraw = True
+9.9284 	EXP 	polygon_4: autoDraw = True
+10.2143 	EXP 	New trial (rep=0, index=17): <Trial 17 (17 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 2.69999999999999, 'py2': -2.69999999999999, 'py3': 2.69999999999999, 'py4': -2.69999999999999, 'thisN': 17, 'thisTrialN': 17, 'thisRepN': 0}>
+10.2284 	EXP 	image_7: autoDraw = False
+10.2284 	EXP 	image_8: autoDraw = False
+10.2284 	EXP 	polygon_4: autoDraw = False
+10.2284 	EXP 	image_7: autoDraw = False
+10.2284 	EXP 	image_8: autoDraw = False
+10.2284 	EXP 	polygon_4: autoDraw = False
+10.2284 	EXP 	image_5: autoDraw = True
+10.2284 	EXP 	image_6: autoDraw = True
+10.2284 	EXP 	polygon_3: autoDraw = True
+10.5284 	EXP 	image_5: autoDraw = False
+10.5284 	EXP 	image_6: autoDraw = False
+10.5284 	EXP 	polygon_3: autoDraw = False
+10.5284 	EXP 	image_5: autoDraw = False
+10.5284 	EXP 	image_6: autoDraw = False
+10.5284 	EXP 	polygon_3: autoDraw = False
+10.5284 	EXP 	image_7: autoDraw = True
+10.5284 	EXP 	image_8: autoDraw = True
+10.5284 	EXP 	polygon_4: autoDraw = True
+10.8172 	EXP 	New trial (rep=0, index=18): <Trial 18 (18 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 2.59999999999999, 'py2': -2.59999999999999, 'py3': 2.59999999999999, 'py4': -2.59999999999999, 'thisN': 18, 'thisTrialN': 18, 'thisRepN': 0}>
+10.8292 	EXP 	image_7: autoDraw = False
+10.8292 	EXP 	image_8: autoDraw = False
+10.8292 	EXP 	polygon_4: autoDraw = False
+10.8292 	EXP 	image_7: autoDraw = False
+10.8292 	EXP 	image_8: autoDraw = False
+10.8292 	EXP 	polygon_4: autoDraw = False
+10.8292 	EXP 	image_5: autoDraw = True
+10.8292 	EXP 	image_6: autoDraw = True
+10.8292 	EXP 	polygon_3: autoDraw = True
+11.1286 	EXP 	image_5: autoDraw = False
+11.1286 	EXP 	image_6: autoDraw = False
+11.1286 	EXP 	polygon_3: autoDraw = False
+11.1286 	EXP 	image_5: autoDraw = False
+11.1286 	EXP 	image_6: autoDraw = False
+11.1286 	EXP 	polygon_3: autoDraw = False
+11.1286 	EXP 	image_7: autoDraw = True
+11.1286 	EXP 	image_8: autoDraw = True
+11.1286 	EXP 	polygon_4: autoDraw = True
+11.4145 	EXP 	New trial (rep=0, index=19): <Trial 19 (19 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 2.49999999999999, 'py2': -2.49999999999999, 'py3': 2.49999999999999, 'py4': -2.49999999999999, 'thisN': 19, 'thisTrialN': 19, 'thisRepN': 0}>
+11.4285 	EXP 	image_7: autoDraw = False
+11.4285 	EXP 	image_8: autoDraw = False
+11.4285 	EXP 	polygon_4: autoDraw = False
+11.4285 	EXP 	image_7: autoDraw = False
+11.4285 	EXP 	image_8: autoDraw = False
+11.4285 	EXP 	polygon_4: autoDraw = False
+11.4285 	EXP 	image_5: autoDraw = True
+11.4285 	EXP 	image_6: autoDraw = True
+11.4285 	EXP 	polygon_3: autoDraw = True
+11.7284 	EXP 	image_5: autoDraw = False
+11.7284 	EXP 	image_6: autoDraw = False
+11.7284 	EXP 	polygon_3: autoDraw = False
+11.7284 	EXP 	image_5: autoDraw = False
+11.7284 	EXP 	image_6: autoDraw = False
+11.7284 	EXP 	polygon_3: autoDraw = False
+11.7284 	EXP 	image_7: autoDraw = True
+11.7284 	EXP 	image_8: autoDraw = True
+11.7284 	EXP 	polygon_4: autoDraw = True
+12.0143 	EXP 	New trial (rep=0, index=20): <Trial 20 (20 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 2.39999999999999, 'py2': -2.39999999999999, 'py3': 2.39999999999999, 'py4': -2.39999999999999, 'thisN': 20, 'thisTrialN': 20, 'thisRepN': 0}>
+12.0283 	EXP 	image_7: autoDraw = False
+12.0283 	EXP 	image_8: autoDraw = False
+12.0283 	EXP 	polygon_4: autoDraw = False
+12.0283 	EXP 	image_7: autoDraw = False
+12.0283 	EXP 	image_8: autoDraw = False
+12.0283 	EXP 	polygon_4: autoDraw = False
+12.0283 	EXP 	image_5: autoDraw = True
+12.0283 	EXP 	image_6: autoDraw = True
+12.0283 	EXP 	polygon_3: autoDraw = True
+12.3284 	EXP 	image_5: autoDraw = False
+12.3284 	EXP 	image_6: autoDraw = False
+12.3284 	EXP 	polygon_3: autoDraw = False
+12.3284 	EXP 	image_5: autoDraw = False
+12.3284 	EXP 	image_6: autoDraw = False
+12.3284 	EXP 	polygon_3: autoDraw = False
+12.3284 	EXP 	image_7: autoDraw = True
+12.3284 	EXP 	image_8: autoDraw = True
+12.3284 	EXP 	polygon_4: autoDraw = True
+12.6143 	EXP 	New trial (rep=0, index=21): <Trial 21 (21 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 2.29999999999999, 'py2': -2.29999999999999, 'py3': 2.29999999999999, 'py4': -2.29999999999999, 'thisN': 21, 'thisTrialN': 21, 'thisRepN': 0}>
+12.6285 	EXP 	image_7: autoDraw = False
+12.6285 	EXP 	image_8: autoDraw = False
+12.6285 	EXP 	polygon_4: autoDraw = False
+12.6285 	EXP 	image_7: autoDraw = False
+12.6285 	EXP 	image_8: autoDraw = False
+12.6285 	EXP 	polygon_4: autoDraw = False
+12.6285 	EXP 	image_5: autoDraw = True
+12.6285 	EXP 	image_6: autoDraw = True
+12.6285 	EXP 	polygon_3: autoDraw = True
+12.9284 	EXP 	image_5: autoDraw = False
+12.9284 	EXP 	image_6: autoDraw = False
+12.9284 	EXP 	polygon_3: autoDraw = False
+12.9284 	EXP 	image_5: autoDraw = False
+12.9284 	EXP 	image_6: autoDraw = False
+12.9284 	EXP 	polygon_3: autoDraw = False
+12.9284 	EXP 	image_7: autoDraw = True
+12.9284 	EXP 	image_8: autoDraw = True
+12.9284 	EXP 	polygon_4: autoDraw = True
+13.2145 	EXP 	New trial (rep=0, index=22): <Trial 22 (22 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 2.19999999999999, 'py2': -2.19999999999999, 'py3': 2.19999999999999, 'py4': -2.19999999999999, 'thisN': 22, 'thisTrialN': 22, 'thisRepN': 0}>
+13.2285 	EXP 	image_7: autoDraw = False
+13.2285 	EXP 	image_8: autoDraw = False
+13.2285 	EXP 	polygon_4: autoDraw = False
+13.2285 	EXP 	image_7: autoDraw = False
+13.2285 	EXP 	image_8: autoDraw = False
+13.2285 	EXP 	polygon_4: autoDraw = False
+13.2285 	EXP 	image_5: autoDraw = True
+13.2285 	EXP 	image_6: autoDraw = True
+13.2285 	EXP 	polygon_3: autoDraw = True
+13.5285 	EXP 	image_5: autoDraw = False
+13.5285 	EXP 	image_6: autoDraw = False
+13.5285 	EXP 	polygon_3: autoDraw = False
+13.5285 	EXP 	image_5: autoDraw = False
+13.5285 	EXP 	image_6: autoDraw = False
+13.5285 	EXP 	polygon_3: autoDraw = False
+13.5285 	EXP 	image_7: autoDraw = True
+13.5285 	EXP 	image_8: autoDraw = True
+13.5285 	EXP 	polygon_4: autoDraw = True
+13.8144 	EXP 	New trial (rep=0, index=23): <Trial 23 (23 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 2.09999999999999, 'py2': -2.09999999999999, 'py3': 2.09999999999999, 'py4': -2.09999999999999, 'thisN': 23, 'thisTrialN': 23, 'thisRepN': 0}>
+13.8283 	EXP 	image_7: autoDraw = False
+13.8283 	EXP 	image_8: autoDraw = False
+13.8283 	EXP 	polygon_4: autoDraw = False
+13.8283 	EXP 	image_7: autoDraw = False
+13.8283 	EXP 	image_8: autoDraw = False
+13.8283 	EXP 	polygon_4: autoDraw = False
+13.8283 	EXP 	image_5: autoDraw = True
+13.8283 	EXP 	image_6: autoDraw = True
+13.8283 	EXP 	polygon_3: autoDraw = True
+14.1284 	EXP 	image_5: autoDraw = False
+14.1284 	EXP 	image_6: autoDraw = False
+14.1284 	EXP 	polygon_3: autoDraw = False
+14.1284 	EXP 	image_5: autoDraw = False
+14.1284 	EXP 	image_6: autoDraw = False
+14.1284 	EXP 	polygon_3: autoDraw = False
+14.1284 	EXP 	image_7: autoDraw = True
+14.1284 	EXP 	image_8: autoDraw = True
+14.1284 	EXP 	polygon_4: autoDraw = True
+14.4145 	EXP 	New trial (rep=0, index=24): <Trial 24 (24 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 1.99999999999999, 'py2': -1.99999999999999, 'py3': 1.99999999999999, 'py4': -1.99999999999999, 'thisN': 24, 'thisTrialN': 24, 'thisRepN': 0}>
+14.4283 	EXP 	image_7: autoDraw = False
+14.4283 	EXP 	image_8: autoDraw = False
+14.4283 	EXP 	polygon_4: autoDraw = False
+14.4283 	EXP 	image_7: autoDraw = False
+14.4283 	EXP 	image_8: autoDraw = False
+14.4283 	EXP 	polygon_4: autoDraw = False
+14.4283 	EXP 	image_5: autoDraw = True
+14.4283 	EXP 	image_6: autoDraw = True
+14.4283 	EXP 	polygon_3: autoDraw = True
+14.7294 	EXP 	image_5: autoDraw = False
+14.7294 	EXP 	image_6: autoDraw = False
+14.7294 	EXP 	polygon_3: autoDraw = False
+14.7294 	EXP 	image_5: autoDraw = False
+14.7294 	EXP 	image_6: autoDraw = False
+14.7294 	EXP 	polygon_3: autoDraw = False
+14.7294 	EXP 	image_7: autoDraw = True
+14.7294 	EXP 	image_8: autoDraw = True
+14.7294 	EXP 	polygon_4: autoDraw = True
+15.0180 	EXP 	New trial (rep=0, index=25): <Trial 25 (25 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 1.89999999999999, 'py2': -1.89999999999999, 'py3': 1.89999999999999, 'py4': -1.89999999999999, 'thisN': 25, 'thisTrialN': 25, 'thisRepN': 0}>
+15.0293 	EXP 	image_7: autoDraw = False
+15.0293 	EXP 	image_8: autoDraw = False
+15.0293 	EXP 	polygon_4: autoDraw = False
+15.0293 	EXP 	image_7: autoDraw = False
+15.0293 	EXP 	image_8: autoDraw = False
+15.0293 	EXP 	polygon_4: autoDraw = False
+15.0293 	EXP 	image_5: autoDraw = True
+15.0293 	EXP 	image_6: autoDraw = True
+15.0293 	EXP 	polygon_3: autoDraw = True
+15.3297 	EXP 	image_5: autoDraw = False
+15.3297 	EXP 	image_6: autoDraw = False
+15.3297 	EXP 	polygon_3: autoDraw = False
+15.3297 	EXP 	image_5: autoDraw = False
+15.3297 	EXP 	image_6: autoDraw = False
+15.3297 	EXP 	polygon_3: autoDraw = False
+15.3297 	EXP 	image_7: autoDraw = True
+15.3297 	EXP 	image_8: autoDraw = True
+15.3297 	EXP 	polygon_4: autoDraw = True
+15.6179 	EXP 	New trial (rep=0, index=26): <Trial 26 (26 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 1.79999999999999, 'py2': -1.79999999999999, 'py3': 1.79999999999999, 'py4': -1.79999999999999, 'thisN': 26, 'thisTrialN': 26, 'thisRepN': 0}>
+15.6294 	EXP 	image_7: autoDraw = False
+15.6294 	EXP 	image_8: autoDraw = False
+15.6294 	EXP 	polygon_4: autoDraw = False
+15.6294 	EXP 	image_7: autoDraw = False
+15.6294 	EXP 	image_8: autoDraw = False
+15.6294 	EXP 	polygon_4: autoDraw = False
+15.6294 	EXP 	image_5: autoDraw = True
+15.6294 	EXP 	image_6: autoDraw = True
+15.6294 	EXP 	polygon_3: autoDraw = True
+15.9285 	EXP 	image_5: autoDraw = False
+15.9285 	EXP 	image_6: autoDraw = False
+15.9285 	EXP 	polygon_3: autoDraw = False
+15.9285 	EXP 	image_5: autoDraw = False
+15.9285 	EXP 	image_6: autoDraw = False
+15.9285 	EXP 	polygon_3: autoDraw = False
+15.9285 	EXP 	image_7: autoDraw = True
+15.9285 	EXP 	image_8: autoDraw = True
+15.9285 	EXP 	polygon_4: autoDraw = True
+16.2152 	EXP 	New trial (rep=0, index=27): <Trial 27 (27 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 1.69999999999999, 'py2': -1.69999999999999, 'py3': 1.69999999999999, 'py4': -1.69999999999999, 'thisN': 27, 'thisTrialN': 27, 'thisRepN': 0}>
+16.2287 	EXP 	image_7: autoDraw = False
+16.2287 	EXP 	image_8: autoDraw = False
+16.2287 	EXP 	polygon_4: autoDraw = False
+16.2287 	EXP 	image_7: autoDraw = False
+16.2287 	EXP 	image_8: autoDraw = False
+16.2287 	EXP 	polygon_4: autoDraw = False
+16.2287 	EXP 	image_5: autoDraw = True
+16.2287 	EXP 	image_6: autoDraw = True
+16.2287 	EXP 	polygon_3: autoDraw = True
+16.5285 	EXP 	image_5: autoDraw = False
+16.5285 	EXP 	image_6: autoDraw = False
+16.5285 	EXP 	polygon_3: autoDraw = False
+16.5285 	EXP 	image_5: autoDraw = False
+16.5285 	EXP 	image_6: autoDraw = False
+16.5285 	EXP 	polygon_3: autoDraw = False
+16.5285 	EXP 	image_7: autoDraw = True
+16.5285 	EXP 	image_8: autoDraw = True
+16.5285 	EXP 	polygon_4: autoDraw = True
+16.8154 	EXP 	New trial (rep=0, index=28): <Trial 28 (28 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 1.59999999999999, 'py2': -1.59999999999999, 'py3': 1.59999999999999, 'py4': -1.59999999999999, 'thisN': 28, 'thisTrialN': 28, 'thisRepN': 0}>
+16.8285 	EXP 	image_7: autoDraw = False
+16.8285 	EXP 	image_8: autoDraw = False
+16.8285 	EXP 	polygon_4: autoDraw = False
+16.8285 	EXP 	image_7: autoDraw = False
+16.8285 	EXP 	image_8: autoDraw = False
+16.8285 	EXP 	polygon_4: autoDraw = False
+16.8285 	EXP 	image_5: autoDraw = True
+16.8285 	EXP 	image_6: autoDraw = True
+16.8285 	EXP 	polygon_3: autoDraw = True
+17.1285 	EXP 	image_5: autoDraw = False
+17.1285 	EXP 	image_6: autoDraw = False
+17.1285 	EXP 	polygon_3: autoDraw = False
+17.1285 	EXP 	image_5: autoDraw = False
+17.1285 	EXP 	image_6: autoDraw = False
+17.1285 	EXP 	polygon_3: autoDraw = False
+17.1285 	EXP 	image_7: autoDraw = True
+17.1285 	EXP 	image_8: autoDraw = True
+17.1285 	EXP 	polygon_4: autoDraw = True
+17.4152 	EXP 	New trial (rep=0, index=29): <Trial 29 (29 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 1.49999999999998, 'py2': -1.49999999999998, 'py3': 1.49999999999998, 'py4': -1.49999999999998, 'thisN': 29, 'thisTrialN': 29, 'thisRepN': 0}>
+17.4285 	EXP 	image_7: autoDraw = False
+17.4285 	EXP 	image_8: autoDraw = False
+17.4285 	EXP 	polygon_4: autoDraw = False
+17.4285 	EXP 	image_7: autoDraw = False
+17.4285 	EXP 	image_8: autoDraw = False
+17.4285 	EXP 	polygon_4: autoDraw = False
+17.4285 	EXP 	image_5: autoDraw = True
+17.4285 	EXP 	image_6: autoDraw = True
+17.4285 	EXP 	polygon_3: autoDraw = True
+17.7285 	EXP 	image_5: autoDraw = False
+17.7285 	EXP 	image_6: autoDraw = False
+17.7285 	EXP 	polygon_3: autoDraw = False
+17.7285 	EXP 	image_5: autoDraw = False
+17.7285 	EXP 	image_6: autoDraw = False
+17.7285 	EXP 	polygon_3: autoDraw = False
+17.7285 	EXP 	image_7: autoDraw = True
+17.7285 	EXP 	image_8: autoDraw = True
+17.7285 	EXP 	polygon_4: autoDraw = True
+18.0146 	EXP 	New trial (rep=0, index=30): <Trial 30 (30 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 1.39999999999998, 'py2': -1.39999999999998, 'py3': 1.39999999999998, 'py4': -1.39999999999998, 'thisN': 30, 'thisTrialN': 30, 'thisRepN': 0}>
+18.0285 	EXP 	image_7: autoDraw = False
+18.0285 	EXP 	image_8: autoDraw = False
+18.0285 	EXP 	polygon_4: autoDraw = False
+18.0285 	EXP 	image_7: autoDraw = False
+18.0285 	EXP 	image_8: autoDraw = False
+18.0285 	EXP 	polygon_4: autoDraw = False
+18.0285 	EXP 	image_5: autoDraw = True
+18.0285 	EXP 	image_6: autoDraw = True
+18.0285 	EXP 	polygon_3: autoDraw = True
+18.3282 	EXP 	image_5: autoDraw = False
+18.3282 	EXP 	image_6: autoDraw = False
+18.3282 	EXP 	polygon_3: autoDraw = False
+18.3282 	EXP 	image_5: autoDraw = False
+18.3282 	EXP 	image_6: autoDraw = False
+18.3282 	EXP 	polygon_3: autoDraw = False
+18.3282 	EXP 	image_7: autoDraw = True
+18.3282 	EXP 	image_8: autoDraw = True
+18.3282 	EXP 	polygon_4: autoDraw = True
+18.6144 	EXP 	New trial (rep=0, index=31): <Trial 31 (31 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 1.29999999999998, 'py2': -1.29999999999998, 'py3': 1.29999999999998, 'py4': -1.29999999999998, 'thisN': 31, 'thisTrialN': 31, 'thisRepN': 0}>
+18.6283 	EXP 	image_7: autoDraw = False
+18.6283 	EXP 	image_8: autoDraw = False
+18.6283 	EXP 	polygon_4: autoDraw = False
+18.6283 	EXP 	image_7: autoDraw = False
+18.6283 	EXP 	image_8: autoDraw = False
+18.6283 	EXP 	polygon_4: autoDraw = False
+18.6283 	EXP 	image_5: autoDraw = True
+18.6283 	EXP 	image_6: autoDraw = True
+18.6283 	EXP 	polygon_3: autoDraw = True
+18.9282 	EXP 	image_5: autoDraw = False
+18.9282 	EXP 	image_6: autoDraw = False
+18.9282 	EXP 	polygon_3: autoDraw = False
+18.9282 	EXP 	image_5: autoDraw = False
+18.9282 	EXP 	image_6: autoDraw = False
+18.9282 	EXP 	polygon_3: autoDraw = False
+18.9282 	EXP 	image_7: autoDraw = True
+18.9282 	EXP 	image_8: autoDraw = True
+18.9282 	EXP 	polygon_4: autoDraw = True
+19.2143 	EXP 	New trial (rep=0, index=32): <Trial 32 (32 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 1.19999999999998, 'py2': -1.19999999999998, 'py3': 1.19999999999998, 'py4': -1.19999999999998, 'thisN': 32, 'thisTrialN': 32, 'thisRepN': 0}>
+19.2283 	EXP 	image_7: autoDraw = False
+19.2283 	EXP 	image_8: autoDraw = False
+19.2283 	EXP 	polygon_4: autoDraw = False
+19.2283 	EXP 	image_7: autoDraw = False
+19.2283 	EXP 	image_8: autoDraw = False
+19.2283 	EXP 	polygon_4: autoDraw = False
+19.2283 	EXP 	image_5: autoDraw = True
+19.2283 	EXP 	image_6: autoDraw = True
+19.2283 	EXP 	polygon_3: autoDraw = True
+19.5284 	EXP 	image_5: autoDraw = False
+19.5284 	EXP 	image_6: autoDraw = False
+19.5284 	EXP 	polygon_3: autoDraw = False
+19.5284 	EXP 	image_5: autoDraw = False
+19.5284 	EXP 	image_6: autoDraw = False
+19.5284 	EXP 	polygon_3: autoDraw = False
+19.5284 	EXP 	image_7: autoDraw = True
+19.5284 	EXP 	image_8: autoDraw = True
+19.5284 	EXP 	polygon_4: autoDraw = True
+19.8143 	EXP 	New trial (rep=0, index=33): <Trial 33 (33 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 1.09999999999998, 'py2': -1.09999999999998, 'py3': 1.09999999999998, 'py4': -1.09999999999998, 'thisN': 33, 'thisTrialN': 33, 'thisRepN': 0}>
+19.8282 	EXP 	image_7: autoDraw = False
+19.8282 	EXP 	image_8: autoDraw = False
+19.8282 	EXP 	polygon_4: autoDraw = False
+19.8282 	EXP 	image_7: autoDraw = False
+19.8282 	EXP 	image_8: autoDraw = False
+19.8282 	EXP 	polygon_4: autoDraw = False
+19.8282 	EXP 	image_5: autoDraw = True
+19.8282 	EXP 	image_6: autoDraw = True
+19.8282 	EXP 	polygon_3: autoDraw = True
+20.1283 	EXP 	image_5: autoDraw = False
+20.1283 	EXP 	image_6: autoDraw = False
+20.1283 	EXP 	polygon_3: autoDraw = False
+20.1283 	EXP 	image_5: autoDraw = False
+20.1283 	EXP 	image_6: autoDraw = False
+20.1283 	EXP 	polygon_3: autoDraw = False
+20.1283 	EXP 	image_7: autoDraw = True
+20.1283 	EXP 	image_8: autoDraw = True
+20.1283 	EXP 	polygon_4: autoDraw = True
+20.4248 	DEBUG 	Read excel file with openpyxl: Incrementos_loop_4.xlsx
+20.4285 	EXP 	Imported Incrementos_loop_4.xlsx as conditions, 34 conditions, 8 params
+20.4371 	DEBUG 	Read excel file with openpyxl: Incrementos.xlsx
+20.4408 	EXP 	Imported Incrementos.xlsx as conditions, 34 conditions, 8 params
+20.4498 	DEBUG 	Read excel file with openpyxl: incremento_loop2.xlsx
+20.4533 	EXP 	Imported incremento_loop2.xlsx as conditions, 34 conditions, 8 params
+20.4624 	DEBUG 	Read excel file with openpyxl: incremento_loop3.xlsx
+20.4658 	EXP 	Imported incremento_loop3.xlsx as conditions, 34 conditions, 8 params
+20.4742 	DEBUG 	Read excel file with openpyxl: Incrementos_loop_4.xlsx
+20.4777 	EXP 	Imported Incrementos_loop_4.xlsx as conditions, 34 conditions, 8 params
+20.4944 	EXP 	image_7: autoDraw = False
+20.4944 	EXP 	image_8: autoDraw = False
+20.4944 	EXP 	polygon_4: autoDraw = False
+20.4944 	EXP 	image_7: autoDraw = False
+20.4944 	EXP 	image_8: autoDraw = False
+20.4944 	EXP 	polygon_4: autoDraw = False
+20.4944 	EXP 	polygon_5: autoDraw = True
+21.9314 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'LoopName': 'Estimulo_3', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+21.9390 	DEBUG 	Read excel file with openpyxl: Incrementos.xlsx
+21.9428 	EXP 	Imported Incrementos.xlsx as conditions, 34 conditions, 8 params
+21.9518 	DEBUG 	Read excel file with openpyxl: incremento_loop2.xlsx
+21.9554 	EXP 	Imported incremento_loop2.xlsx as conditions, 34 conditions, 8 params
+21.9646 	DEBUG 	Read excel file with openpyxl: incremento_loop3.xlsx
+21.9683 	EXP 	Imported incremento_loop3.xlsx as conditions, 34 conditions, 8 params
+21.9687 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 4.4, 'py2': -4.4, 'py3': 4.4, 'py4': -4.4, 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+21.9779 	EXP 	polygon_5: autoDraw = False
+21.9779 	EXP 	image: autoDraw = True
+21.9779 	EXP 	image_2: autoDraw = True
+21.9779 	EXP 	polygon: autoDraw = True
+22.2617 	EXP 	image: autoDraw = False
+22.2617 	EXP 	image_2: autoDraw = False
+22.2617 	EXP 	polygon: autoDraw = False
+22.2617 	EXP 	image_3: autoDraw = True
+22.2617 	EXP 	image_4: autoDraw = True
+22.2617 	EXP 	polygon_2: autoDraw = True
+22.5473 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 4.3, 'py2': -4.3, 'py3': 4.3, 'py4': -4.3, 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+22.5617 	EXP 	image_3: autoDraw = False
+22.5617 	EXP 	image_4: autoDraw = False
+22.5617 	EXP 	polygon_2: autoDraw = False
+22.5617 	EXP 	image: autoDraw = True
+22.5617 	EXP 	image_2: autoDraw = True
+22.5617 	EXP 	polygon: autoDraw = True
+22.8616 	EXP 	image: autoDraw = False
+22.8616 	EXP 	image_2: autoDraw = False
+22.8616 	EXP 	polygon: autoDraw = False
+22.8616 	EXP 	image_3: autoDraw = True
+22.8616 	EXP 	image_4: autoDraw = True
+22.8616 	EXP 	polygon_2: autoDraw = True
+23.1473 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 4.2, 'py2': -4.2, 'py3': 4.2, 'py4': -4.2, 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+23.1615 	EXP 	image_3: autoDraw = False
+23.1615 	EXP 	image_4: autoDraw = False
+23.1615 	EXP 	polygon_2: autoDraw = False
+23.1615 	EXP 	image: autoDraw = True
+23.1615 	EXP 	image_2: autoDraw = True
+23.1615 	EXP 	polygon: autoDraw = True
+23.4616 	EXP 	image: autoDraw = False
+23.4616 	EXP 	image_2: autoDraw = False
+23.4616 	EXP 	polygon: autoDraw = False
+23.4616 	EXP 	image_3: autoDraw = True
+23.4616 	EXP 	image_4: autoDraw = True
+23.4616 	EXP 	polygon_2: autoDraw = True
+23.7474 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 4.1, 'py2': -4.1, 'py3': 4.1, 'py4': -4.1, 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+23.7617 	EXP 	image_3: autoDraw = False
+23.7617 	EXP 	image_4: autoDraw = False
+23.7617 	EXP 	polygon_2: autoDraw = False
+23.7617 	EXP 	image: autoDraw = True
+23.7617 	EXP 	image_2: autoDraw = True
+23.7617 	EXP 	polygon: autoDraw = True
+24.0616 	EXP 	image: autoDraw = False
+24.0616 	EXP 	image_2: autoDraw = False
+24.0616 	EXP 	polygon: autoDraw = False
+24.0616 	EXP 	image_3: autoDraw = True
+24.0616 	EXP 	image_4: autoDraw = True
+24.0616 	EXP 	polygon_2: autoDraw = True
+24.3473 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 4, 'py2': -4, 'py3': 4, 'py4': -4, 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+24.3617 	EXP 	image_3: autoDraw = False
+24.3617 	EXP 	image_4: autoDraw = False
+24.3617 	EXP 	polygon_2: autoDraw = False
+24.3617 	EXP 	image: autoDraw = True
+24.3617 	EXP 	image_2: autoDraw = True
+24.3617 	EXP 	polygon: autoDraw = True
+24.6617 	EXP 	image: autoDraw = False
+24.6617 	EXP 	image_2: autoDraw = False
+24.6617 	EXP 	polygon: autoDraw = False
+24.6617 	EXP 	image_3: autoDraw = True
+24.6617 	EXP 	image_4: autoDraw = True
+24.6617 	EXP 	polygon_2: autoDraw = True
+24.9473 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 3.9, 'py2': -3.9, 'py3': 3.9, 'py4': -3.9, 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+24.9616 	EXP 	image_3: autoDraw = False
+24.9616 	EXP 	image_4: autoDraw = False
+24.9616 	EXP 	polygon_2: autoDraw = False
+24.9616 	EXP 	image: autoDraw = True
+24.9616 	EXP 	image_2: autoDraw = True
+24.9616 	EXP 	polygon: autoDraw = True
+25.2615 	EXP 	image: autoDraw = False
+25.2615 	EXP 	image_2: autoDraw = False
+25.2615 	EXP 	polygon: autoDraw = False
+25.2615 	EXP 	image_3: autoDraw = True
+25.2615 	EXP 	image_4: autoDraw = True
+25.2615 	EXP 	polygon_2: autoDraw = True
+25.5472 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 3.8, 'py2': -3.8, 'py3': 3.8, 'py4': -3.8, 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+25.5618 	EXP 	image_3: autoDraw = False
+25.5618 	EXP 	image_4: autoDraw = False
+25.5618 	EXP 	polygon_2: autoDraw = False
+25.5618 	EXP 	image: autoDraw = True
+25.5618 	EXP 	image_2: autoDraw = True
+25.5618 	EXP 	polygon: autoDraw = True
+25.8616 	EXP 	image: autoDraw = False
+25.8616 	EXP 	image_2: autoDraw = False
+25.8616 	EXP 	polygon: autoDraw = False
+25.8616 	EXP 	image_3: autoDraw = True
+25.8616 	EXP 	image_4: autoDraw = True
+25.8616 	EXP 	polygon_2: autoDraw = True
+26.1471 	EXP 	New trial (rep=0, index=7): <Trial 7 (7 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 3.7, 'py2': -3.7, 'py3': 3.7, 'py4': -3.7, 'thisN': 7, 'thisTrialN': 7, 'thisRepN': 0}>
+26.1616 	EXP 	image_3: autoDraw = False
+26.1616 	EXP 	image_4: autoDraw = False
+26.1616 	EXP 	polygon_2: autoDraw = False
+26.1616 	EXP 	image: autoDraw = True
+26.1616 	EXP 	image_2: autoDraw = True
+26.1616 	EXP 	polygon: autoDraw = True
+26.4616 	EXP 	image: autoDraw = False
+26.4616 	EXP 	image_2: autoDraw = False
+26.4616 	EXP 	polygon: autoDraw = False
+26.4616 	EXP 	image_3: autoDraw = True
+26.4616 	EXP 	image_4: autoDraw = True
+26.4616 	EXP 	polygon_2: autoDraw = True
+26.7473 	EXP 	New trial (rep=0, index=8): <Trial 8 (8 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 3.6, 'py2': -3.6, 'py3': 3.6, 'py4': -3.6, 'thisN': 8, 'thisTrialN': 8, 'thisRepN': 0}>
+26.7616 	EXP 	image_3: autoDraw = False
+26.7616 	EXP 	image_4: autoDraw = False
+26.7616 	EXP 	polygon_2: autoDraw = False
+26.7616 	EXP 	image: autoDraw = True
+26.7616 	EXP 	image_2: autoDraw = True
+26.7616 	EXP 	polygon: autoDraw = True
+27.0616 	EXP 	image: autoDraw = False
+27.0616 	EXP 	image_2: autoDraw = False
+27.0616 	EXP 	polygon: autoDraw = False
+27.0616 	EXP 	image_3: autoDraw = True
+27.0616 	EXP 	image_4: autoDraw = True
+27.0616 	EXP 	polygon_2: autoDraw = True
+27.3472 	EXP 	New trial (rep=0, index=9): <Trial 9 (9 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 3.5, 'py2': -3.5, 'py3': 3.5, 'py4': -3.5, 'thisN': 9, 'thisTrialN': 9, 'thisRepN': 0}>
+27.3617 	EXP 	image_3: autoDraw = False
+27.3617 	EXP 	image_4: autoDraw = False
+27.3617 	EXP 	polygon_2: autoDraw = False
+27.3617 	EXP 	image: autoDraw = True
+27.3617 	EXP 	image_2: autoDraw = True
+27.3617 	EXP 	polygon: autoDraw = True
+27.6462 	EXP 	image: autoDraw = False
+27.6462 	EXP 	image_2: autoDraw = False
+27.6462 	EXP 	polygon: autoDraw = False
+27.6462 	EXP 	image_3: autoDraw = True
+27.6462 	EXP 	image_4: autoDraw = True
+27.6462 	EXP 	polygon_2: autoDraw = True
+27.9349 	EXP 	New trial (rep=0, index=10): <Trial 10 (10 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 3.39999999999999, 'py2': -3.39999999999999, 'py3': 3.39999999999999, 'py4': -3.39999999999999, 'thisN': 10, 'thisTrialN': 10, 'thisRepN': 0}>
+27.9463 	EXP 	image_3: autoDraw = False
+27.9463 	EXP 	image_4: autoDraw = False
+27.9463 	EXP 	polygon_2: autoDraw = False
+27.9463 	EXP 	image: autoDraw = True
+27.9463 	EXP 	image_2: autoDraw = True
+27.9463 	EXP 	polygon: autoDraw = True
+28.2463 	EXP 	image: autoDraw = False
+28.2463 	EXP 	image_2: autoDraw = False
+28.2463 	EXP 	polygon: autoDraw = False
+28.2463 	EXP 	image_3: autoDraw = True
+28.2463 	EXP 	image_4: autoDraw = True
+28.2463 	EXP 	polygon_2: autoDraw = True
+28.5350 	EXP 	New trial (rep=0, index=11): <Trial 11 (11 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 3.29999999999999, 'py2': -3.29999999999999, 'py3': 3.29999999999999, 'py4': -3.29999999999999, 'thisN': 11, 'thisTrialN': 11, 'thisRepN': 0}>
+28.5464 	EXP 	image_3: autoDraw = False
+28.5464 	EXP 	image_4: autoDraw = False
+28.5464 	EXP 	polygon_2: autoDraw = False
+28.5464 	EXP 	image: autoDraw = True
+28.5464 	EXP 	image_2: autoDraw = True
+28.5464 	EXP 	polygon: autoDraw = True
+28.8465 	EXP 	image: autoDraw = False
+28.8465 	EXP 	image_2: autoDraw = False
+28.8465 	EXP 	polygon: autoDraw = False
+28.8465 	EXP 	image_3: autoDraw = True
+28.8465 	EXP 	image_4: autoDraw = True
+28.8465 	EXP 	polygon_2: autoDraw = True
+29.1350 	EXP 	New trial (rep=0, index=12): <Trial 12 (12 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 3.19999999999999, 'py2': -3.19999999999999, 'py3': 3.19999999999999, 'py4': -3.19999999999999, 'thisN': 12, 'thisTrialN': 12, 'thisRepN': 0}>
+29.1461 	EXP 	image_3: autoDraw = False
+29.1461 	EXP 	image_4: autoDraw = False
+29.1461 	EXP 	polygon_2: autoDraw = False
+29.1461 	EXP 	image: autoDraw = True
+29.1461 	EXP 	image_2: autoDraw = True
+29.1461 	EXP 	polygon: autoDraw = True
+29.4464 	EXP 	image: autoDraw = False
+29.4464 	EXP 	image_2: autoDraw = False
+29.4464 	EXP 	polygon: autoDraw = False
+29.4464 	EXP 	image_3: autoDraw = True
+29.4464 	EXP 	image_4: autoDraw = True
+29.4464 	EXP 	polygon_2: autoDraw = True
+29.7348 	EXP 	New trial (rep=0, index=13): <Trial 13 (13 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 3.09999999999999, 'py2': -3.09999999999999, 'py3': 3.09999999999999, 'py4': -3.09999999999999, 'thisN': 13, 'thisTrialN': 13, 'thisRepN': 0}>
+29.7462 	EXP 	image_3: autoDraw = False
+29.7462 	EXP 	image_4: autoDraw = False
+29.7462 	EXP 	polygon_2: autoDraw = False
+29.7462 	EXP 	image: autoDraw = True
+29.7462 	EXP 	image_2: autoDraw = True
+29.7462 	EXP 	polygon: autoDraw = True
+30.0462 	EXP 	image: autoDraw = False
+30.0462 	EXP 	image_2: autoDraw = False
+30.0462 	EXP 	polygon: autoDraw = False
+30.0462 	EXP 	image_3: autoDraw = True
+30.0462 	EXP 	image_4: autoDraw = True
+30.0462 	EXP 	polygon_2: autoDraw = True
+30.3353 	EXP 	New trial (rep=0, index=14): <Trial 14 (14 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 2.99999999999999, 'py2': -2.99999999999999, 'py3': 2.99999999999999, 'py4': -2.99999999999999, 'thisN': 14, 'thisTrialN': 14, 'thisRepN': 0}>
+30.3464 	EXP 	image_3: autoDraw = False
+30.3464 	EXP 	image_4: autoDraw = False
+30.3464 	EXP 	polygon_2: autoDraw = False
+30.3464 	EXP 	image: autoDraw = True
+30.3464 	EXP 	image_2: autoDraw = True
+30.3464 	EXP 	polygon: autoDraw = True
+30.6455 	EXP 	image: autoDraw = False
+30.6455 	EXP 	image_2: autoDraw = False
+30.6455 	EXP 	polygon: autoDraw = False
+30.6455 	EXP 	image_3: autoDraw = True
+30.6455 	EXP 	image_4: autoDraw = True
+30.6455 	EXP 	polygon_2: autoDraw = True
+30.9310 	EXP 	New trial (rep=0, index=15): <Trial 15 (15 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 2.89999999999999, 'py2': -2.89999999999999, 'py3': 2.89999999999999, 'py4': -2.89999999999999, 'thisN': 15, 'thisTrialN': 15, 'thisRepN': 0}>
+30.9450 	EXP 	image_3: autoDraw = False
+30.9450 	EXP 	image_4: autoDraw = False
+30.9450 	EXP 	polygon_2: autoDraw = False
+30.9450 	EXP 	image_3: autoDraw = False
+30.9450 	EXP 	image_4: autoDraw = False
+30.9450 	EXP 	polygon_2: autoDraw = False
+30.9450 	EXP 	image: autoDraw = True
+30.9450 	EXP 	image_2: autoDraw = True
+30.9450 	EXP 	polygon: autoDraw = True
+31.2450 	EXP 	image: autoDraw = False
+31.2450 	EXP 	image_2: autoDraw = False
+31.2450 	EXP 	polygon: autoDraw = False
+31.2450 	EXP 	image: autoDraw = False
+31.2450 	EXP 	image_2: autoDraw = False
+31.2450 	EXP 	polygon: autoDraw = False
+31.2450 	EXP 	image_3: autoDraw = True
+31.2450 	EXP 	image_4: autoDraw = True
+31.2450 	EXP 	polygon_2: autoDraw = True
+31.5310 	EXP 	New trial (rep=0, index=16): <Trial 16 (16 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 2.79999999999999, 'py2': -2.79999999999999, 'py3': 2.79999999999999, 'py4': -2.79999999999999, 'thisN': 16, 'thisTrialN': 16, 'thisRepN': 0}>
+31.5449 	EXP 	image_3: autoDraw = False
+31.5449 	EXP 	image_4: autoDraw = False
+31.5449 	EXP 	polygon_2: autoDraw = False
+31.5449 	EXP 	image_3: autoDraw = False
+31.5449 	EXP 	image_4: autoDraw = False
+31.5449 	EXP 	polygon_2: autoDraw = False
+31.5449 	EXP 	image: autoDraw = True
+31.5449 	EXP 	image_2: autoDraw = True
+31.5449 	EXP 	polygon: autoDraw = True
+31.8450 	EXP 	image: autoDraw = False
+31.8450 	EXP 	image_2: autoDraw = False
+31.8450 	EXP 	polygon: autoDraw = False
+31.8450 	EXP 	image: autoDraw = False
+31.8450 	EXP 	image_2: autoDraw = False
+31.8450 	EXP 	polygon: autoDraw = False
+31.8450 	EXP 	image_3: autoDraw = True
+31.8450 	EXP 	image_4: autoDraw = True
+31.8450 	EXP 	polygon_2: autoDraw = True
+32.1310 	EXP 	New trial (rep=0, index=17): <Trial 17 (17 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 2.69999999999999, 'py2': -2.69999999999999, 'py3': 2.69999999999999, 'py4': -2.69999999999999, 'thisN': 17, 'thisTrialN': 17, 'thisRepN': 0}>
+32.1447 	EXP 	image_3: autoDraw = False
+32.1447 	EXP 	image_4: autoDraw = False
+32.1447 	EXP 	polygon_2: autoDraw = False
+32.1447 	EXP 	image_3: autoDraw = False
+32.1447 	EXP 	image_4: autoDraw = False
+32.1447 	EXP 	polygon_2: autoDraw = False
+32.1447 	EXP 	image: autoDraw = True
+32.1447 	EXP 	image_2: autoDraw = True
+32.1447 	EXP 	polygon: autoDraw = True
+32.4448 	EXP 	image: autoDraw = False
+32.4448 	EXP 	image_2: autoDraw = False
+32.4448 	EXP 	polygon: autoDraw = False
+32.4448 	EXP 	image: autoDraw = False
+32.4448 	EXP 	image_2: autoDraw = False
+32.4448 	EXP 	polygon: autoDraw = False
+32.4448 	EXP 	image_3: autoDraw = True
+32.4448 	EXP 	image_4: autoDraw = True
+32.4448 	EXP 	polygon_2: autoDraw = True
+32.7308 	EXP 	New trial (rep=0, index=18): <Trial 18 (18 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 2.59999999999999, 'py2': -2.59999999999999, 'py3': 2.59999999999999, 'py4': -2.59999999999999, 'thisN': 18, 'thisTrialN': 18, 'thisRepN': 0}>
+32.7449 	EXP 	image_3: autoDraw = False
+32.7449 	EXP 	image_4: autoDraw = False
+32.7449 	EXP 	polygon_2: autoDraw = False
+32.7449 	EXP 	image_3: autoDraw = False
+32.7449 	EXP 	image_4: autoDraw = False
+32.7449 	EXP 	polygon_2: autoDraw = False
+32.7449 	EXP 	image: autoDraw = True
+32.7449 	EXP 	image_2: autoDraw = True
+32.7449 	EXP 	polygon: autoDraw = True
+33.0450 	EXP 	image: autoDraw = False
+33.0450 	EXP 	image_2: autoDraw = False
+33.0450 	EXP 	polygon: autoDraw = False
+33.0450 	EXP 	image: autoDraw = False
+33.0450 	EXP 	image_2: autoDraw = False
+33.0450 	EXP 	polygon: autoDraw = False
+33.0450 	EXP 	image_3: autoDraw = True
+33.0450 	EXP 	image_4: autoDraw = True
+33.0450 	EXP 	polygon_2: autoDraw = True
+33.3349 	EXP 	New trial (rep=0, index=19): <Trial 19 (19 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 2.49999999999999, 'py2': -2.49999999999999, 'py3': 2.49999999999999, 'py4': -2.49999999999999, 'thisN': 19, 'thisTrialN': 19, 'thisRepN': 0}>
+33.3464 	EXP 	image_3: autoDraw = False
+33.3464 	EXP 	image_4: autoDraw = False
+33.3464 	EXP 	polygon_2: autoDraw = False
+33.3464 	EXP 	image: autoDraw = True
+33.3464 	EXP 	image_2: autoDraw = True
+33.3464 	EXP 	polygon: autoDraw = True
+33.6796 	EXP 	image: autoDraw = False
+33.6796 	EXP 	image_2: autoDraw = False
+33.6796 	EXP 	polygon: autoDraw = False
+33.6796 	EXP 	image_3: autoDraw = True
+33.6796 	EXP 	image_4: autoDraw = True
+33.6796 	EXP 	polygon_2: autoDraw = True
+33.9334 	EXP 	New trial (rep=0, index=20): <Trial 20 (20 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 2.39999999999999, 'py2': -2.39999999999999, 'py3': 2.39999999999999, 'py4': -2.39999999999999, 'thisN': 20, 'thisTrialN': 20, 'thisRepN': 0}>
+33.9457 	EXP 	image_3: autoDraw = False
+33.9457 	EXP 	image_4: autoDraw = False
+33.9457 	EXP 	polygon_2: autoDraw = False
+33.9457 	EXP 	image: autoDraw = True
+33.9457 	EXP 	image_2: autoDraw = True
+33.9457 	EXP 	polygon: autoDraw = True
+34.2461 	EXP 	image: autoDraw = False
+34.2461 	EXP 	image_2: autoDraw = False
+34.2461 	EXP 	polygon: autoDraw = False
+34.2461 	EXP 	image_3: autoDraw = True
+34.2461 	EXP 	image_4: autoDraw = True
+34.2461 	EXP 	polygon_2: autoDraw = True
+34.5348 	EXP 	New trial (rep=0, index=21): <Trial 21 (21 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 2.29999999999999, 'py2': -2.29999999999999, 'py3': 2.29999999999999, 'py4': -2.29999999999999, 'thisN': 21, 'thisTrialN': 21, 'thisRepN': 0}>
+34.5463 	EXP 	image_3: autoDraw = False
+34.5463 	EXP 	image_4: autoDraw = False
+34.5463 	EXP 	polygon_2: autoDraw = False
+34.5463 	EXP 	image: autoDraw = True
+34.5463 	EXP 	image_2: autoDraw = True
+34.5463 	EXP 	polygon: autoDraw = True
+34.8615 	EXP 	image: autoDraw = False
+34.8615 	EXP 	image_2: autoDraw = False
+34.8615 	EXP 	polygon: autoDraw = False
+34.8615 	EXP 	image_3: autoDraw = True
+34.8615 	EXP 	image_4: autoDraw = True
+34.8615 	EXP 	polygon_2: autoDraw = True
+35.1473 	EXP 	New trial (rep=0, index=22): <Trial 22 (22 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 2.19999999999999, 'py2': -2.19999999999999, 'py3': 2.19999999999999, 'py4': -2.19999999999999, 'thisN': 22, 'thisTrialN': 22, 'thisRepN': 0}>
+35.1614 	EXP 	image_3: autoDraw = False
+35.1614 	EXP 	image_4: autoDraw = False
+35.1614 	EXP 	polygon_2: autoDraw = False
+35.1614 	EXP 	image: autoDraw = True
+35.1614 	EXP 	image_2: autoDraw = True
+35.1614 	EXP 	polygon: autoDraw = True
+35.4617 	EXP 	image: autoDraw = False
+35.4617 	EXP 	image_2: autoDraw = False
+35.4617 	EXP 	polygon: autoDraw = False
+35.4617 	EXP 	image_3: autoDraw = True
+35.4617 	EXP 	image_4: autoDraw = True
+35.4617 	EXP 	polygon_2: autoDraw = True
+35.7473 	EXP 	New trial (rep=0, index=23): <Trial 23 (23 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 2.09999999999999, 'py2': -2.09999999999999, 'py3': 2.09999999999999, 'py4': -2.09999999999999, 'thisN': 23, 'thisTrialN': 23, 'thisRepN': 0}>
+35.7615 	EXP 	image_3: autoDraw = False
+35.7615 	EXP 	image_4: autoDraw = False
+35.7615 	EXP 	polygon_2: autoDraw = False
+35.7615 	EXP 	image: autoDraw = True
+35.7615 	EXP 	image_2: autoDraw = True
+35.7615 	EXP 	polygon: autoDraw = True
+36.0616 	EXP 	image: autoDraw = False
+36.0616 	EXP 	image_2: autoDraw = False
+36.0616 	EXP 	polygon: autoDraw = False
+36.0616 	EXP 	image_3: autoDraw = True
+36.0616 	EXP 	image_4: autoDraw = True
+36.0616 	EXP 	polygon_2: autoDraw = True
+36.3472 	EXP 	New trial (rep=0, index=24): <Trial 24 (24 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 1.99999999999999, 'py2': -1.99999999999999, 'py3': 1.99999999999999, 'py4': -1.99999999999999, 'thisN': 24, 'thisTrialN': 24, 'thisRepN': 0}>
+36.3617 	EXP 	image_3: autoDraw = False
+36.3617 	EXP 	image_4: autoDraw = False
+36.3617 	EXP 	polygon_2: autoDraw = False
+36.3617 	EXP 	image: autoDraw = True
+36.3617 	EXP 	image_2: autoDraw = True
+36.3617 	EXP 	polygon: autoDraw = True
+36.6455 	EXP 	image: autoDraw = False
+36.6455 	EXP 	image_2: autoDraw = False
+36.6455 	EXP 	polygon: autoDraw = False
+36.6455 	EXP 	image_3: autoDraw = True
+36.6455 	EXP 	image_4: autoDraw = True
+36.6455 	EXP 	polygon_2: autoDraw = True
+36.9336 	EXP 	New trial (rep=0, index=25): <Trial 25 (25 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 1.89999999999999, 'py2': -1.89999999999999, 'py3': 1.89999999999999, 'py4': -1.89999999999999, 'thisN': 25, 'thisTrialN': 25, 'thisRepN': 0}>
+36.9458 	EXP 	image_3: autoDraw = False
+36.9458 	EXP 	image_4: autoDraw = False
+36.9458 	EXP 	polygon_2: autoDraw = False
+36.9458 	EXP 	image: autoDraw = True
+36.9458 	EXP 	image_2: autoDraw = True
+36.9458 	EXP 	polygon: autoDraw = True
+37.2449 	EXP 	image: autoDraw = False
+37.2449 	EXP 	image_2: autoDraw = False
+37.2449 	EXP 	polygon: autoDraw = False
+37.2449 	EXP 	image: autoDraw = False
+37.2449 	EXP 	image_2: autoDraw = False
+37.2449 	EXP 	polygon: autoDraw = False
+37.2449 	EXP 	image_3: autoDraw = True
+37.2449 	EXP 	image_4: autoDraw = True
+37.2449 	EXP 	polygon_2: autoDraw = True
+37.5309 	EXP 	New trial (rep=0, index=26): <Trial 26 (26 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 1.79999999999999, 'py2': -1.79999999999999, 'py3': 1.79999999999999, 'py4': -1.79999999999999, 'thisN': 26, 'thisTrialN': 26, 'thisRepN': 0}>
+37.5449 	EXP 	image_3: autoDraw = False
+37.5449 	EXP 	image_4: autoDraw = False
+37.5449 	EXP 	polygon_2: autoDraw = False
+37.5449 	EXP 	image_3: autoDraw = False
+37.5449 	EXP 	image_4: autoDraw = False
+37.5449 	EXP 	polygon_2: autoDraw = False
+37.5449 	EXP 	image: autoDraw = True
+37.5449 	EXP 	image_2: autoDraw = True
+37.5449 	EXP 	polygon: autoDraw = True
+37.8449 	EXP 	image: autoDraw = False
+37.8449 	EXP 	image_2: autoDraw = False
+37.8449 	EXP 	polygon: autoDraw = False
+37.8449 	EXP 	image: autoDraw = False
+37.8449 	EXP 	image_2: autoDraw = False
+37.8449 	EXP 	polygon: autoDraw = False
+37.8449 	EXP 	image_3: autoDraw = True
+37.8449 	EXP 	image_4: autoDraw = True
+37.8449 	EXP 	polygon_2: autoDraw = True
+38.1310 	EXP 	New trial (rep=0, index=27): <Trial 27 (27 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 1.69999999999999, 'py2': -1.69999999999999, 'py3': 1.69999999999999, 'py4': -1.69999999999999, 'thisN': 27, 'thisTrialN': 27, 'thisRepN': 0}>
+38.1449 	EXP 	image_3: autoDraw = False
+38.1449 	EXP 	image_4: autoDraw = False
+38.1449 	EXP 	polygon_2: autoDraw = False
+38.1449 	EXP 	image_3: autoDraw = False
+38.1449 	EXP 	image_4: autoDraw = False
+38.1449 	EXP 	polygon_2: autoDraw = False
+38.1449 	EXP 	image: autoDraw = True
+38.1449 	EXP 	image_2: autoDraw = True
+38.1449 	EXP 	polygon: autoDraw = True
+38.4457 	EXP 	image: autoDraw = False
+38.4457 	EXP 	image_2: autoDraw = False
+38.4457 	EXP 	polygon: autoDraw = False
+38.4457 	EXP 	image: autoDraw = False
+38.4457 	EXP 	image_2: autoDraw = False
+38.4457 	EXP 	polygon: autoDraw = False
+38.4457 	EXP 	image_3: autoDraw = True
+38.4457 	EXP 	image_4: autoDraw = True
+38.4457 	EXP 	polygon_2: autoDraw = True
+38.7309 	EXP 	New trial (rep=0, index=28): <Trial 28 (28 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 1.59999999999999, 'py2': -1.59999999999999, 'py3': 1.59999999999999, 'py4': -1.59999999999999, 'thisN': 28, 'thisTrialN': 28, 'thisRepN': 0}>
+38.7449 	EXP 	image_3: autoDraw = False
+38.7449 	EXP 	image_4: autoDraw = False
+38.7449 	EXP 	polygon_2: autoDraw = False
+38.7449 	EXP 	image_3: autoDraw = False
+38.7449 	EXP 	image_4: autoDraw = False
+38.7449 	EXP 	polygon_2: autoDraw = False
+38.7449 	EXP 	image: autoDraw = True
+38.7449 	EXP 	image_2: autoDraw = True
+38.7449 	EXP 	polygon: autoDraw = True
+39.0450 	EXP 	image: autoDraw = False
+39.0450 	EXP 	image_2: autoDraw = False
+39.0450 	EXP 	polygon: autoDraw = False
+39.0450 	EXP 	image: autoDraw = False
+39.0450 	EXP 	image_2: autoDraw = False
+39.0450 	EXP 	polygon: autoDraw = False
+39.0450 	EXP 	image_3: autoDraw = True
+39.0450 	EXP 	image_4: autoDraw = True
+39.0450 	EXP 	polygon_2: autoDraw = True
+39.3308 	EXP 	New trial (rep=0, index=29): <Trial 29 (29 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 1.49999999999998, 'py2': -1.49999999999998, 'py3': 1.49999999999998, 'py4': -1.49999999999998, 'thisN': 29, 'thisTrialN': 29, 'thisRepN': 0}>
+39.3449 	EXP 	image_3: autoDraw = False
+39.3449 	EXP 	image_4: autoDraw = False
+39.3449 	EXP 	polygon_2: autoDraw = False
+39.3449 	EXP 	image_3: autoDraw = False
+39.3449 	EXP 	image_4: autoDraw = False
+39.3449 	EXP 	polygon_2: autoDraw = False
+39.3449 	EXP 	image: autoDraw = True
+39.3449 	EXP 	image_2: autoDraw = True
+39.3449 	EXP 	polygon: autoDraw = True
+39.6795 	EXP 	image: autoDraw = False
+39.6795 	EXP 	image_2: autoDraw = False
+39.6795 	EXP 	polygon: autoDraw = False
+39.6795 	EXP 	image_3: autoDraw = True
+39.6795 	EXP 	image_4: autoDraw = True
+39.6795 	EXP 	polygon_2: autoDraw = True
+39.9353 	EXP 	New trial (rep=0, index=30): <Trial 30 (30 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 1.39999999999998, 'py2': -1.39999999999998, 'py3': 1.39999999999998, 'py4': -1.39999999999998, 'thisN': 30, 'thisTrialN': 30, 'thisRepN': 0}>
+39.9463 	EXP 	image_3: autoDraw = False
+39.9463 	EXP 	image_4: autoDraw = False
+39.9463 	EXP 	polygon_2: autoDraw = False
+39.9463 	EXP 	image: autoDraw = True
+39.9463 	EXP 	image_2: autoDraw = True
+39.9463 	EXP 	polygon: autoDraw = True
+40.2463 	EXP 	image: autoDraw = False
+40.2463 	EXP 	image_2: autoDraw = False
+40.2463 	EXP 	polygon: autoDraw = False
+40.2463 	EXP 	image_3: autoDraw = True
+40.2463 	EXP 	image_4: autoDraw = True
+40.2463 	EXP 	polygon_2: autoDraw = True
+40.5355 	EXP 	New trial (rep=0, index=31): <Trial 31 (31 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 1.29999999999998, 'py2': -1.29999999999998, 'py3': 1.29999999999998, 'py4': -1.29999999999998, 'thisN': 31, 'thisTrialN': 31, 'thisRepN': 0}>
+40.5465 	EXP 	image_3: autoDraw = False
+40.5465 	EXP 	image_4: autoDraw = False
+40.5465 	EXP 	polygon_2: autoDraw = False
+40.5465 	EXP 	image: autoDraw = True
+40.5465 	EXP 	image_2: autoDraw = True
+40.5465 	EXP 	polygon: autoDraw = True
+40.8457 	EXP 	image: autoDraw = False
+40.8457 	EXP 	image_2: autoDraw = False
+40.8457 	EXP 	polygon: autoDraw = False
+40.8457 	EXP 	image_3: autoDraw = True
+40.8457 	EXP 	image_4: autoDraw = True
+40.8457 	EXP 	polygon_2: autoDraw = True
+41.1354 	EXP 	New trial (rep=0, index=32): <Trial 32 (32 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 1.19999999999998, 'py2': -1.19999999999998, 'py3': 1.19999999999998, 'py4': -1.19999999999998, 'thisN': 32, 'thisTrialN': 32, 'thisRepN': 0}>
+41.1464 	EXP 	image_3: autoDraw = False
+41.1464 	EXP 	image_4: autoDraw = False
+41.1464 	EXP 	polygon_2: autoDraw = False
+41.1464 	EXP 	image: autoDraw = True
+41.1464 	EXP 	image_2: autoDraw = True
+41.1464 	EXP 	polygon: autoDraw = True
+41.4463 	EXP 	image: autoDraw = False
+41.4463 	EXP 	image_2: autoDraw = False
+41.4463 	EXP 	polygon: autoDraw = False
+41.4463 	EXP 	image_3: autoDraw = True
+41.4463 	EXP 	image_4: autoDraw = True
+41.4463 	EXP 	polygon_2: autoDraw = True
+41.7323 	EXP 	New trial (rep=0, index=33): <Trial 33 (33 in rep 0) data={'px1': 2.2, 'px2': -2.2, 'px3': -2.2, 'px4': 2.2, 'py1': 1.09999999999998, 'py2': -1.09999999999998, 'py3': 1.09999999999998, 'py4': -1.09999999999998, 'thisN': 33, 'thisTrialN': 33, 'thisRepN': 0}>
+41.7461 	EXP 	image_3: autoDraw = False
+41.7461 	EXP 	image_4: autoDraw = False
+41.7461 	EXP 	polygon_2: autoDraw = False
+41.7461 	EXP 	image: autoDraw = True
+41.7461 	EXP 	image_2: autoDraw = True
+41.7461 	EXP 	polygon: autoDraw = True
+42.0464 	EXP 	image: autoDraw = False
+42.0464 	EXP 	image_2: autoDraw = False
+42.0464 	EXP 	polygon: autoDraw = False
+42.0464 	EXP 	image_3: autoDraw = True
+42.0464 	EXP 	image_4: autoDraw = True
+42.0464 	EXP 	polygon_2: autoDraw = True
+42.3648 	DEBUG 	Read excel file with openpyxl: Incrementos_loop_4.xlsx
+42.3707 	EXP 	Imported Incrementos_loop_4.xlsx as conditions, 34 conditions, 8 params
+42.3805 	DEBUG 	Read excel file with openpyxl: Incrementos.xlsx
+42.3845 	EXP 	Imported Incrementos.xlsx as conditions, 34 conditions, 8 params
+42.3942 	DEBUG 	Read excel file with openpyxl: incremento_loop2.xlsx
+42.3985 	EXP 	Imported incremento_loop2.xlsx as conditions, 34 conditions, 8 params
+42.4070 	DEBUG 	Read excel file with openpyxl: incremento_loop3.xlsx
+42.4106 	EXP 	Imported incremento_loop3.xlsx as conditions, 34 conditions, 8 params
+42.4191 	DEBUG 	Read excel file with openpyxl: Incrementos_loop_4.xlsx
+42.4226 	EXP 	Imported Incrementos_loop_4.xlsx as conditions, 34 conditions, 8 params
+42.4336 	DEBUG 	Read excel file with openpyxl: Incrementos.xlsx
+42.4381 	EXP 	Imported Incrementos.xlsx as conditions, 34 conditions, 8 params
+42.4492 	DEBUG 	Read excel file with openpyxl: incremento_loop2.xlsx
+42.4530 	EXP 	Imported incremento_loop2.xlsx as conditions, 34 conditions, 8 params
+42.4620 	DEBUG 	Read excel file with openpyxl: incremento_loop3.xlsx
+42.4654 	EXP 	Imported incremento_loop3.xlsx as conditions, 34 conditions, 8 params
+42.4739 	DEBUG 	Read excel file with openpyxl: Incrementos_loop_4.xlsx
+42.4774 	EXP 	Imported Incrementos_loop_4.xlsx as conditions, 34 conditions, 8 params
+42.4943 	EXP 	image_3: autoDraw = False
+42.4943 	EXP 	image_4: autoDraw = False
+42.4943 	EXP 	polygon_2: autoDraw = False
+42.4943 	EXP 	polygon_5: autoDraw = True
+43.8486 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'LoopName': 'Estimulo_10', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+43.8591 	DEBUG 	Read excel file with openpyxl: Incrementos.xlsx
+43.8647 	EXP 	Imported Incrementos.xlsx as conditions, 34 conditions, 8 params
+43.8748 	DEBUG 	Read excel file with openpyxl: incremento_loop2.xlsx
+43.8785 	EXP 	Imported incremento_loop2.xlsx as conditions, 34 conditions, 8 params
+43.8870 	DEBUG 	Read excel file with openpyxl: incremento_loop3.xlsx
+43.8905 	EXP 	Imported incremento_loop3.xlsx as conditions, 34 conditions, 8 params
+43.8995 	DEBUG 	Read excel file with openpyxl: Incrementos_loop_4.xlsx
+43.9030 	EXP 	Imported Incrementos_loop_4.xlsx as conditions, 34 conditions, 8 params
+43.9114 	DEBUG 	Read excel file with openpyxl: Incrementos.xlsx
+43.9149 	EXP 	Imported Incrementos.xlsx as conditions, 34 conditions, 8 params
+43.9240 	DEBUG 	Read excel file with openpyxl: incremento_loop2.xlsx
+43.9275 	EXP 	Imported incremento_loop2.xlsx as conditions, 34 conditions, 8 params
+43.9359 	DEBUG 	Read excel file with openpyxl: incremento_loop3.xlsx
+43.9396 	EXP 	Imported incremento_loop3.xlsx as conditions, 34 conditions, 8 params
+43.9491 	DEBUG 	Read excel file with openpyxl: Incrementos_loop_4.xlsx
+43.9526 	EXP 	Imported Incrementos_loop_4.xlsx as conditions, 34 conditions, 8 params
+43.9612 	DEBUG 	Read excel file with openpyxl: Incrementos.xlsx
+43.9646 	EXP 	Imported Incrementos.xlsx as conditions, 34 conditions, 8 params
+43.9732 	DEBUG 	Read excel file with openpyxl: incremento_loop2.xlsx
+43.9767 	EXP 	Imported incremento_loop2.xlsx as conditions, 34 conditions, 8 params
+43.9771 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'px1': 1.1, 'px2': -1.1, 'px3': 1.1, 'px4': -1.1, 'py1': 2.2, 'py2': -2.2, 'py3': -2.2, 'py4': 2.2, 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+43.9943 	EXP 	polygon_5: autoDraw = False
+43.9943 	EXP 	image_9: autoDraw = True
+43.9943 	EXP 	polygon_6: autoDraw = True
+43.9943 	EXP 	image_10: autoDraw = True
+44.1781 	EXP 	image_9: autoDraw = False
+44.1781 	EXP 	polygon_6: autoDraw = False
+44.1781 	EXP 	image_10: autoDraw = False
+44.1781 	EXP 	image_11: autoDraw = True
+44.1781 	EXP 	image_12: autoDraw = True
+44.1781 	EXP 	polygon_7: autoDraw = True
+44.4637 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'px1': 1.2, 'px2': -1.2, 'px3': 1.2, 'px4': -1.2, 'py1': 2.2, 'py2': -2.2, 'py3': -2.2, 'py4': 2.2, 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+44.4781 	EXP 	image_11: autoDraw = False
+44.4781 	EXP 	image_12: autoDraw = False
+44.4781 	EXP 	polygon_7: autoDraw = False
+44.4781 	EXP 	image_9: autoDraw = True
+44.4781 	EXP 	polygon_6: autoDraw = True
+44.4781 	EXP 	image_10: autoDraw = True
+44.7783 	EXP 	image_9: autoDraw = False
+44.7783 	EXP 	polygon_6: autoDraw = False
+44.7783 	EXP 	image_10: autoDraw = False
+44.7783 	EXP 	image_11: autoDraw = True
+44.7783 	EXP 	image_12: autoDraw = True
+44.7783 	EXP 	polygon_7: autoDraw = True
+45.0515 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'px1': 1.3, 'px2': -1.3, 'px3': 1.3, 'px4': -1.3, 'py1': 2.2, 'py2': -2.2, 'py3': -2.2, 'py4': 2.2, 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+45.0627 	EXP 	image_11: autoDraw = False
+45.0627 	EXP 	image_12: autoDraw = False
+45.0627 	EXP 	polygon_7: autoDraw = False
+45.0627 	EXP 	image_9: autoDraw = True
+45.0627 	EXP 	polygon_6: autoDraw = True
+45.0627 	EXP 	image_10: autoDraw = True
+45.3627 	EXP 	image_9: autoDraw = False
+45.3627 	EXP 	polygon_6: autoDraw = False
+45.3627 	EXP 	image_10: autoDraw = False
+45.3627 	EXP 	image_11: autoDraw = True
+45.3627 	EXP 	image_12: autoDraw = True
+45.3627 	EXP 	polygon_7: autoDraw = True
+45.6494 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'px1': 1.4, 'px2': -1.4, 'px3': 1.4, 'px4': -1.4, 'py1': 2.2, 'py2': -2.2, 'py3': -2.2, 'py4': 2.2, 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+45.6620 	EXP 	image_11: autoDraw = False
+45.6620 	EXP 	image_12: autoDraw = False
+45.6620 	EXP 	polygon_7: autoDraw = False
+45.6620 	EXP 	image_11: autoDraw = False
+45.6620 	EXP 	image_12: autoDraw = False
+45.6620 	EXP 	polygon_7: autoDraw = False
+45.6620 	EXP 	image_9: autoDraw = True
+45.6620 	EXP 	polygon_6: autoDraw = True
+45.6620 	EXP 	image_10: autoDraw = True
+45.6717 	DATA 	Keypress: escape
+45.7492 	EXP 	Estimulo_ICE: status = STOPPED
+45.7628 	EXP 	image_9: autoDraw = False
+45.7628 	EXP 	polygon_6: autoDraw = False
+45.7628 	EXP 	image_10: autoDraw = False
+45.7666 	EXP 	Estimulo_ICE: status = STOPPED
+45.8022 	INFO 	saved data to 'C:\\Users\\ICe\\Desktop\\Júlio\\segundo_estimulo\\Estimulo_psychopy_Builder-main\\Estimulo_psychopy_Builder-main\\data/352988_Estimulo_ICE_2025-03-20_15h54.10.886.csv'
+45.8082 	INFO 	saved data to C:\Users\ICe\Desktop\Júlio\segundo_estimulo\Estimulo_psychopy_Builder-main\Estimulo_psychopy_Builder-main\data/352988_Estimulo_ICE_2025-03-20_15h54.10.886.psydat
+46.3613 	DEBUG 	Saving data for Estimulo_ICE ExperimentHandler
